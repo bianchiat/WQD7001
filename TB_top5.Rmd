@@ -1,0 +1,110 @@
+---
+title: "Tuberculosis - World Distribution and Awareness" 
+author: "Goh Bian Chiat, Chong Ming Keat, Tan Chee Siang, Sofia Atikah"
+date: "30 May 2019"
+output: ioslides_presentation
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::knit_hooks$set(output = function(x, options){
+  if(!is.null(options$max_height)){
+    paste('<pre style = "max-height:',
+          options$max_height, 
+          ';float: left; width: 910px; overflow-y: auto;">',
+          x,
+          "</pre>",
+          sep = "")
+  }else{
+    x
+  }
+  
+})
+
+
+# import library
+library(jsonlite)
+library(geojsonio)
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(gridExtra)
+library(wordcloud)
+library(tm)
+library(scales)
+library(stringr)
+library(lubridate)
+library(reshape2)
+library(ggcorrplot)
+library(highcharter)
+library(lattice)
+library(treemap)
+library(tidyr)
+
+df<-read.csv("TB Combined dataset_3.csv",na.strings = NA,fill = NA)
+
+
+df1<-df %>%
+  filter(Year=="2016")%>%
+  group_by(Country)
+
+
+df1$New_cases_RR.MDR<-as.numeric(as.character(df1$New_cases_RR.MDR))
+```
+
+## Significance/Motivation
+- Usually caused by *Mycobacterium tuberculosis* bacteria that generally affects the lungs.
+- TB patient suffer from coughing, it also ejected the TB germ. The germ can travel airborne and only several (of the germ) can infect a healthy person nearby, hence making TB a very contagious disease. 
+- Tuberculosis ranked as the 2nd leading infectious causes of deaths, and one of the most burden-inflicting disease in the world. 
+- In 2017, 10 million patient fell ill, with 1.6 million patient died from the disease.
+- One of the most serious concern of TB is the raise of multidrug-resistant TB (MDR-TB) and even the more severe extensive drug-resistance TB (XDR-TB) due the inappropriate and incorrect TB prescription. 
+
+
+## Data Info
+
+The data of tuberculosis were obtained from:
+
+- [Source-Data Repository for WHO Tuberculosis](http://apps.who.int/gho/data/node.main.1315?lang=en).
+- [Boston University – Rutgers University Tuberculosis Research Unit (BU-RU TBRU)](https://www.bumc.bu.edu/tbru/).
+- [Mayo Clinic Tuberculosis](https://www.bumc.bu.edu/tbru/).
+- [WHO Tuberculosis](https://www.who.int/news-room/fact-sheets/detail/tuberculosis).
+- [Wikipedia Tuberculosis](https://en.wikipedia.org/wiki/Tuberculosis). 
+
+
+## Top 5 Highest Multi Drug Resistance TB incident in 2016 by country
+
+```{r,echo=FALSE,max_height = "200px", max_width = '200px' }
+#df1%>%
+#  select(Country,New_cases_RR.MDR) %>%
+#  arrange(desc(New_cases_RR.MDR)) %>%
+#  head(5)
+
+#df1%>%
+#  select(Country,New_cases_RR.MDR) %>%
+#  drop_na()%>%
+#  arrange(desc(New_cases_RR.MDR)) %>%
+#  tail(5)
+
+TSpecial <- ttheme_minimal(
+  core=list(bg_params = list(fill = blues9[1:4], col=NA),
+            fg_params=list(fontface=6)),
+  colhead=list(fg_params=list(col="olivedrab", fontface=4L)),
+  rowhead=list(fg_params=list(col="orangered4", fontface=3L)))
+
+df1%>%
+  select(Country,New_cases_RR.MDR) %>%
+  arrange(desc(New_cases_RR.MDR)) %>%
+  head(5)%>%
+  grid.table(theme = TSpecial)
+
+```
+
+
+
+## Global TB Heatmap
+
+The dashboard of this presentation can be found on [Shiny App](https://bianchiat.shinyapps.io/WQD7001_Group_One_Presentation/).
+<br>
+<br>
+The code can be found on this [Github](https://github.com/bianchiat/WQD7001) repository. 
+
