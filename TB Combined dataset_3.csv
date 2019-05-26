@@ -1,0 +1,3670 @@
+Region,Country,Year,Treat_Succ_New_Cases,Treat_Succ_With_Previous_TB,Treat_Succ_HIVpositive_Cases,Treat_Succ_MDR_Cases,Treat_Succ_XDR_Cases,TB_Death_ex_HIVpositive,TB_Death_HIVneg_per100k_pop,New_cases_RR/MDR,Confirm_cases_RR/MDR,Cases_started_for_RR/MDR
+America,Antigua and Barbuda,2008,100,,,,,0,0,0,0,0
+America,Barbados,2012,100,,,,,0,0,0,0,0
+America,Barbados,2010,100,,100,,,0,0,0,0,0
+America,Barbados,2009,100,,,,,0,0,0,0,0
+America,Dominica,2014,100,,100,,,0,0,0,0,0
+America,Dominica,2009,100,,0,,,0,0,0,0,0
+America,Grenada,2013,100,,,,,0,0,0,0,0
+America,Grenada,2012,100,,,,,0,0,0,0,0
+America,Grenada,2011,100,,,,,0,0,0,0,0
+America,Saint Kitts and Nevis,2010,100,,,,,0,0,0,0,0
+America,Dominica,2010,100,100,100,,,0,0,12,0,0
+America,Dominica,2011,100,0,,,,0,0,50,0,0
+America,Grenada,2016,100,,,,,0,0,50,0,0
+Europe,Andorra,2015,100,,,,,0,0,75,0,0
+Europe,Andorra,2008,100,,,,,0,0,100,0,0
+Europe,Andorra,2007,100,100,,,,0,0,100,0,0
+Europe,Andorra,2012,100,,,,,0,0,,0,0
+Europe,Andorra,2011,100,0,,,,0,0,,0,0
+America,Barbados,2008,100,,100,,,1,0.47,0,0,0
+Europe,Iceland,2005,100,,100,,,2,0.69,,0,0
+Oceania,Tonga,2016,100,,,,,1,0.71,0,0,0
+Oceania,Tonga,2011,100,,,,,1,0.81,0,0,0
+America,Barbados,2016,100,,,,,3,0.91,0,0,0
+America,Barbados,2013,100,,100,,,3,0.91,0,0,0
+America,Barbados,2014,100,,,,,3,0.91,100,0,0
+Oceania,Tonga,2012,100,,,,,1,0.99,0,0,0
+Oceania,Cook Islands,2016,100,,,,,0,1.1,100,0,0
+Oceania,Tonga,2014,100,,,,,1,1.2,0,0,0
+America,Dominica,2008,100,,100,,,1,1.5,0,0,0
+Oceania,Palau,2012,100,,,,,0,1.8,100,0,0
+America,Saint Kitts and Nevis,2012,100,,,,,1,2.4,0,0,0
+Africa,Seychelles,2008,100,,,,,2,2.4,0,0,0
+America,Saint Kitts and Nevis,2011,100,,,,,1,2.5,0,0,0
+America,Saint Lucia,2013,100,,,,,6,3.5,62,0,0
+Oceania,Nauru,2009,100,100,,,,0,3.8,0,0,0
+Oceania,Palau,2005,100,,,,,1,4.7,100,0,0
+Oceania,Nauru,2008,100,,100,,,0,4.8,0,0,0
+Oceania,Nauru,2014,100,100,,,,1,6.8,0,0,0
+Europe,Iceland,2008,100,,100,,,1,0.32,,1,0
+America,Dominica,2016,100,,100,,,1,0.71,0,1,0
+European Union,Malta,2006,100,,100,,,1,0.24,,2,0
+America,Barbados,2007,100,,100,,,4,1.4,100,8,0
+America,Dominica,2012,100,100,,100,,1,1.4,80,0,1
+America,Dominica,2013,100,,100,,,3,4.2,100,1,1
+Europe,Andorra,2003,100,,,,,0,0,,,
+Europe,Andorra,2002,100,,,,,0,0,,,
+Europe,Andorra,2001,100,,,,,0,0,,,
+America,Antigua and Barbuda,2004,100,,100,,,0,0,,,
+America,Antigua and Barbuda,2002,100,,,,,0,0,,,
+America,Antigua and Barbuda,2001,100,,,,,0,0,,,
+America,Antigua and Barbuda,2000,100,,,,,0,0,,,
+America,Barbados,2006,100,,100,,,0,0,,,
+America,Barbados,2003,100,100,,,,0,0,,,
+America,Grenada,2007,100,,,,,0,0,,,
+Africa,Seychelles,2003,100,,,,,0,0,,,
+Europe,Monaco,2013,100,,,,100,0,0.05,,,
+European Union,Malta,2003,100,,,,,1,0.24,,,
+European Union,Malta,2001,100,,,,,1,0.26,,,
+Europe,Iceland,2000,100,100,,,,1,0.36,,,
+Oceania,Cook Islands,2005,100,,,,,0,0.48,,,
+Oceania,Cook Islands,2002,100,,,,,0,0.51,,,
+Oceania,Cook Islands,2007,100,,,,,0,0.56,,,
+Europe,Iceland,2015,100,,,,,2,0.61,,,
+European Union,Malta,2000,100,100,,,,3,0.77,,,
+America,Saint Lucia,2000,100,100,,,,1,0.91,,,
+America,Grenada,2002,100,,,,,1,0.95,,,
+Europe,Iceland,2002,100,,,,,3,1,,,
+America,Dominica,2001,100,,,,,1,1.6,,,
+Oceania,Tonga,2006,100,,,,,2,1.7,,,
+Europe,Iceland,2003,100,,,,,6,2.1,,,
+Oceania,Palau,2004,100,,,,,0,2.4,,,
+Oceania,Nauru,2007,100,100,,,,0,2.8,,,
+Oceania,Nauru,2001,100,,,,,0,2.8,,,
+America,Saint Vincent and the Grenadines,2000,100,100,,,,3,3.2,,,
+America,Saint Kitts and Nevis,2006,100,,,,,2,4.3,,,
+Oceania,Palau,2001,100,,,,,1,5.3,,,
+Oceania,Marshall Islands,2002,100,,,,,7,13,,,
+Oceania,Micronesia,2001,100,75,,,,14,13,,,
+Oceania,Tuvalu,2004,100,,,,,2,16,,,
+Oceania,Niue,2002,100,,,,,0,21,,,
+Europe,Andorra,1998,100,100,,,,,,,,
+America,Barbados,1996,100,,,,,,,,,
+Oceania,Cook Islands,1997,100,,,,,,,,,
+Oceania,Cook Islands,1996,100,,,,,,,,,
+Oceania,Cook Islands,1995,100,,,,,,,,,
+European Union,Cyprus,1995,100,,,,,,,,,
+America,Dominica,1996,100,,,,,,,,,
+Europe,Iceland,1999,100,50,,,,,,,,
+Europe,Iceland,1998,100,,,,,,,,,
+Europe,Iceland,1996,100,,,,,,,,,
+Europe,Iceland,1995,100,,,,,,,,,
+European Union,Luxembourg,1997,100,,,,,,,,,
+European Union,Luxembourg,1996,100,,,,,,,,,
+European Union,Luxembourg,1995,100,,,,,,,,,
+European Union,Malta,1998,100,100,,,,,,,,
+European Union,Malta,1997,100,50,,,,,,,,
+European Union,Malta,1996,100,,,,,,,,,
+European Union,Malta,1995,100,,,,,,,,,
+Oceania,Niue,1999,100,100,,,,,,,,
+Oceania,Palau,1998,100,,,,,,,,,
+Oceania,Samoa,1996,100,100,,,,,,,,
+Europe,San Marino,1997,100,100,,,,,,,,
+Africa,Seychelles,1997,100,,,,,,,,,
+Africa,Seychelles,1996,100,,,,,,,,,
+Oceania,Tuvalu,1999,100,,,,,,,,,
+Middle East,Bahrain,2009,99,,88,,,8,0.65,15,0,0
+Africa,Sao Tome and Principe,2006,99,67,,,,51,32,,,
+Oceania,Vanuatu,1996,99,,,,,,,,,
+Middle East,Oman,2010,98,100,100,100,,21,0.7,59,2,1
+Middle East,Oman,2011,98,67,100,100,,21,0.66,,4,4
+Middle East,Oman,2009,98,100,100,100,,20,0.7,74,5,5
+Europe,Bosnia and Herzegovina,2010,98,95,,57,,180,4.9,100,2,6
+Europe,Bosnia and Herzegovina,2004,98,92,,,,190,4.9,,,
+Europe,Bosnia and Herzegovina,2001,98,96,,,,190,4.9,,,
+Middle East,Bahrain,2006,97,,0,100,,5,0.52,2,2,0
+Europe,Bosnia and Herzegovina,2006,97,95,,,,190,4.9,100,7,0
+Europe,Bosnia and Herzegovina,2007,97,92,,,,190,4.9,,8,0
+Europe,Bosnia and Herzegovina,2005,97,92,,,,190,4.9,100,21,0
+Middle East,Oman,2008,97,100,88,100,,19,0.7,39,4,2
+Middle East,Oman,2012,97,100,100,83,50,22,0.63,,7,6
+Middle East,Kuwait,2014,97,,100,100,,13,0.35,,9,9
+Asia,Maldives,2000,97,100,,,,0,0,,,
+Middle East,Bahrain,2003,97,,,,,2,0.3,,,
+Asia,Maldives,2004,97,80,100,,,3,0.93,,,
+Europe,Norway,2003,97,50,,100,,55,1.2,,,
+Asia,Maldives,2001,97,100,,,,17,5.9,,,
+Asia,Bhutan,1995,97,59,,,,,,,,
+Europe,Bosnia and Herzegovina,1995,97,,,,,,,,,
+Asia,Maldives,1995,97,,,,,,,,,
+European Union,Malta,2005,96,100,,,,1,0.25,,0,0
+Middle East,Bahrain,2010,96,,67,100,,10,0.79,70,0,0
+Europe,Bosnia and Herzegovina,2009,96,84,,100,,180,4.9,,2,0
+Middle East,Oman,2013,96,,100,100,,22,0.6,,3,2
+Middle East,Oman,2014,96,,100,17,,22,0.57,,8,8
+Oceania,Samoa,2005,96,,,,,2,1.3,,,
+Oceania,Tonga,2007,96,,,,,2,2.1,,,
+Africa,Comoros,2002,96,100,,,,47,8.3,,,
+Africa,Sao Tome and Principe,2005,96,,0,,,46,30,,,
+Asia,Bhutan,1996,96,,,,,,,,,
+Middle East,Lebanon,1999,96,83,,,,,,,,
+America,Saint Lucia,2008,95,0,75,,,0,0,0,0,0
+Oceania,Samoa,2015,95,,,,,2,0.93,0,0,0
+Asia,Bhutan,2016,95,100,67,,,160,20,100,55,55
+Asia,China,2011,95,90,85,50,25,46000,3.4,2.6,1686,1155
+Asia,China,2010,95,90,76,42,,53000,3.9,0,2792,1222
+Asia,China,2012,95,90,47,42,13,42000,3,4.3,3891,1906
+Asia,China,2013,95,90,82,55,22,42000,3,11,4183,2184
+European Union,Italy,2003,95,100,,,,510,0.87,,,
+Europe,Bosnia and Herzegovina,2002,95,93,,,,190,4.9,,,
+Asia,China,2001,95,92,,,,103000,8,,,
+Asia,Maldives,2002,95,75,,,,25,8.5,,,
+Oceania,Vanuatu,2004,95,100,,,,20,10,,,
+Middle East,Bahrain,1999,95,,,,,,,,,
+Asia,Cambodia,1998,95,91,,,,,,,,
+Asia,China,1999,95,95,,,,,,,,
+Asia,China,1998,95,95,,,,,,,,
+Asia,China,1997,95,,,,,,,,,
+Oceania,Micronesia,1999,95,100,,,,,,,,
+Middle East,Oman,1999,95,,,,,,,,,
+Africa,Comoros,2013,94,67,50,,,59,8,0,0,0
+Oceania,Solomon Islands,2013,94,100,,,,49,8.8,0,0,0
+Oceania,Solomon Islands,2016,94,,,,,55,9.2,12,0,0
+Oceania,Vanuatu,2008,94,0,,,,22,9.6,0,0,0
+Oceania,Micronesia,2014,94,0,,,,26,25,,1,0
+Asia,Cambodia,2009,94,79,,78,,3700,27,0,2,0
+Middle East,Bahrain,2005,94,,100,,,10,1.1,2,4,0
+Middle East,Oman,2005,94,,70,,,17,0.67,95,5,0
+Oceania,Solomon Islands,2015,94,,,,,57,9.7,14,1,1
+European Union,Slovakia,2013,94,67,,0,,20,0.38,96,8,7
+Asia,Cambodia,2008,94,79,,68,,3800,27,,31,30
+Asia,Cambodia,2011,94,74,,86,,3600,25,,61,57
+Asia,Cambodia,2015,94,88,,71,,3300,21,0.77,77,75
+Asia,Cambodia,2016,94,92,,,,3200,20,1.1,101,101
+Asia,Cambodia,2012,94,88,,79,,3500,24,0.13,156,110
+Asia,China,2009,94,90,73,46,,55000,4.1,0,474,458
+Asia,Bangladesh,2016,94,86,49,,,66000,40,16,969,918
+Asia,China,2014,94,88,86,41,32,39000,2.8,19,5807,2846
+Asia,Pakistan,2016,94,78,,,,54000,28,3.3,3331,2881
+Asia,China,2015,94,83,87,41,,39000,2.8,8.2,9662,5691
+Europe,Bosnia and Herzegovina,2003,94,94,,,,190,4.9,,,
+Europe,Bosnia and Herzegovina,2000,94,93,,,,190,4.9,,,
+Africa,Comoros,2007,94,67,,,,46,7.2,,,
+Africa,Comoros,2005,94,100,0,,,50,8.2,,,
+Africa,Comoros,2004,94,,,,,57,9.6,,,
+Oceania,Kiribati,2002,94,100,,,,32,37,,,
+Asia,Cambodia,1996,94,89,,,,,,,,
+Asia,China,1996,94,94,,,,,,,,
+America,Cuba,1998,94,84,,,,,,,,
+Asia,Maldives,1999,94,100,,,,,,,,
+Asia,Maldives,1998,94,100,,,,,,,,
+Asia,Maldives,1997,94,50,,,,,,,,
+Oceania,Samoa,1999,94,,,,,,,,,
+Oceania,Tonga,1998,94,,,,,,,,,
+Oceania,Tonga,2015,93,,,,,1,1.2,0,0,0
+Oceania,Vanuatu,2009,93,100,,,,12,5.4,0,0,0
+Oceania,Solomon Islands,2008,93,100,,,,53,11,0,0,0
+Oceania,Tuvalu,2010,93,,,,,1,13,0,0,0
+Oceania,Kiribati,2009,93,100,100,,,33,32,0,0,0
+Asia,laos,2008,93,90,,,,4100,68,0,0,0
+Africa,Mauritius,2006,93,100,75,50,,8,0.67,100,2,0
+Middle East,Oman,2007,93,100,43,100,,19,0.7,66,5,0
+European Union,Slovakia,2005,93,87,100,,,48,0.88,82,11,0
+America,El Salvador,2005,93,68,73,,,110,1.8,1.1,14,0
+Asia,Cambodia,2007,93,83,,69,,3900,28,0,16,0
+Asia,China,2007,93,89,67,,,62000,4.6,,79,0
+Asia,Mongolia,2007,93,76,33,78,,270,11,0.48,123,0
+Europe,Montenegro,2015,93,,,100,,1,0.2,71,1,1
+Oceania,Micronesia,2011,93,100,,,,20,20,98,1,3
+European Union,Slovakia,2011,93,88,,33,,26,0.49,92,6,3
+America,El Salvador,2011,93,90,74,100,,76,1.2,22,6,4
+America,El Salvador,2013,93,76,69,90,,83,1.3,14,14,4
+America,El Salvador,2012,93,60,79,100,,94,1.5,20,10,10
+Africa,Mali,2012,93,73,53,67,,1900,12,0.62,12,40
+Middle East,Iraq,2016,93,93,,,,1100,3,78,187,87
+Asia,Cambodia,2014,93,,,76,,3400,22,5.3,110,110
+Asia,Cambodia,2013,93,90,,75,,3400,23,2.4,121,121
+Asia,Afghanistan,2016,93,90,0,,,11000,33,,86,149
+Asia,Vietnam,2011,93,82,74,72,,17000,19,0,601,578
+Asia,Bangladesh,2013,93,86,75,75,0,76000,48,0.42,1024,684
+Asia,Bangladesh,2015,93,86,68,78,,70000,44,5.5,954,880
+Asia,Bangladesh,2014,93,88,62,74,0,75000,47,12,994,945
+Asia,Pakistan,2013,93,80,81,69,30,55000,30,4.6,2596,1495
+Asia,Pakistan,2015,93,83,,64,29,54000,29,1,3059,2553
+Asia,Pakistan,2014,93,82,,65,42,55000,29,0.29,3243,2662
+Asia,China,2016,93,81,51,,,39000,2.8,13,10898,5405
+America,Cuba,2001,93,89,,,,39,0.35,,,
+America,Cuba,2003,93,82,,,,53,0.47,,,
+America,Cuba,2000,93,84,,,,54,0.49,,,
+Africa,Mauritius,2000,93,0,,,,6,0.54,,,
+Middle East,Oman,2004,93,,,,,17,0.7,,,
+Africa,Mauritius,2001,93,50,,,,9,0.78,,,
+Middle East,Oman,2000,93,86,,,,18,0.79,,,
+America,Barbados,2005,93,,100,,,2,0.86,,,
+Middle East,Bahrain,2004,93,,0,,,10,1.2,,,
+Oceania,Tonga,2000,93,100,,,,2,2.3,,,
+Asia,China,2008,93,90,75,46,,56000,4.2,,,
+Asia,China,2003,93,89,,,,88000,6.7,,,
+Africa,Comoros,2000,93,100,,,,43,7.9,,,
+Asia,China,2000,93,89,,,,112000,8.7,,,
+Oceania,Micronesia,2000,93,85,,,,13,12,,,
+Europe,Belarus,2005,93,,,,,1200,13,,,
+Asia,Bhutan,2001,93,90,,,,140,24,,,
+Asia,Vietnam,2001,93,85,,,,28000,35,,,
+Asia,Cambodia,2003,93,87,,,,4800,38,,,
+Asia,laos,2009,93,89,,,,4000,66,,,
+Asia,Cambodia,1999,93,90,,,,,,,,
+Asia,China,1995,93,92,,,,,,,,
+Africa,Comoros,1999,93,100,,,,,,,,
+Asia,South Korea,1999,93,63,,,,,,,,
+Asia,Maldives,1996,93,100,,,,,,,,
+Oceania,Papua New Guinea,1997,93,67,,,,,,,,
+America,Peru,1999,93,81,,,,,,,,
+Asia,Singapore,1999,93,,,,,,,,,
+Middle East,United Arab Emirates,1998,93,,,,,,,,,
+Oceania,Tonga,2008,92,,,,,1,1.2,0,0,0
+Europe,Iceland,2007,92,50,,,,5,1.7,,1,0
+America,El Salvador,2006,92,76,71,,,69,1.1,0,2,0
+Asia,China,2006,92,89,56,,,68000,5.1,0,2,0
+Middle East,Lebanon,2005,92,100,67,,,34,0.85,37,3,0
+Europe,Albania,2012,92,67,86,,,9,0.29,76,5,0
+Europe,Albania,2011,92,83,50,,,9,0.29,87,11,0
+Europe,Bosnia and Herzegovina,2008,92,75,,,,190,4.9,100,12,0
+America,Peru,2007,92,81,61,23,,2600,9.1,0.92,945,0
+America,El Salvador,2010,92,90,79,100,,100,1.7,0,2,2
+Africa,Cabo Verde,2014,92,58,85,100,,21,4,0,5,5
+America,El Salvador,2008,92,84,78,60,,94,1.5,1.1,6,5
+Asia,Bhutan,2009,92,82,,64,,150,22,1.6,15,11
+Asia,Bhutan,2012,92,35,,100,,160,21,12,16,11
+America,El Salvador,2015,92,56,74,89,,82,1.3,49,25,22
+Asia,South Korea,2011,92,84,,,,18000,72,0,38,25
+Africa,Burundi,2015,92,83,87,96,,2200,22,8.7,44,41
+Asia,Mongolia,2008,92,73,100,77,,280,11,4.1,115,44
+Asia,Bhutan,2015,92,75,,91,,130,17,53,49,49
+Asia,South Korea,2012,92,84,,86,,18000,73,0,25,50
+Middle East,Iraq,2014,92,79,,49,,1200,3.4,38,196,58
+Africa,Burundi,2016,92,78,85,,,2000,19,5,80,80
+Asia,Mongolia,2009,92,73,75,74,,280,11,6.7,171,88
+Asia,Vietnam,2010,92,69,71,78,,18000,21,0,101,101
+Asia,South Korea,2013,92,83,,84,,16000,64,0,244,170
+Asia,Vietnam,2009,92,73,,73,0,20000,22,0,217,307
+Asia,Pakistan,2011,92,80,,70,43,56000,32,0,432,344
+Asia,Nepal,2014,92,87,73,70,,5000,17,14,406,349
+Asia,Nepal,2015,92,88,9,70,,5800,20,12,451,379
+Asia,Bangladesh,2012,92,82,81,72,25,81000,52,,901,513
+Asia,Vietnam,2015,92,77,78,74,,14000,15,7.9,2602,2131
+Asia,Vietnam,2016,92,86,49,,,13000,13,19,3084,2450
+Asia,Philippines,2014,92,83,52,46,0,29000,28,4.7,3000,2680
+European Union,Cyprus,2001,92,100,,,,1,0.11,,,
+America,Cuba,2002,92,80,,,,38,0.34,,,
+America,Cuba,2004,92,80,72,,,43,0.38,,,
+Middle East,Oman,2002,92,100,,,,17,0.74,,,
+Africa,Mauritius,2002,92,50,,,,9,0.77,,,
+Middle East,Lebanon,2003,92,78,,,,33,0.89,,,
+Oceania,Tonga,2001,92,100,,,,1,1.1,,,
+Middle East,United Arab Emirates,2006,92,75,,,,58,1.1,,,
+Middle East,Lebanon,2000,92,80,,,,49,1.5,,,
+Oceania,Samoa,2000,92,,,,,4,2.3,,,
+Africa,Tunisia,2002,92,75,,,,470,4.8,,,
+Asia,China,2004,92,89,,,,71000,5.4,,,
+Asia,China,2005,92,90,,,,73000,5.5,,,
+Middle East,Iraq,2000,92,,,,,1500,6.3,,,
+Africa,Comoros,2001,92,100,,,,36,6.4,,,
+Asia,China,2002,92,88,,,,95000,7.3,,,
+Africa,Algeria,2011,92,80,,,,2900,8,,,
+America,Peru,2002,92,83,,,,3200,12,,,
+Africa,Sao Tome and Principe,2008,92,67,50,,,22,13,,,
+Oceania,Micronesia,2003,92,50,,,,15,14,,,
+Asia,Vietnam,2008,92,83,,,,20000,23,,,
+Asia,Vietnam,2006,92,83,,,,22000,26,,,
+Asia,Vietnam,2005,92,83,,,,24000,28,,,
+Asia,Vietnam,2004,92,84,,,,24000,28,,,
+Asia,Cambodia,2006,92,85,,,,4100,30,,,
+Asia,Vietnam,2003,92,85,,,,26000,32,,,
+Asia,Vietnam,2002,92,85,,,,26000,32,,,
+Asia,Vietnam,2000,92,79,,,,29000,37,,,
+Asia,Cambodia,2002,92,89,,,,5000,40,,,
+Asia,Cambodia,2001,92,92,,,,5100,41,,,
+Asia,laos,2007,92,86,,,,4300,72,,,
+Asia,laos,2006,92,82,,,,4400,75,,,
+America,Cuba,1996,92,75,,,,,,,,
+Oceania,Fiji,1999,92,92,,,,,,,,
+Middle East,Jordan,1998,92,50,,,,,,,,
+Middle East,Jordan,1995,92,,,,,,,,,
+America,Peru,1998,92,83,,,,,,,,
+Oceania,Solomon Islands,1998,92,83,,,,,,,,
+Oceania,Solomon Islands,1997,92,100,,,,,,,,
+Asia,Vietnam,1999,92,87,,,,,,,,
+Asia,Vietnam,1998,92,84,,,,,,,,
+Europe,Iceland,2013,91,,,,,0,0,100,0,0
+Europe,Iceland,2010,91,,100,,,2,0.62,95,0,0
+America,Saint Vincent and the Grenadines,2008,91,0,83,,,1,0.89,0,0,0
+Africa,Mauritius,2012,91,100,40,,,16,1.3,100,0,0
+Oceania,Fiji,2011,91,57,100,,,28,3.2,17,0,0
+Oceania,Vanuatu,2012,91,100,,,,19,7.6,0,0,0
+Oceania,Solomon Islands,2014,91,0,,,,47,8.2,6.2,0,0
+Oceania,Solomon Islands,2011,91,100,,,,55,10,0,0,0
+Asia,Mongolia,2005,91,73,,,,270,11,0,0,0
+Oceania,Kiribati,2015,91,71,,100,,32,29,0,0,0
+Oceania,Kiribati,2011,91,74,,,,33,31,0,0,0
+Asia,South Korea,2009,91,83,,,,23000,96,0,0,0
+America,El Salvador,2007,91,83,73,100,,110,1.9,49,1,0
+Oceania,Kiribati,2005,91,100,,,,31,34,0.81,1,0
+Europe,Republic of North Macedonia,2013,91,100,,50,,20,0.98,89,2,0
+America,Cuba,2007,91,83,69,,,39,0.35,27,3,0
+Europe,Norway,2005,91,78,,,,44,0.95,,3,0
+European Union,Slovakia,2008,91,86,,25,,43,0.79,,4,0
+Africa,Tunisia,2006,91,,,,,440,4.3,0,10,0
+Asia,Mongolia,2006,91,72,,66,,270,11,2.3,98,0
+Europe,Turkey,2007,91,76,,65,,880,1.3,47,240,0
+Europe,Turkey,2006,91,76,,71,,830,1.2,45,249,0
+Europe,Turkey,2008,91,75,,68,,970,1.4,52,263,0
+Asia,Kyrgyzstan,2005,91,71,,,,850,17,20,989,0
+America,Peru,2005,91,78,52,,,2900,11,0,2748,0
+Africa,Mauritius,2010,91,86,75,50,,12,0.99,100,2,2
+Africa,Mauritius,2015,91,100,79,50,,15,1.2,94,2,2
+Asia,laos,2010,91,82,,,,3900,62,0,2,2
+America,El Salvador,2009,91,88,70,50,,79,1.3,7,4,2
+Oceania,Timor-Leste,2011,91,77,,100,,670,59,0,2,4
+Asia,Bhutan,2008,91,79,,75,,130,19,1.8,7,7
+Middle East,Syrian Arab Republic,2015,91,48,,100,,48,0.26,9,4,9
+Africa,Tunisia,2015,91,94,93,57,,360,3.2,33,13,13
+Middle East,Syrian Arab Republic,2010,91,81,100,53,0,54,0.26,1.7,28,13
+Africa,Tunisia,2014,91,64,100,79,,370,3.3,96,14,14
+Africa,Tunisia,2013,91,86,100,79,,380,3.4,73,17,14
+America,El Salvador,2014,91,43,75,73,,89,1.4,54,15,15
+Asia,Bhutan,2010,91,84,,82,,180,25,24,20,17
+Asia,Bhutan,2011,91,76,,86,,170,23,13,22,21
+European Union,Sweden,2016,91,90,,,,26,0.26,75,25,22
+Africa,Eritrea,2014,91,88,83,67,,700,15,0,22,24
+Africa,Eritrea,2016,91,90,89,,,640,13,5.5,24,24
+Africa,Burundi,2014,91,82,86,90,,2100,21,6.8,48,49
+Asia,Bhutan,2013,91,60,,92,,150,19,44,65,49
+Middle East,Iraq,2012,91,81,50,47,,1200,3.8,11,72,66
+Africa,Burundi,2013,91,84,87,89,,2000,20,6.5,59,68
+Africa,Egypt,2008,91,71,78,72,0,850,1.1,0.82,96,71
+Middle East,Iraq,2015,91,82,,56,,1200,3.2,1.5,93,73
+Africa,Egypt,2009,91,78,50,64,0,710,0.86,0.95,253,73
+Africa,Algeria,2009,91,84,,,,3000,8.4,0,0,93
+Africa,United Republic of Tanzania,2013,91,79,72,68,,30000,59,4.9,279,93
+Asia,Bangladesh,2008,91,,54,83,,81000,54,0,0,107
+Asia,Nepal,2009,91,85,,72,,4700,18,0.84,73,156
+Asia,Mongolia,2010,91,80,100,74,,290,11,2.2,191,156
+Asia,South Korea,2014,91,82,,91,,14000,56,0.23,197,212
+Asia,Nepal,2011,91,85,0,72,31,4700,17,0,213,213
+Asia,Nepal,2010,91,85,,75,,4800,18,0.81,229,229
+Asia,Nepal,2012,91,77,,76,,4900,18,1.2,360,251
+Africa,Ethiopia,2012,91,43,,83,,32000,35,0.99,294,289
+Asia,Bangladesh,2010,91,80,75,75,,83000,55,0,351,339
+Asia,Bangladesh,2009,91,81,91,63,,79000,52,0,0,352
+Asia,Pakistan,2009,91,82,79,61,,58000,35,,50,368
+Asia,Nepal,2016,91,88,78,,,6500,22,74,430,386
+Asia,Nepal,2013,91,74,,71,,5500,20,13,477,388
+Asia,Bangladesh,2011,91,82,66,68,100,85000,55,,519,390
+Asia,Vietnam,2012,91,,72,71,,15000,17,0,769,713
+Asia,Pakistan,2012,91,81,,71,32,56000,31,0.42,2501,1045
+Asia,Vietnam,2014,91,76,75,75,,15000,16,5.5,2198,1532
+Asia,Philippines,2015,91,82,65,54,33,28000,27,1.5,3788,4142
+Asia,Philippines,2016,91,80,82,,,27000,26,7.3,5233,5253
+Asia,Kazakhstan,2015,91,77,69,78,32,820,4.6,65,6497,6948
+Oceania,Australia,2004,91,,70,50,,64,0.32,,,
+Europe,Albania,2001,91,75,,,,20,0.66,,,
+Europe,Iceland,2004,91,100,0,,,3,1,,,
+Middle East,Lebanon,2002,91,100,,,,38,1.1,,,
+Middle East,Lebanon,2001,91,29,,,,45,1.3,,,
+America,Costa Rica,2003,91,78,,,,87,2.1,,,
+Asia,Maldives,2003,91,100,,,,7,2.5,,,
+America,Guatemala,2003,91,71,,,,440,3.5,,,
+European Union,Bulgaria,2003,91,68,,,,290,3.7,,,
+Africa,Tunisia,2003,91,74,,,,460,4.7,,,
+Africa,Tunisia,2000,91,74,,,,510,5.3,,,
+Middle East,Iraq,2002,91,75,,,,1400,5.7,,,
+Africa,Comoros,2015,91,,,,,52,6.6,,,
+Africa,Algeria,2013,91,59,,,,2800,7.4,,,
+Africa,Algeria,2004,91,82,,,,2700,8.3,,,
+Africa,Algeria,2006,91,79,,,,2900,8.6,,,
+Oceania,Marshall Islands,2000,91,,,,,5,9,,,
+Asia,Mongolia,2004,91,70,,,,260,11,,,
+Oceania,Micronesia,2002,91,0,,,,17,16,,,
+Asia,Turkmenistan,2004,91,,,,,830,18,,,
+Asia,Bhutan,2007,91,91,,83,,140,20,,,
+Oceania,Micronesia,2013,91,20,,,,20,20,,,
+Asia,Vietnam,2007,91,82,,,,21000,25,,,
+Asia,Cambodia,2005,91,76,,,,4300,32,,,
+Asia,Cambodia,2004,91,86,,,,4600,35,,,
+Oceania,Kiribati,2000,91,89,,,,33,39,,,
+Asia,Cambodia,2000,91,90,,,,5100,42,,,
+Asia,Bangladesh,2006,91,77,,,,80000,55,,,
+Africa,Somalia,2004,91,90,,,,7500,74,,,
+Asia,South Korea,2010,91,84,,,,20000,83,,,
+Asia,South Korea,2004,91,75,,,,34000,145,,,
+Asia,Cambodia,1997,91,90,,,,,,,,
+Asia,Cambodia,1995,91,85,,,,,,,,
+America,Cuba,1999,91,86,,,,,,,,
+Oceania,Fiji,1997,91,,,,,,,,,
+Asia,Indonesia,1995,91,32,,,,,,,,
+Middle East,Lebanon,1995,91,,,,,,,,,
+Africa,Mauritius,1998,91,75,,,,,,,,
+Middle East,Oman,1997,91,50,,,,,,,,
+Africa,Seychelles,1999,91,,,,,,,,,
+Africa,Tunisia,1999,91,74,,,,,,,,
+Africa,Tunisia,1998,91,,,,,,,,,
+America,Cuba,2006,90,83,67,,,47,0.42,42,0,0
+Oceania,Tonga,2013,90,,,,,1,0.9,0,0,0
+Oceania,Tonga,2010,90,,,,,1,1,0,0,0
+Oceania,Micronesia,2016,90,,,,,20,20,18,0,0
+Oceania,Kiribati,2016,90,100,,,,33,29,0,0,0
+Oceania,Kiribati,2010,90,70,,,,32,31,0,0,0
+Asia,South Korea,2008,90,82,,,,25000,101,0,0,0
+America,Cuba,2005,90,67,72,,,43,0.38,32,2,0
+America,Costa Rica,2005,90,67,58,,,73,1.7,0.49,3,0
+America,Honduras,2007,90,100,,0,,450,5.8,0,4,0
+Oceania,Micronesia,2006,90,50,,,,14,14,39,4,0
+America,Cuba,2009,90,74,67,33,,38,0.34,38,8,0
+European Union,Sweden,2008,90,78,,91,100,64,0.69,,12,0
+Asia,Turkmenistan,2006,90,73,,,,790,16,0,16,0
+Africa,Zambia,2009,90,86,,,,3800,28,0.46,33,0
+Asia,Indonesia,2006,90,77,,,,138000,60,0,59,0
+Asia,Kyrgyzstan,2008,90,70,,50,0,660,13,9.1,269,0
+Africa,Egypt,2007,90,65,,67,,840,1.1,5.9,277,0
+Asia,Indonesia,2008,90,72,,,,131000,56,0,446,0
+Europe,Iceland,2012,90,,,,,1,0.32,100,1,1
+Africa,Mauritius,2014,90,100,60,100,,18,1.5,100,1,1
+Africa,Mauritius,2011,90,80,63,100,,20,1.6,100,1,1
+America,Cuba,2010,90,82,70,29,,45,0.4,36,11,1
+Asia,laos,2011,90,81,,67,0,3600,57,0,4,2
+Middle East,Jordan,2011,90,80,100,43,,36,0.47,30,4,4
+America,El Salvador,2016,90,81,71,,,81,1.3,49,7,6
+European Union,Sweden,2013,90,82,,75,50,44,0.45,,9,8
+Africa,Benin,2012,90,86,,75,,980,10,0.78,39,8
+Asia,laos,2012,90,79,,38,,3600,55,0.46,13,9
+Middle East,Yemen,2013,90,62,,67,,1100,4.4,19,19,9
+Africa,Benin,2010,90,85,,100,,1000,11,3.5,19,9
+Middle East,Jordan,2010,90,60,,43,,37,0.51,63,10,10
+Middle East,Syrian Arab Republic,2016,90,,0,,,47,0.26,0,23,14
+Middle East,Syrian Arab Republic,2009,90,70,,56,,54,0.26,0,14,15
+Middle East,Jordan,2012,90,46,,50,,22,0.27,93,15,16
+Africa,Eritrea,2015,90,85,86,91,,600,12,0,32,32
+Africa,United Republic of Tanzania,2012,90,80,77,73,,34000,70,2.9,83,44
+Asia,Nepal,2008,90,76,,64,,5300,20,0.93,76,49
+Middle East,Iraq,2011,90,75,50,64,,1300,4,0,88,50
+Middle East,Iraq,2010,90,75,0,60,,1200,3.8,0,145,50
+Asia,Bhutan,2014,90,79,90,90,,150,19,84,57,61
+Middle East,Iraq,2009,90,84,0,8,,1300,4.4,0,105,72
+Africa,Algeria,2015,90,82,,,,3200,8.1,2.1,63,94
+Africa,United Republic of Tanzania,2015,90,80,83,74,100,30000,56,13,178,123
+Asia,South Korea,2015,90,82,,73,,11000,42,0,209,125
+Asia,Mongolia,2011,90,74,67,67,,290,11,9.1,193,126
+Africa,United Republic of Tanzania,2014,90,81,87,76,0,31000,60,40,516,143
+Africa,United Republic of Tanzania,2016,90,81,85,,,28000,51,13,196,158
+Europe,Turkey,2009,90,73,0,66,,1300,1.8,52,282,222
+Asia,Mongolia,2016,90,76,63,,,320,11,53,219,270
+Europe,Turkey,2011,90,68,66,66,100,1000,1.4,63,325,275
+Asia,Pakistan,2010,90,84,,70,50,57000,33,,444,424
+Asia,Philippines,2010,90,69,,42,,31000,33,,532,548
+Africa,Ethiopia,2016,90,,,,,26000,25,42,700,700
+Africa,Mozambique,2016,90,86,87,,,22000,75,48,911,897
+Asia,Philippines,2013,90,86,,49,50,29000,30,3.2,3962,2262
+Asia,Kazakhstan,2014,90,77,71,76,31,1000,5.9,,5877,7315
+Middle East,Jordan,2000,90,100,,,,36,0.7,,,
+Middle East,Oman,2003,90,100,,,,17,0.72,,,
+Middle East,Oman,2001,90,67,,,,17,0.76,,,
+Middle East,Lebanon,2004,90,57,75,,,34,0.88,,,
+America,El Salvador,2004,90,73,55,33,,120,2.1,,,
+Africa,Tunisia,2005,90,,,,,450,4.4,,,
+Africa,Tunisia,2004,90,80,,,,450,4.5,,,
+Africa,Tunisia,2001,90,,,,,480,4.9,,,
+Asia,Armenia,2001,90,67,,,,160,5.1,,,
+Africa,Comoros,2010,90,80,,,,50,7.2,,,
+Africa,Algeria,2012,90,74,,,,3000,8,,,
+Africa,Algeria,2008,90,83,,,,2800,8.1,,,
+Oceania,Solomon Islands,2002,90,100,,,,35,8.1,,,
+Africa,Algeria,2003,90,75,,,,2700,8.3,,,
+Africa,Algeria,2007,90,,,,,2900,8.5,,,
+America,Peru,2004,90,79,49,100,,3000,11,,,
+Oceania,Solomon Islands,2007,90,100,,,,55,11,,,
+America,Peru,2001,90,79,,,,3400,13,,,
+America,Peru,2000,90,78,,,,3800,15,,,
+Oceania,Marshall Islands,2003,90,75,,,,8,16,,,
+Asia,Kyrgyzstan,2004,90,74,,,,880,17,,,
+Asia,Azerbaijan,2000,90,66,,,,1500,19,,,
+Africa,Eritrea,2006,90,80,,,,770,19,,,
+Asia,Bhutan,2003,90,79,,,,140,23,,,
+Asia,Bhutan,2000,90,,,,,160,27,,,
+Asia,Pakistan,2007,90,79,,,,61000,38,,,
+Asia,Afghanistan,2005,90,89,,,,12000,46,,,
+Africa,Sierra Leone,2012,90,81,,,,3500,52,,,
+Asia,Bangladesh,2007,90,79,,82,,81000,55,,,
+Asia,Indonesia,2007,90,77,,,,133000,57,,,
+Asia,Bangladesh,2005,90,80,,,,87000,61,,,
+Asia,Bangladesh,2004,90,81,,,,95000,67,,,
+Asia,laos,2005,90,87,,,,4600,80,,,
+Africa,Somalia,2003,90,85,,,,8100,82,,,
+Asia,South Korea,2005,90,76,,,,36000,149,,,
+Asia,South Korea,2001,90,86,,,,39000,169,,,
+Asia,Bhutan,1998,90,,,,,,,,,
+Europe,Bosnia and Herzegovina,1999,90,82,,,,,,,,
+Europe,Bosnia and Herzegovina,1997,90,95,,,,,,,,
+Africa,Comoros,1995,90,43,,,,,,,,
+America,Cuba,1997,90,80,,,,,,,,
+America,Cuba,1995,90,82,,,,,,,,
+Oceania,Fiji,1998,90,,,,,,,,,
+Asia,Malaysia,1999,90,,,,,,,,,
+Middle East,Morocco,1995,90,76,,,,,,,,
+America,Peru,1997,90,,,,,,,,,
+European Union,Slovenia,1995,90,,,,,,,,,
+Africa,Somalia,1997,90,91,,,,,,,,
+Europe,Andorra,2005,89,,,,,0,0,,0,0
+Europe,Iceland,2014,89,,,,,0,0,,0,0
+Europe,Iceland,2011,89,100,,,,1,0.31,80,0,0
+America,Saint Lucia,2010,89,,,,,1,0.67,0,0,0
+America,Costa Rica,2008,89,84,77,,,66,1.5,0,0,0
+Africa,Cabo Verde,2015,89,100,68,,,21,4,0,0,0
+Oceania,Nauru,2015,89,,,,,1,8.4,0,0,0
+Oceania,Solomon Islands,2010,89,80,,,,46,8.8,0.75,0,0
+Africa,Gambia,2009,89,72,,,,350,22,0,0,0
+Oceania,Kiribati,2012,89,85,,,,33,31,0,0,0
+Oceania,Kiribati,2008,89,76,,,,32,33,0,0,0
+Europe,Republic of North Macedonia,2008,89,71,100,0,,48,2.3,69,2,0
+Europe,Albania,2010,89,90,,,,9,0.29,76,3,0
+America,Nicaragua,2006,89,,,,,280,5.1,0,3,0
+Middle East,Lebanon,2006,89,100,50,,,32,0.8,5.4,4,0
+Asia,Maldives,2006,89,80,,,,6,1.8,1.9,5,0
+Middle East,Syrian Arab Republic,2005,89,67,,,,66,0.36,0,7,0
+European Union,Slovakia,2007,89,86,,29,,35,0.66,,7,0
+Europe,Republic of North Macedonia,2007,89,65,100,22,,60,2.9,68,9,0
+Africa,Tunisia,2007,89,,,,,430,4.2,0,12,0
+Africa,Sierra Leone,2016,89,72,,,,3400,47,0,13,0
+Asia,Philippines,2005,89,,,,,35000,40,,274,0
+Asia,Kyrgyzstan,2007,89,67,,50,,750,14,59,322,0
+Asia,Kyrgyzstan,2006,89,71,,48,,880,17,52,336,0
+North Asia,North Korea,2010,89,79,80,,,3000,6,0,450,0
+America,Costa Rica,2014,89,,64,,,51,1.1,0,1,1
+Oceania,Fiji,2016,89,86,33,,,36,4,46,1,1
+Oceania,Marshall Islands,2013,89,0,0,100,,20,39,,1,1
+Africa,Mauritius,2009,89,60,57,100,,16,1.3,100,2,1
+Europe,Republic of North Macedonia,2009,89,79,,0,,19,0.93,80,4,1
+Europe,Republic of North Macedonia,2011,89,78,,100,,27,1.3,72,7,1
+Europe,Montenegro,2014,89,,,0,,1,0.2,100,2,2
+Africa,Comoros,2008,89,100,,,,43,6.5,0,2,2
+Middle East,Jordan,2016,89,74,100,,,26,0.27,29,3,3
+Africa,Mauritius,2016,89,100,69,,,18,1.4,93,3,3
+Oceania,Timor-Leste,2012,89,90,,75,,950,82,0,4,4
+America,Honduras,2013,89,81,72,75,,410,4.8,6.9,6,4
+Europe,Serbia,2015,89,59,50,80,,83,0.94,27,5,5
+Middle East,Kuwait,2010,89,100,,100,,50,1.7,100,6,5
+Africa,Benin,2011,89,84,,50,,880,9.3,0,26,5
+Europe,Norway,2013,89,79,75,83,,21,0.4,90,6,6
+America,Honduras,2012,89,17,63,40,,420,4.9,2.1,6,6
+Oceania,Timor-Leste,2016,89,85,91,,,1300,100,37,6,6
+Africa,Benin,2013,89,90,,93,,1000,10,1.9,14,6
+Europe,Norway,2010,89,73,,50,,29,0.58,99,9,8
+America,Honduras,2014,89,68,63,38,,410,4.7,6.5,12,12
+America,Nicaragua,2008,89,97,,21,,200,3.6,0.27,16,14
+Africa,Tunisia,2012,89,88,93,73,,390,3.5,0.28,17,15
+Africa,Benin,2014,89,78,,84,100,980,9.6,2.6,25,16
+Middle East,Israel,2014,89,,73,75,50,15,0.19,,17,17
+Africa,United Republic of Tanzania,2010,89,84,86,75,,36000,79,0.44,41,17
+Asia,Indonesia,2009,89,72,,74,,129000,54,0,0,20
+Africa,Burundi,2011,89,85,82,90,,2100,23,0,6,30
+Africa,Equatorial Guinea,2016,89,78,77,,,200,17,0.15,32,32
+Middle East,Yemen,2016,89,70,,,,1900,6.9,7.4,48,33
+Africa,Eritrea,2013,89,77,79,83,,830,18,0,17,35
+Africa,Burundi,2012,89,81,85,92,,2100,22,,24,36
+Asia,Cambodia,2010,89,75,,68,,3600,25,,32,38
+Asia,Pakistan,2008,89,79,,,,59000,36,,40,40
+Africa,Egypt,2010,89,72,60,81,,600,0.71,0,0,48
+Africa,Algeria,2010,89,83,,,,3100,8.5,0,56,56
+Middle East,Iraq,2008,89,81,100,55,,1300,4.6,0,63,63
+Middle East,Morocco,2013,89,66,,42,,2700,8,0.73,108,89
+Middle East,Morocco,2012,89,50,,33,,2700,8,0.85,80,138
+Asia,Indonesia,2010,89,73,,72,,124000,51,0,190,142
+Asia,Democratic Republic of the Congo,2010,89,76,,36,,39000,61,0,88,191
+Asia,Mongolia,2013,89,79,60,56,,300,11,58,267,192
+Africa,Ethiopia,2011,89,78,,72,,31000,35,0.15,216,199
+Europe,Turkey,2010,89,69,64,67,67,1000,1.5,64,335,250
+Asia,Democratic Republic of the Congo,2015,89,77,,90,10,53000,70,2.1,499,413
+Africa,Ethiopia,2013,89,,,68,,34000,36,0.48,558,413
+Asia,Democratic Republic of the Congo,2014,89,65,,75,,51000,69,0.72,442,436
+Asia,Myanmar,2012,89,70,,79,,24000,46,0.73,1037,442
+Africa,Mozambique,2014,89,94,,50,,20000,72,3.6,544,482
+Asia,Kyrgyzstan,2009,89,71,,35,11,620,12,42,826,545
+Africa,Ethiopia,2014,89,,,70,,35000,36,6,503,557
+Asia,Tajikistan,2015,89,80,72,58,,470,5.5,50,675,636
+Asia,Democratic Republic of the Congo,2016,89,60,,,,52000,67,1.8,709,637
+Asia,Tajikistan,2016,89,81,69,,,460,5.3,49,748,700
+Asia,Tajikistan,2014,89,82,,50,,470,5.6,100,902,804
+Asia,Vietnam,2013,89,,71,69,,15000,17,0.7,1204,948
+Asia,India,2009,89,75,74,50,,521000,43,0,1699,1136
+Europe,Belarus,2016,89,77,83,,,220,2.3,70,1543,1362
+Europe,Belarus,2015,89,76,79,64,53,370,3.9,69,1340,1949
+Asia,Uzbekistan,2015,89,82,,59,23,2000,6.3,28,2149,2149
+Asia,India,2010,89,74,76,48,,497000,40,0,3288,2182
+Asia,India,2011,89,75,75,50,,497000,40,0,4297,3378
+Asia,Kazakhstan,2013,89,63,59,72,30,1200,6.8,96,6411,6776
+Africa,Seychelles,2004,89,67,100,,,0,0,,,
+European Union,Malta,2004,89,100,100,,,1,0.26,,,
+Middle East,Jordan,2004,89,50,,,,39,0.7,,,
+Middle East,Jordan,2002,89,75,,62,,37,0.7,,,
+European Union,Slovakia,2004,89,93,,100,,53,0.98,,,
+Africa,Mauritius,2004,89,83,50,,,15,1.3,,,
+America,Saint Lucia,2003,89,80,,,,2,1.5,,,
+Asia,Maldives,2005,89,100,,,,5,1.7,,,
+Europe,Republic of North Macedonia,2001,89,54,,,,94,4.6,,,
+Middle East,Iraq,2001,89,75,,,,1400,5.9,,,
+America,Belize,2003,89,71,,,,18,6.7,,,
+Middle East,Yemen,2011,89,67,,,,1700,7,,,
+Africa,Algeria,2002,89,78,,,,2600,8.1,,,
+Middle East,Morocco,2000,89,,,,,2700,9.3,,,
+Middle East,Morocco,2002,89,74,,,,2800,9.4,,,
+Oceania,Solomon Islands,2001,89,,,,,40,9.5,,,
+America,Peru,2003,89,80,,,,3100,11,,,
+Asia,Uzbekistan,2004,89,81,,,,3500,13,,,
+Asia,Turkmenistan,2008,89,81,,,,740,15,,,
+Asia,Nepal,2005,89,83,,,,4500,17,,,
+Asia,Turkmenistan,2005,89,68,,,,820,17,,,
+Africa,Sao Tome and Principe,2007,89,60,33,,,30,18,,,
+Asia,Nepal,2006,89,84,,,,5000,19,,,
+Africa,Zambia,2010,89,,,36,,3900,28,,,
+Oceania,Marshall Islands,2004,89,88,,,,16,31,,,
+Oceania,Kiribati,2004,89,67,,,,32,35,,,
+Asia,Afghanistan,2004,89,,,,,12000,51,,,
+Asia,Indonesia,2005,89,78,,,,139000,61,,,
+Africa,Somalia,2005,89,80,,,,7400,71,,,
+Africa,Somalia,2006,89,78,,,,8100,76,,,
+Africa,Somalia,2002,89,59,,,,8500,89,,,
+Asia,Azerbaijan,1997,89,,,,,,,,,
+Africa,Equatorial Guinea,1995,89,83,,,,,,,,
+America,Jamaica,1998,89,90,,,,,,,,
+Middle East,Morocco,1997,89,72,,,,,,,,
+America,Peru,1996,89,74,,,,,,,,
+America,Saint Lucia,1999,89,100,,,,,,,,
+Africa,Seychelles,1995,89,,,,,,,,,
+Africa,Tunisia,1997,89,,,,,,,,,
+Asia,Vietnam,1996,89,84,,,,,,,,
+Asia,Vietnam,1995,89,81,,,,,,,,
+Europe,Andorra,2009,88,100,,,,0,0,67,0,0
+Oceania,Tonga,2009,88,,,,,1,0.73,0,0,0
+Africa,Seychelles,2015,88,,,,,1,1.2,75,0,0
+America,Dominica,2015,88,,,,,1,1.4,29,0,0
+Africa,Cabo Verde,2013,88,42,83,,,21,4,2.7,0,0
+Oceania,Solomon Islands,2012,88,91,,,,50,9,5.7,0,0
+Oceania,Vanuatu,2016,88,,,,,26,9.5,1,0,0
+Oceania,Solomon Islands,2009,88,100,,,,50,9.8,3.6,0,0
+Oceania,Solomon Islands,2006,88,100,,,,51,11,,0,0
+Oceania,Tuvalu,2008,88,,82,,,2,16,0,0,0
+Africa,Gambia,2011,88,78,,,,330,19,0,0,0
+Africa,Gambia,2010,88,36,,,,410,24,0,0,0
+Asia,Afghanistan,2008,88,,,,,11000,40,0,0,0
+Africa,Sierra Leone,2015,88,62,,,,4200,57,0,0,0
+Africa,Mauritius,2013,88,,65,,,18,1.4,100,1,0
+America,Costa Rica,2011,88,81,78,100,,70,1.5,9.6,1,0
+Oceania,Palau,2013,88,,0,,,1,3.2,100,1,0
+Europe,Albania,2013,88,,50,,,9,0.29,14,2,0
+Europe,Albania,2008,88,75,100,,,16,0.53,,2,0
+Europe,Albania,2014,88,,100,,,9,0.29,13,3,0
+Europe,Norway,2006,88,55,,,,40,0.85,,3,0
+America,Costa Rica,2010,88,80,81,100,,54,1.2,64,3,0
+America,Honduras,2005,88,69,,,,470,6.3,0.13,3,0
+Middle East,Oman,2006,88,100,70,33,,18,0.71,82,7,0
+Middle East,Yemen,2012,88,43,,,,1200,4.9,5.5,8,0
+South Asia,Sri Lanka,2007,88,72,75,25,,1200,5.9,18,8,0
+Middle East,Iraq,2007,88,73,,33,,1400,4.9,0,9,0
+Middle East,Syrian Arab Republic,2007,88,72,,50,,48,0.24,0.21,12,0
+Middle East,Israel,2008,88,75,58,91,100,28,0.4,,13,0
+Middle East,Syrian Arab Republic,2006,88,71,,73,,63,0.34,0,14,0
+European Union,Sweden,2009,88,71,,85,,61,0.66,,14,0
+Middle East,Yemen,2009,88,77,,,,2000,8.9,1.1,14,0
+Europe,Serbia,2008,88,76,,,,190,2,63,16,0
+Africa,United Republic of Tanzania,2008,88,82,73,,,36000,82,0.98,24,0
+European Union,Bulgaria,2005,88,67,,,,280,3.7,40,47,0
+Middle East,Morocco,2007,88,73,,,,2400,7.6,0.43,59,0
+Africa,Somalia,2012,88,71,,,,11000,83,4.3,82,0
+Asia,India,2007,88,65,,52,,542000,46,0,146,0
+Asia,Nepal,2007,88,82,,73,,5100,20,5,163,0
+Africa,United Republic of Tanzania,2007,88,82,87,,,34000,82,0,169,0
+Europe,Turkey,2005,88,70,,,,1200,1.7,38,191,0
+Asia,Philippines,2006,88,80,,,,34000,39,,403,0
+Asia,Philippines,2007,88,72,,63,,31000,35,,568,0
+European Union,Slovakia,2010,88,84,100,,,35,0.66,95,1,1
+Middle East,United Arab Emirates,2016,88,67,60,,,64,0.69,53,1,1
+Africa,Mauritius,2008,88,50,60,100,,15,1.2,100,1,1
+European Union,Slovakia,2012,88,100,,0,,17,0.32,95,4,1
+America,Costa Rica,2013,88,50,69,,,46,0.98,3,4,1
+Africa,Togo,2014,88,76,,100,,630,8.8,,9,1
+Europe,Republic of North Macedonia,2016,88,75,,,,20,0.98,62,2,2
+European Union,Slovakia,2014,88,71,,50,,35,0.64,,7,2
+Oceania,Micronesia,2010,88,30,,100,,23,22,70,1,3
+Middle East,Oman,2015,88,,60,75,,22,0.53,79,3,3
+Europe,Norway,2011,88,79,,75,,30,0.6,97,4,4
+Middle East,Qatar,2008,88,,100,0,0,5,0.36,,5,5
+Europe,Norway,2015,88,81,80,100,,12,0.22,71,6,5
+America,Honduras,2011,88,68,69,43,,420,5,1.5,11,5
+South Asia,Sri Lanka,2010,88,77,50,100,,900,4.4,18,15,6
+Middle East,Israel,2009,88,67,86,83,,24,0.33,,6,7
+Africa,Benin,2009,88,80,,86,,920,10,0,19,7
+Europe,Serbia,2010,88,76,58,80,,170,1.9,67,16,8
+Middle East,Jordan,2014,88,90,,100,,24,0.27,62,9,9
+Africa,Gambia,2014,88,,,100,,330,17,0,15,9
+America,Cuba,2008,88,80,66,100,,47,0.42,41,10,10
+America,Cuba,2011,88,68,60,75,0,41,0.36,60,19,10
+South Asia,Sri Lanka,2011,88,75,71,83,,970,4.8,24,24,10
+Europe,Norway,2016,88,73,100,,,12,0.22,0,11,11
+Africa,Togo,2013,88,82,0,56,,730,10,0.41,19,12
+Africa,Tunisia,2016,88,97,100,,,350,3,32,13,13
+Middle East,Jordan,2013,88,86,,77,,23,0.27,,14,14
+European Union,Sweden,2014,88,87,,94,0,30,0.31,,18,15
+European Union,Netherlands,2013,88,75,76,100,,39,0.23,,19,16
+Africa,United Republic of Tanzania,2009,88,83,86,63,,36000,81,0.75,54,16
+Africa,Benin,2016,88,79,75,,,1000,9.4,1.4,18,17
+European Union,Sweden,2010,88,81,,94,,36,0.38,100,20,18
+Africa,Benin,2015,88,77,82,100,100,970,9.2,7.6,23,19
+America,Honduras,2016,88,70,71,,,410,4.5,7,20,20
+Asia,Afghanistan,2011,88,77,,67,,13000,44,0,20,21
+Africa,Burundi,2010,88,82,92,92,,1800,21,0.48,24,24
+Asia,laos,2015,88,85,63,84,,3100,47,36,33,33
+Asia,Afghanistan,2012,88,65,,71,,13000,44,0,38,38
+America,Guatemala,2012,88,71,71,69,,270,1.8,1.4,79,39
+Asia,Afghanistan,2013,88,74,,63,,14000,43,,73,49
+Africa,Egypt,2012,88,61,,63,,580,0.66,0.59,136,52
+Africa,Algeria,2014,88,57,,,,3100,7.9,7.1,65,56
+Africa,United Republic of Tanzania,2011,88,82,78,75,,36000,76,0.34,68,68
+Africa,Egypt,2011,88,72,83,68,,730,0.85,0.7,191,71
+Asia,Afghanistan,2015,88,89,,64,,13000,39,0,81,81
+Middle East,Morocco,2008,88,73,,48,,2500,7.9,1.2,143,84
+Middle East,Iraq,2013,88,79,,58,,1200,3.6,,167,84
+Africa,Zambia,2016,88,79,86,,,4700,28,0.15,180,136
+Asia,Myanmar,2011,88,72,65,71,,25000,50,0,690,163
+Middle East,Morocco,2015,88,72,,56,,2900,8.2,0,164,166
+Asia,Mongolia,2012,88,77,100,61,,300,11,11,218,171
+Asia,Democratic Republic of the Congo,2009,88,77,,33,,37000,60,0,190,176
+Asia,India,2008,88,74,72,44,,532000,44,0,308,190
+Asia,Myanmar,2010,88,73,66,70,,27000,54,0,192,192
+Africa,Somalia,2016,88,79,51,,,11000,75,,243,243
+Asia,Indonesia,2011,88,71,,60,50,124000,51,,408,260
+Asia,Democratic Republic of the Congo,2012,88,74,0,64,,48000,69,,110,262
+Middle East,Morocco,2010,88,64,,38,,2700,8.2,0.38,65,263
+Europe,Turkey,2012,88,66,51,66,67,880,1.2,71,357,291
+Africa,Mozambique,2013,88,,,52,,19000,70,2.7,444,313
+Asia,Tajikistan,2013,88,82,66,60,75,480,5.8,100,872,625
+Africa,Mozambique,2015,88,88,86,48,38,22000,78,17,646,646
+Asia,Indonesia,2013,88,64,49,51,40,119000,47,,912,809
+Europe,Belarus,2014,88,73,74,59,36,510,5.4,97,1282,1903
+Asia,Philippines,2012,88,,,43,10,30000,31,,2673,1918
+Asia,Uzbekistan,2016,88,80,,,,1800,5.9,29,1986,1986
+Asia,Myanmar,2016,88,77,73,,,25000,47,15,3213,2537
+Asia,Kazakhstan,2016,88,80,62,,,460,2.6,81,5817,6260
+Asia,India,2012,88,74,77,46,32,484000,38,0,17253,14117
+Asia,India,2013,88,66,76,46,33,470000,37,0,23162,21093
+Middle East,Syrian Arab Republic,2004,88,66,,52,,50,0.28,,,
+Middle East,Syrian Arab Republic,2003,88,64,,59,,67,0.38,,,
+Europe,Albania,2003,88,100,,,,19,0.61,,,
+European Union,Denmark,2001,88,64,,,,40,0.74,,,
+Europe,Norway,2004,88,89,,,,46,1,,,
+Africa,Egypt,2002,88,,,,,1000,1.4,,,
+Middle East,Bahrain,2002,88,,,,,11,1.6,,,
+America,El Salvador,2003,88,75,,,,99,1.7,,,
+America,El Salvador,2001,88,75,,,,140,2.4,,,
+America,El Salvador,2002,88,71,,,,150,2.6,,,
+Middle East,Iraq,2005,88,72,,,,1400,5.2,,,
+Middle East,Morocco,2006,88,72,,39,,2400,7.9,,,
+Asia,Tajikistan,2008,88,76,,,,610,8.3,,,
+Asia,Tajikistan,2007,88,75,,,,650,9.1,,,
+Oceania,Vanuatu,2000,88,100,,,,18,10,,,
+Oceania,Vanuatu,2001,88,,,,,21,11,,,
+Oceania,Solomon Islands,2005,88,60,,,,55,12,,,
+Asia,Nepal,2004,88,81,,,,4800,19,,,
+Africa,Eritrea,2007,88,78,,,,930,22,,,
+Africa,Eritrea,2005,88,,,,,920,23,,,
+Africa,Zambia,2011,88,,,29,,4200,29,,,
+Oceania,Marshall Islands,2008,88,50,,,,17,33,,,
+Oceania,Kiribati,2003,88,100,,,,32,36,,,
+Asia,Philippines,2003,88,76,,,,36000,44,,,
+Asia,Philippines,2001,88,,,,,37000,46,,,
+Asia,Philippines,2002,88,,,,,39000,47,,,
+Asia,Philippines,2000,88,,,,,38000,48,,,
+Africa,Sierra Leone,2007,88,90,,,,3900,66,,,
+Africa,Central African Republic,2004,88,91,85,,,5500,134,,,
+Asia,South Korea,2003,88,81,,,,32000,136,,,
+Asia,South Korea,2006,88,77,,,,35000,146,,,
+Asia,South Korea,2002,88,81,,,,35000,151,,,
+Asia,Armenia,1999,88,51,,,,,,,,
+America,Belize,1999,88,100,,,,,,,,
+Europe,Bosnia and Herzegovina,1998,88,85,,,,,,,,
+Middle East,Jordan,1999,88,73,,,,,,,,
+Oceania,Kiribati,1999,88,75,,,,,,,,
+Middle East,Morocco,1999,88,,,,,,,,,
+Middle East,Morocco,1998,88,83,,,,,,,,
+Middle East,Morocco,1996,88,72,,,,,,,,
+America,Saint Vincent and the Grenadines,1999,88,0,,,,,,,,
+European Union,Slovenia,1999,88,69,,,,,,,,
+Africa,Somalia,1999,88,80,,,,,,,,
+Africa,Somalia,1998,88,85,,,,,,,,
+Middle East,Syrian Arab Republic,1998,88,,,,,,,,,
+Asia,Tajikistan,1995,88,,,,,,,,,
+Oceania,Vanuatu,1999,88,100,,,,,,,,
+Europe,Montenegro,2013,87,0,100,,,1,0.2,100,0,0
+Europe,Montenegro,2010,87,86,0,,,1,0.2,100,0,0
+Middle East,Kuwait,2011,87,,,,,29,0.91,100,0,0
+Africa,Cabo Verde,2016,87,100,86,,,22,4,19,0,0
+Africa,Comoros,2012,87,,25,,,57,7.9,0,0,0
+Middle East,Morocco,2009,87,69,,40,,2600,8,0,0,0
+Oceania,Vanuatu,2014,87,100,,,,25,9.6,0,0,0
+Oceania,Kiribati,2014,87,88,0,,,32,29,0,0,0
+Africa,Sierra Leone,2013,87,71,,,,3900,57,0,0,0
+Europe,Albania,2006,87,86,67,0,,11,0.35,71,1,0
+Oceania,Fiji,2014,87,88,91,100,,33,3.7,11,1,0
+European Union,Slovakia,2009,87,82,,,,43,0.79,99,2,0
+Europe,Albania,2007,87,84,100,,,16,0.52,94,3,0
+Europe,Norway,2008,87,72,,50,,26,0.55,,4,0
+Middle East,Yemen,2010,87,,,,,1700,7.1,1.5,5,0
+Middle East,Qatar,2007,87,,,0,,4,0.36,,6,0
+European Union,Slovakia,2006,87,60,,50,,48,0.88,,7,0
+Africa,Sierra Leone,2011,87,70,,,,3500,53,0,8,0
+European Union,Netherlands,2005,87,79,76,,,74,0.45,,13,0
+South Asia,Sri Lanka,2006,87,71,,38,,1200,6.3,12,16,0
+European Union,Portugal,2006,87,77,68,,,320,3,60,17,0
+European Union,Portugal,2008,87,77,64,,,260,2.5,93,28,0
+Africa,Benin,2005,87,81,,,,1000,13,1.1,28,0
+South Asia,Sri Lanka,2005,87,72,,,,1200,6.3,12,32,0
+European Union,Portugal,2005,87,74,66,,,340,3.2,77,33,0
+Asia,India,2006,87,72,,,,554000,48,0,33,0
+Asia,India,2005,87,71,,,,568000,50,0,34,0
+Asia,Turkmenistan,2010,87,53,,,,680,13,7,43,0
+Africa,Algeria,2005,87,72,,,,2900,8.8,9.1,74,0
+Africa,Egypt,2006,87,69,67,,,840,1.1,0.93,119,0
+European Union,Romania,2009,87,57,70,16,0,1500,7.4,34,699,0
+Europe,Albania,2016,87,,67,,,9,0.29,9.4,4,1
+Europe,Republic of North Macedonia,2014,87,100,0,33,,20,0.98,92,3,3
+Europe,Albania,2015,87,,50,100,,9,0.29,1.8,4,3
+Africa,Benin,2008,87,77,,100,,870,10,0,4,3
+Asia,Maldives,2011,87,,,25,,10,2.7,0,0,4
+Middle East,Qatar,2010,87,,,33,,6,0.35,100,4,4
+Oceania,Timor-Leste,2015,87,75,68,50,,1300,106,4.6,4,4
+Asia,laos,2013,87,50,,71,,3400,53,2.9,7,4
+South Asia,Sri Lanka,2009,87,73,71,50,,1100,5.3,17,20,4
+South Asia,Sri Lanka,2008,87,70,100,13,,1100,5.6,16,8,5
+America,Nicaragua,2012,87,,,90,,190,3.3,0,25,9
+Middle East,Kuwait,2015,87,,0,60,,14,0.35,97,10,10
+Middle East,Kuwait,2016,87,,0,,,14,0.35,68,11,11
+European Union,Sweden,2011,87,78,,75,,47,0.5,100,19,17
+European Union,Sweden,2015,87,77,,96,,25,0.25,85,26,21
+Africa,Eritrea,2012,87,72,,100,,890,19,0,0,23
+Middle East,Yemen,2015,87,78,,68,,2500,9.2,0,23,23
+Middle East,Syrian Arab Republic,2008,87,76,,73,0,53,0.26,0,31,23
+America,Nicaragua,2015,87,75,58,65,100,180,2.9,19,36,29
+European Union,Bulgaria,2012,87,47,33,66,20,170,2.4,71,58,36
+America,Guatemala,2015,87,51,66,51,,340,2.1,14,27,40
+European Union,Estonia,2013,87,60,66,70,40,26,1.9,,54,40
+European Union,Bulgaria,2009,87,69,,19,,200,2.7,62,64,43
+America,Guatemala,2016,87,43,72,,,320,1.9,15,75,47
+Africa,Senegal,2013,87,74,44,,,2800,20,2.4,52,48
+Africa,Senegal,2014,87,79,71,75,,2800,19,40,70,49
+America,Bolivia,2016,87,72,,,,1200,11,10,70,52
+Asia,Tajikistan,2009,87,72,,71,,570,7.6,42,345,52
+Middle East,Iran,2014,87,76,63,58,0,710,0.91,20,48,53
+Middle East,Iran,2015,87,78,66,63,,940,1.2,9.1,58,55
+European Union,Bulgaria,2010,87,64,0,16,100,200,2.8,78,70,56
+Middle East,Iran,2013,87,82,66,74,100,780,1,9.5,68,59
+Middle East,Iran,2012,87,84,66,48,,790,1,6.8,84,62
+Africa,Egypt,2016,87,66,63,,,410,0.42,29,174,86
+Asia,Afghanistan,2014,87,80,,65,,14000,42,,88,88
+Africa,Rwanda,2015,87,87,79,90,,580,5,26,94,93
+European Union,Latvia,2012,87,50,78,63,53,62,3,97,114,110
+Asia,Democratic Republic of the Congo,2011,87,74,,59,,44000,66,,140,128
+Asia,Democratic Republic of the Congo,2013,87,66,,63,,50000,69,0.48,272,147
+Africa,Kenya,2011,87,82,82,70,,32000,76,0.25,392,156
+Africa,Mozambique,2012,87,0,0,28,0,18000,69,0.98,292,213
+Europe,Turkey,2016,87,51,80,,,510,0.64,48,256,217
+Middle East,Morocco,2016,87,67,53,,,2900,8.4,4.6,236,238
+Europe,Turkey,2015,87,46,58,68,67,610,0.78,43,304,238
+Europe,Turkey,2014,87,50,66,63,0,670,0.87,84,349,257
+Asia,Turkmenistan,2015,87,81,,68,,600,11,0,268,273
+Africa,Namibia,2014,87,78,80,70,33,720,30,0,350,327
+Africa,Kenya,2015,87,83,82,73,100,30000,63,7.7,368,368
+Asia,Tajikistan,2011,87,71,44,64,,510,6.5,10,723,380
+Africa,Nigeria,2014,87,83,79,74,0,106000,60,0,798,423
+Africa,Kenya,2014,87,78,82,72,100,31000,68,50,644,544
+Asia,Myanmar,2013,87,71,,83,,26000,51,13,1984,667
+Asia,Myanmar,2014,87,73,70,80,,25000,48,24,3495,1537
+America,Peru,2014,87,74,68,52,65,2200,7,73,1463,1671
+America,Peru,2015,87,73,66,55,71,2400,7.7,70,1534,1738
+Europe,Belarus,2013,87,71,65,54,38,650,6.9,95,1386,2154
+Asia,Myanmar,2015,87,75,72,80,43,25000,47,6.6,2793,2207
+Asia,Philippines,2011,87,65,,41,67,30000,32,,3074,2397
+Asia,Uzbekistan,2014,87,81,,62,,2100,6.8,,3844,3665
+Middle East,Syrian Arab Republic,2002,87,56,,53,,75,0.44,,,
+Middle East,Israel,2004,87,85,83,64,,42,0.65,,,
+Middle East,Jordan,2003,87,75,,57,,38,0.7,,,
+Middle East,Israel,2002,87,93,96,63,,59,0.95,,,
+Africa,Mauritius,2003,87,50,,,,12,0.96,,,
+European Union,Slovakia,2001,87,74,,,,58,1.1,,,
+Europe,Norway,2001,87,100,,,,52,1.2,,,
+European Union,Slovakia,2003,87,85,,75,,67,1.2,,,
+Africa,Egypt,2000,87,63,,,,1000,1.5,,,
+Middle East,Bahrain,2001,87,,,,,11,1.6,,,
+Europe,Serbia,2009,87,74,80,60,,180,2,,,
+European Union,Bulgaria,2001,87,78,,,,310,4,,,
+Asia,Armenia,2000,87,67,,,,170,5.6,,,
+America,Nicaragua,2004,87,79,,,,340,6.4,,,
+America,Honduras,2003,87,83,,,,490,6.9,,,
+America,Honduras,2002,87,90,,,,490,7.2,,,
+Africa,Algeria,2000,87,77,,,,2500,8.2,,,
+Oceania,Solomon Islands,2003,87,100,,,,40,9,,,
+Asia,Mongolia,2003,87,72,,,,260,11,,,
+Asia,Mongolia,2002,87,69,,,,260,11,,,
+Asia,Mongolia,2001,87,72,,,,260,11,,,
+Asia,Mongolia,2000,87,71,,,,250,11,,,
+Asia,Turkmenistan,2011,87,53,,,,660,13,,,
+Asia,Nepal,2003,87,80,,,,4100,16,,,
+Asia,Turkmenistan,2007,87,41,,,,760,16,,,
+Asia,Nepal,2001,87,80,,,,4900,20,,,
+Africa,Gambia,2005,87,,,,,310,22,,,
+Oceania,Kiribati,2007,87,100,,,,32,34,,,
+Asia,Afghanistan,2007,87,83,,,,10000,38,,,
+Africa,Liberia,2011,87,82,,,,1900,46,,,
+Asia,Afghanistan,2002,87,,,,,12000,56,,,
+Asia,Indonesia,2004,87,82,,,,139000,62,,,
+Asia,Indonesia,2003,87,78,,,,141000,64,,,
+Asia,Indonesia,2000,87,72,,,,153000,72,,,
+Asia,South Korea,2007,87,77,,,,30000,123,,,
+Africa,Algeria,1999,87,85,,,,,,,,
+Asia,Azerbaijan,1996,87,50,,,,,,,,
+Oceania,Kiribati,1995,87,,,,,,,,,
+Africa,Mauritius,1999,87,67,,,,,,,,
+Middle East,Oman,1996,87,50,,,,,,,,
+Asia,Philippines,1999,87,,,,,,,,,
+European Union,Slovenia,1996,87,68,,,,,,,,
+Europe,Andorra,2010,86,,,,,0,0,100,0,0
+Oceania,Samoa,2010,86,,,100,,1,0.71,0,0,0
+America,Saint Lucia,2007,86,100,50,,,2,1.2,0,0,0
+Africa,Mauritius,2005,86,80,0,,,14,1.2,,0,0
+Oceania,Fiji,2012,86,71,100,,,32,3.7,9.1,0,0
+Oceania,Fiji,2015,86,88,83,,,34,3.9,5.5,0,0
+Oceania,Palau,2015,86,,,,,1,6.2,57,0,0
+Africa,Gambia,2013,86,,,,,380,21,0,0,0
+Oceania,Kiribati,2013,86,88,,,,32,30,0,0,0
+Oceania,Marshall Islands,2014,86,0,,,,19,37,,0,0
+America,Costa Rica,2007,86,68,95,,,46,1,0,1,0
+Oceania,Samoa,2012,86,,,0,,2,1.1,84,1,0
+Europe,Albania,2009,86,76,100,,,5,0.17,58,2,0
+Oceania,New Zealand,2007,86,65,100,50,,16,0.38,,2,0
+Africa,Cabo Verde,2012,86,64,67,,,21,4,7.9,2,0
+America,Costa Rica,2012,86,88,59,,,57,1.2,95,4,0
+America,Costa Rica,2006,86,68,81,,,70,1.6,0,4,0
+America,Nicaragua,2007,86,78,,0,,250,4.6,14,8,0
+Africa,Togo,2015,86,80,,,,480,6.5,0,8,0
+Europe,Norway,2009,86,80,,63,,28,0.59,,9,0
+Middle East,Israel,2005,86,86,82,88,,49,0.74,,16,0
+Asia,Afghanistan,2010,86,79,,,,12000,42,1.8,19,0
+Middle East,Iraq,2006,86,75,,45,,1500,5.6,0,20,0
+Africa,Benin,2006,86,78,,,,920,11,2.5,21,0
+Africa,Somalia,2011,86,72,,,,10000,83,4.4,25,0
+Africa,Senegal,2015,86,75,54,70,,2800,19,44,78,0
+Asia,Democratic Republic of the Congo,2007,86,75,,61,,35000,60,,82,0
+Asia,Uzbekistan,2006,86,77,35,,,3200,12,2.9,83,0
+Asia,Uzbekistan,2008,86,72,61,66,50,2900,11,5.4,342,0
+European Union,Romania,2007,86,52,65,19,,1600,7.7,23,754,0
+European Union,Romania,2008,86,53,66,16,6,1600,7.9,30,816,0
+Europe,Montenegro,2011,86,83,,0,0,1,0.2,100,2,1
+Africa,Togo,2012,86,83,,100,,690,10,0,4,2
+European Union,Slovakia,2015,86,78,,33,,35,0.64,0.7,7,2
+European Union,Slovakia,2016,86,79,,,,35,0.64,37,7,2
+Middle East,Qatar,2009,86,,,0,,6,0.35,100,3,3
+Europe,Republic of North Macedonia,2012,86,78,,67,100,23,1.1,81,5,3
+Oceania,Marshall Islands,2012,86,100,,75,,20,38,,3,4
+Africa,Liberia,2009,86,85,,20,,2200,57,0,0,5
+America,Honduras,2009,86,57,58,40,,430,5.4,1.4,4,5
+Europe,Republic of North Macedonia,2015,86,100,,40,,20,0.98,64,5,5
+South Asia,Sri Lanka,2012,86,59,18,88,,920,4.5,23,8,5
+Africa,Tunisia,2008,86,,100,75,,420,4,0,36,8
+Middle East,Kuwait,2009,86,100,25,,,40,1.4,100,9,9
+Europe,Serbia,2011,86,78,83,64,100,150,1.6,91,9,9
+America,Nicaragua,2011,86,69,84,30,,210,3.7,13,14,10
+European Union,Netherlands,2015,86,71,85,60,,39,0.23,44,12,11
+America,Honduras,2015,86,54,67,67,,410,4.6,19,16,12
+America,United States of America,2008,86,,78,67,,650,0.21,,132,14
+European Union,Netherlands,2016,86,50,74,,,30,0.18,62,15,15
+America,Nicaragua,2016,86,63,64,,,120,1.9,77,19,19
+Asia,laos,2014,86,61,57,67,,3300,50,22,24,25
+European Union,Bulgaria,2014,86,56,33,54,0,130,1.8,80,44,29
+Africa,Somalia,2013,86,43,69,77,,11000,81,4.4,185,30
+Africa,Burundi,2009,86,84,80,81,,2000,24,0,0,32
+Asia,laos,2016,86,80,73,,,2900,43,46,44,33
+European Union,Bulgaria,2011,86,66,80,55,,170,2.4,62,65,42
+Middle East,Iran,2016,86,76,70,,,840,1,11,53,49
+Middle East,Yemen,2014,86,66,,71,,1500,5.9,34,53,50
+Africa,Senegal,2016,86,78,64,,,2800,18,66,64,54
+Africa,Egypt,2013,86,72,29,57,,290,0.32,0.84,119,57
+Africa,Djibouti,2016,86,79,,,,330,35,43,80,71
+Africa,Somalia,2014,86,59,,76,,10000,77,0.34,176,76
+Africa,Rwanda,2016,86,83,77,,,610,5.1,60,81,79
+Africa,Rwanda,2014,86,80,,88,,590,5.2,36,82,81
+Africa,Kenya,2010,86,79,82,82,0,32000,78,0,249,118
+Middle East,Morocco,2014,86,63,,60,,2800,8.2,3.4,115,123
+Africa,Nigeria,2012,86,83,79,62,,92000,55,,439,125
+Asia,Democratic Republic of the Congo,2008,86,75,,56,,36000,60,,128,128
+Africa,Namibia,2013,86,71,81,64,0,730,31,0,283,170
+Africa,Kenya,2012,86,78,83,83,,32000,73,0.25,260,202
+Europe,Turkey,2013,86,38,53,65,33,720,0.95,83,283,228
+Africa,Namibia,2011,86,80,72,59,67,730,33,0,192,242
+Asia,Tajikistan,2010,86,72,55,62,,530,7,7,620,245
+Africa,Kenya,2013,86,78,79,82,0,31000,70,0.37,160,290
+Asia,Mongolia,2014,86,74,75,66,,310,11,58,318,294
+Africa,Nigeria,2013,86,83,80,77,0,97000,57,0,554,426
+Asia,Indonesia,2012,86,71,49,54,64,122000,49,,649,426
+Asia,Uzbekistan,2009,86,69,54,61,20,2800,9.9,12,746,464
+European Union,Romania,2016,86,49,70,,,980,5,56,536,590
+Asia,Uzbekistan,2010,86,73,59,58,0,2600,9,60,1042,628
+European Union,Romania,2011,86,59,61,26,18,1300,6.4,42,647,736
+Africa,Nigeria,2016,86,83,77,,,115000,62,38,1686,1251
+America,Peru,2016,86,73,69,,,2300,7.2,76,1457,1645
+Asia,Indonesia,2016,86,71,64,,,109000,42,1.6,2720,1879
+Asia,Kazakhstan,2012,86,78,35,73,,1800,11,,8123,7213
+America,Saint Vincent and the Grenadines,2004,86,,90,,,0,0,,,
+European Union,Netherlands,2003,86,65,,69,,76,0.47,,,
+Middle East,Jordan,2001,86,60,,,,37,0.7,,,
+European Union,Denmark,2004,86,70,40,,,40,0.74,,,
+European Union,Denmark,2000,86,87,,,,40,0.74,,,
+Middle East,Israel,2001,86,71,81,78,,55,0.89,,,
+Africa,Seychelles,2007,86,,100,,,1,1.2,,,
+Middle East,Israel,2000,86,38,79,68,,79,1.3,,,
+European Union,Poland,2002,86,73,,,,1000,2.6,,,
+Oceania,Fiji,2003,86,50,,,,23,2.9,,,
+America,Chile,2002,86,,,50,,620,4,,,
+America,Guatemala,2000,86,79,,,,570,4.9,,,
+Europe,Republic of North Macedonia,2000,86,,,,,100,4.9,,,
+America,Honduras,2006,86,71,,,,460,6.1,,,
+America,Honduras,2001,86,70,,,,500,7.4,,,
+America,Honduras,2000,86,54,,,,490,7.5,,,
+Oceania,Vanuatu,2007,86,,,,,17,7.7,,,
+Middle East,Morocco,2004,86,,,25,,2400,8,,,
+Middle East,Morocco,2003,86,70,,,,2500,8.4,,,
+Africa,Benin,2007,86,86,,100,,920,11,,,
+Oceania,Tuvalu,2005,86,,,,,1,11,,,
+Oceania,Marshall Islands,2001,86,,,,,8,15,,,
+Oceania,Tuvalu,2000,86,,,,,2,16,,,
+Africa,Eritrea,2010,86,88,,,,730,17,,,
+Africa,Eritrea,2009,86,82,,,,740,17,,,
+Africa,Gambia,2004,86,74,,,,250,18,,,
+Asia,Bhutan,2006,86,75,,83,,130,19,,,
+Asia,Nepal,2002,86,82,,,,4900,20,,,
+Asia,Bhutan,2002,86,55,,,,150,25,,,
+Africa,Zambia,2005,86,83,,,,3700,30,,,
+Oceania,Kiribati,2006,86,80,,,,32,34,,,
+Oceania,Kiribati,2001,86,100,,,,32,37,,,
+Asia,Pakistan,2006,86,77,,,,62000,39,,,
+Asia,Afghanistan,2009,86,,,,,12000,44,,,
+Africa,Sierra Leone,2010,86,75,,,,3300,51,,,
+Asia,Afghanistan,2003,86,,,,,13000,57,,,
+Africa,Sierra Leone,2008,86,85,,,,3700,60,,,
+Asia,Indonesia,2002,86,78,,,,143000,66,,,
+Asia,Indonesia,2001,86,83,,,,144000,67,,,
+Africa,Sierra Leone,2006,86,82,,,,4200,72,,,
+Africa,Sierra Leone,2005,86,75,,,,4400,78,,,
+Africa,Somalia,2007,86,,,,,8800,80,,,
+Asia,laos,2004,86,78,,,,5000,88,,,
+Africa,Somalia,2001,86,,,,,8400,90,,,
+Asia,Afghanistan,1999,86,84,,,,,,,,
+Africa,Algeria,1997,86,,,,,,,,,
+Africa,Algeria,1996,86,65,,,,,,,,
+Oceania,Fiji,1996,86,,,,,,,,,
+Oceania,Fiji,1995,86,,,,,,,,,
+Africa,Gabon,1995,86,,,,,,,,,
+Asia,Mongolia,1999,86,81,,,,,,,,
+Middle East,Oman,1998,86,100,,,,,,,,
+America,Saint Vincent and the Grenadines,1997,86,,,,,,,,,
+Oceania,Samoa,1998,86,,,,,,,,,
+Asia,Singapore,1995,86,,,,,,,,,
+Africa,Somalia,1995,86,,,,,,,,,
+Africa,Seychelles,2012,85,,67,,,0,0,82,0,0
+Europe,Iceland,2006,85,,,,,2,0.67,,0,0
+Middle East,United Arab Emirates,2015,85,0,50,,,64,0.69,48,0,0
+America,Costa Rica,2015,85,,61,,,47,0.98,0,0,0
+Africa,Mauritius,2007,85,50,71,100,,14,1.2,100,0,0
+America,Nicaragua,2009,85,76,,38,,200,3.6,0,0,0
+Oceania,Vanuatu,2013,85,,,,,19,7.4,0,0,0
+Africa,Sao Tome and Principe,2009,85,67,50,,,24,14,0,0,0
+Africa,Gambia,2012,85,77,,,,350,20,0,0,0
+Africa,Sierra Leone,2014,85,62,,,,3900,55,0,0,0
+Oceania,Marshall Islands,2007,85,75,,,,22,42,88,1,0
+Oceania,Samoa,2016,85,,,,,1,0.63,62,2,0
+Africa,Togo,2010,85,82,79,,,750,12,0,2,0
+European Union,Denmark,2005,85,91,,,,27,0.5,,5,0
+America,Chile,2007,85,29,,36,,560,3.4,6.7,7,0
+America,Chile,2006,85,66,,50,,610,3.8,6.6,7,0
+Middle East,Kuwait,2006,85,,,60,,30,1.3,,10,0
+Africa,United Republic of Tanzania,2006,85,78,,,,34000,84,1.5,13,0
+Oceania,Australia,2005,85,72,75,,,61,0.3,0,14,0
+Oceania,Australia,2007,85,76,92,,,52,0.25,0,27,0
+European Union,Bulgaria,2008,85,67,,23,,240,3.2,70,32,0
+European Union,Portugal,2007,85,72,68,32,,290,2.7,81,34,0
+America,Nicaragua,2005,85,83,,,,330,6.2,0.64,50,0
+European Union,Bulgaria,2006,85,71,100,,,280,3.6,85,53,0
+Asia,Uzbekistan,2005,85,69,77,,,3400,13,0,86,0
+America,United States of America,2007,85,,82,85,,630,0.21,,124,0
+European Union,Romania,2006,85,51,65,24,,1700,8,0,139,0
+European Union,Romania,2005,85,51,69,,,1800,8.3,13,530,0
+Europe,Montenegro,2009,85,73,,100,,1,0.2,,2,1
+Africa,Ghana,2011,85,77,74,50,,9800,39,0,9,2
+Middle East,Jordan,2015,85,21,,67,,25,0.27,14,3,3
+Oceania,Timor-Leste,2008,85,71,,,,1000,92,0,3,3
+South Asia,Sri Lanka,2013,85,62,24,50,,870,4.3,21,12,4
+Africa,Togo,2011,85,78,,25,,690,10,4.1,12,4
+Middle East,Lebanon,2009,85,80,40,100,,43,1,7.8,5,6
+Africa,Malawi,2009,85,85,,67,,4400,30,0,6,6
+European Union,Netherlands,2014,85,70,76,86,,35,0.21,,7,6
+Europe,Republic of North Macedonia,2010,85,65,,14,0,34,1.7,,7,7
+America,Cuba,2012,85,30,54,67,0,41,0.36,61,13,8
+Middle East,Jordan,2009,85,79,,50,,33,0.49,87,8,9
+Middle East,Yemen,2008,85,76,,,,2500,11,1.9,2,10
+Middle East,Lebanon,2016,85,92,67,,,61,1,59,10,10
+America,Honduras,2008,85,70,68,17,,440,5.6,0,10,10
+Africa,Togo,2016,85,69,,,,320,4.1,4.6,11,10
+America,Nicaragua,2010,85,76,,,,270,4.7,3.5,20,10
+Africa,Tunisia,2010,85,,,75,,400,3.7,0.55,12,12
+South Asia,Sri Lanka,2015,85,68,76,77,,770,3.7,13,15,13
+America,Honduras,2010,85,75,61,56,,430,5.2,3.1,11,14
+Africa,Ghana,2014,85,81,76,64,,10000,38,4.3,93,14
+America,Bolivia,2010,85,78,,53,,1400,14,0,110,14
+European Union,Bulgaria,2016,85,75,,,,100,1.5,42,22,15
+South Asia,Sri Lanka,2016,85,66,83,,,790,3.8,15,23,17
+European Union,Bulgaria,2013,85,50,75,52,0,160,2.1,73,37,19
+America,Nicaragua,2014,85,78,,73,,140,2.3,0.76,18,20
+Oceania,Australia,2013,85,83,77,86,,52,0.22,,26,22
+Africa,Ghana,2013,85,77,73,69,,9900,38,0,65,26
+America,Guatemala,2011,85,64,64,70,,320,2.2,0,27,27
+Africa,Zambia,2008,85,80,82,,,4000,31,0,56,36
+America,Bolivia,2009,85,78,,76,,1500,15,0,71,37
+Africa,Nigeria,2011,85,82,73,63,,89000,55,,183,38
+European Union,Latvia,2016,85,58,60,,,72,3.7,80,56,39
+America,Guatemala,2014,85,53,71,59,,340,2.1,17,62,42
+Africa,Rwanda,2013,85,75,76,81,,590,5.3,7.7,42,43
+America,Bolivia,2013,85,77,,61,,1300,12,6.1,96,47
+Africa,Ghana,2015,85,78,75,55,,10000,37,5.5,72,60
+Africa,Malawi,2014,85,75,,58,,4700,27,0.72,106,64
+Africa,Djibouti,2015,85,71,,42,,350,37,5.5,85,71
+Africa,Ghana,2016,85,76,77,,,10000,36,32,107,77
+Africa,Zambia,2013,85,80,,33,,4700,31,0,79,79
+Africa,Mozambique,2010,85,,,29,,14000,59,0.39,175,87
+Africa,Zambia,2012,85,79,,27,,4800,33,0,80,97
+Africa,Zambia,2015,85,84,87,60,,5000,31,0.22,196,99
+Africa,Mozambique,2009,85,,,0,,14000,59,0.37,161,103
+America,United States of America,2014,85,79,80,78,0,520,0.16,,108,107
+Africa,Egypt,2015,85,64,79,65,,400,0.42,13,210,107
+Africa,Guinea,2016,85,71,83,,,3300,26,17,178,137
+Asia,Turkmenistan,2014,85,65,,67,,620,11,28,209,210
+Africa,Namibia,2010,85,78,78,58,13,700,32,0,214,214
+Asia,Mongolia,2015,85,68,33,60,60,310,11,23,243,273
+Africa,Namibia,2012,85,78,81,68,20,720,32,0,210,288
+Asia,Philippines,2009,85,61,0,54,,32000,35,1.4,1077,501
+European Union,Romania,2015,85,47,63,45,39,1100,5.4,48,576,591
+European Union,Romania,2014,85,45,69,44,16,1100,5.7,73,578,648
+European Union,Romania,2013,85,45,58,41,16,1100,5.7,59,627,650
+Asia,Georgia,2012,85,74,63,48,28,240,5.8,84,361,665
+European Union,Romania,2012,85,45,60,34,7,1300,6.2,43,608,729
+Asia,Uzbekistan,2011,85,72,66,53,13,2400,8.3,9.5,1435,855
+Asia,Kyrgyzstan,2013,85,76,,57,28,650,11,,1191,1064
+Asia,Indonesia,2015,85,67,60,47,28,113000,44,0.48,2135,1519
+Europe,Belarus,2012,85,69,64,54,,780,8.3,90,1604,2478
+Oceania,Australia,2006,85,88,85,74,,58,0.28,,,
+Middle East,Qatar,2013,85,,,,,8,0.35,,,
+Middle East,Iran,2002,85,74,,33,,690,1,,,
+Middle East,Iran,2001,85,76,,,,680,1,,,
+Middle East,Iran,2000,85,76,,,,670,1,,,
+European Union,Slovakia,2002,85,81,,50,,65,1.2,,,
+European Union,Slovenia,2002,85,71,,,,23,1.2,,,
+European Union,Slovenia,2003,85,93,,100,,29,1.5,,,
+Oceania,Fiji,2001,85,,,,,14,1.8,,,
+Oceania,Fiji,2000,85,,,,,15,1.9,,,
+America,Uruguay,2001,85,,,,,75,2.2,,,
+America,Uruguay,2000,85,,,,,78,2.3,,,
+Oceania,Fiji,2008,85,,,,,22,2.6,,,
+America,Guatemala,2004,85,,,,,410,3.2,,,
+European Union,Bulgaria,2004,85,75,,,,280,3.6,,,
+America,Chile,2003,85,,,,,640,4,,,
+America,Guatemala,2001,85,69,,,,540,4.5,,,
+Middle East,Iraq,2004,85,71,,,,1400,5.4,,,
+Middle East,Iraq,2003,85,80,,,,1400,5.6,,,
+America,Honduras,2004,85,66,,,,480,6.6,,,
+South Asia,Sri Lanka,2004,85,68,,,,1300,6.7,,,
+America,Belize,2002,85,,,,,20,7.7,,,
+Oceania,Solomon Islands,2004,85,92,,,,47,10,,,
+Asia,Uzbekistan,2003,85,68,,,,4000,16,,,
+Africa,Eritrea,2004,85,,,,,1100,28,,,
+Africa,Zambia,2014,85,80,,51,,4800,31,,,
+Africa,Eritrea,2003,85,,,,,1200,32,,,
+Asia,Democratic Republic of the Congo,2004,85,71,61,53,,29000,55,,,
+Asia,Democratic Republic of the Congo,2005,85,74,,,,31000,56,,,
+Asia,Afghanistan,2000,85,78,,,,14000,67,,,
+Asia,Bangladesh,2003,85,73,,,,97000,70,,,
+Europe,Belarus,1996,85,,,,,,,,,
+Asia,Bhutan,1999,85,87,,,,,,,,
+Asia,Bhutan,1997,85,88,,,,,,,,
+Asia,Brunei Darussalam,1998,85,93,,,,,,,,
+Africa,Comoros,1997,85,80,,,,,,,,
+Africa,Egypt,1999,85,60,,,,,,,,
+Middle East,Israel,1999,85,50,83,50,,,,,,
+Middle East,Jordan,1997,85,,,,,,,,,
+Asia,Nepal,1998,85,77,,,,,,,,
+European Union,Portugal,1999,85,80,,,,,,,,
+European Union,Slovakia,1998,85,85,,,,,,,,
+Oceania,Vanuatu,1995,85,,,,,,,,,
+Asia,Vietnam,1997,85,80,,,,,,,,
+America,Bahamas,2014,84,100,67,,,1,0.38,84,0,0
+European Union,Slovenia,2007,84,83,,,,29,1.5,,0,0
+Asia,Brunei Darussalam,2008,84,83,,,,9,2.4,0,0,0
+Asia,Maldives,2013,84,75,,,,12,3,6.2,0,0
+Oceania,Vanuatu,2006,84,,,,,15,7.1,69,0,0
+Oceania,Palau,2010,84,,,,,2,8.7,58,0,0
+Oceania,Palau,2009,84,,,,,2,8.8,0,0,0
+Africa,Gambia,2008,84,74,,,,340,21,0,0,0
+Africa,Gambia,2007,84,75,,,,400,26,0,0,0
+Africa,Liberia,2008,84,88,66,,,2300,62,0,0,0
+Europe,Montenegro,2012,84,,,100,,1,0.2,98,1,0
+European Union,Slovenia,2009,84,88,,,,25,1.2,,1,0
+Middle East,Yemen,2007,84,71,,,,2800,13,2.1,2,0
+Middle East,Jordan,2007,84,67,100,78,,44,0.7,45,5,0
+Europe,Bosnia and Herzegovina,2012,84,77,,43,,170,4.5,97,7,0
+Europe,Norway,2014,84,80,77,90,,13,0.25,88,8,0
+Middle East,Kuwait,2007,84,100,,50,,41,1.6,,8,0
+Africa,Malawi,2007,84,84,,0,,4300,31,0,12,0
+European Union,Netherlands,2008,84,74,88,93,,53,0.32,,13,0
+America,Canada,2015,84,,84,,,110,0.3,76,19,0
+Middle East,Israel,2006,84,80,83,90,,36,0.53,,19,0
+European Union,Netherlands,2009,84,74,74,60,,65,0.39,,22,0
+America,Guatemala,2007,84,73,61,0,,340,2.5,0,23,0
+Asia,Turkmenistan,2009,84,,,,,710,14,12,46,0
+Africa,Nigeria,2009,84,81,80,,,81000,53,,47,0
+Africa,Zambia,2006,84,81,80,,,3700,30,0,50,0
+America,United States of America,2006,84,,49,72,,700,0.24,,123,0
+Africa,Ethiopia,2007,84,63,,,,50000,62,,145,0
+Asia,Myanmar,2008,84,73,64,,,30000,61,0,508,0
+Asia,Myanmar,2007,84,53,62,,,29000,58,0,600,0
+America,Uruguay,2010,84,76,57,100,,47,1.4,36,1,1
+Oceania,Marshall Islands,2010,84,50,,100,,26,51,96,1,1
+America,Bahamas,2012,84,,75,100,,1,0.3,84,3,1
+America,Uruguay,2011,84,79,64,100,,61,1.8,75,3,1
+Oceania,Timor-Leste,2013,84,91,,50,,1000,87,0,2,2
+Oceania,New Zealand,2013,84,80,,100,,12,0.27,2.4,3,2
+Middle East,Lebanon,2008,84,64,60,0,,45,1.1,4.3,3,2
+Africa,Ghana,2012,84,72,73,100,,10000,39,0,20,2
+America,Costa Rica,2016,84,100,48,,,45,0.92,0.84,3,3
+Oceania,Timor-Leste,2014,84,66,,100,,1100,93,0,3,3
+Africa,Ghana,2010,84,77,69,33,,10000,42,0,6,3
+America,Cuba,2013,84,28,57,100,,46,0.41,57,9,3
+America,Cuba,2016,84,40,60,,,48,0.42,42,6,6
+Middle East,Jordan,2008,84,75,,44,,46,0.7,56,6,6
+Middle East,Israel,2013,84,,71,57,0,15,0.19,,8,8
+Europe,Serbia,2012,84,73,100,50,100,150,1.7,84,10,9
+Africa,Guinea,2011,84,64,,7,,3000,28,0.12,78,10
+European Union,Netherlands,2010,84,76,83,64,,56,0.34,99,12,11
+South Asia,Sri Lanka,2014,84,63,63,69,,820,4,28,13,11
+Middle East,Israel,2010,84,80,36,33,0,28,0.38,,18,12
+Middle East,Syrian Arab Republic,2011,84,70,71,58,,54,0.26,12,64,12
+America,Nicaragua,2013,84,69,,78,,150,2.6,6.6,14,15
+European Union,Netherlands,2011,84,80,77,65,,37,0.22,99,17,15
+Africa,Madagascar,2016,84,79,,,,13000,53,1.9,40,15
+America,Venezuela ,2009,84,80,70,52,,660,2.3,0.57,23,21
+America,Guatemala,2013,84,67,62,78,,340,2.2,0.18,51,28
+Africa,Kenya,2008,84,72,81,61,,30000,77,0,102,28
+Africa,Senegal,2012,84,69,70,76,,2900,21,0.37,46,32
+Middle East,Iran,2011,84,72,59,68,0,780,1,13,126,38
+America,Bolivia,2015,84,62,,66,,1200,11,5.6,79,41
+America,Bolivia,2012,84,76,,67,,1300,13,22,179,44
+European Union,Estonia,2014,84,100,71,74,13,29,2.2,,50,48
+Africa,Mozambique,2008,84,65,,36,,15000,68,0.39,181,56
+Africa,Rwanda,2012,84,79,77,98,,620,5.7,0,60,58
+European Union,Latvia,2015,84,69,76,66,50,96,4.8,77,63,63
+Asia,Myanmar,2009,84,73,65,73,,28000,57,0,815,64
+Africa,Egypt,2014,84,56,,63,100,280,0.3,1.2,86,72
+Africa,Somalia,2015,84,57,,75,,11000,76,0,75,74
+America,United States of America,2012,84,80,75,59,,550,0.17,,105,80
+Africa,Rwanda,2011,84,80,,91,,650,6.2,0,81,85
+Africa,Cameroon,2014,84,65,78,81,,6700,30,,126,91
+Africa,Cameroon,2015,84,73,81,86,,6600,29,,122,122
+Africa,Cameroon,2016,84,70,79,,,6800,29,0,176,135
+Africa,Kenya,2009,84,78,82,69,0,32000,80,0,184,140
+European Union,Lithuania,2016,84,69,57,,,180,6,79,255,255
+Asia,Thailand,2009,84,68,70,,,9100,14,0,0,296
+Africa,Namibia,2016,84,68,80,,,750,30,2.6,360,362
+Asia,Philippines,2008,84,70,,53,,31000,35,,929,387
+Asia,Georgia,2015,84,65,69,56,56,220,5.6,65,418,466
+Asia,Kyrgyzstan,2011,84,56,0,57,21,680,12,0,928,492
+European Union,Romania,2010,84,55,58,20,7,1500,7.3,38,640,502
+Asia,Turkmenistan,2016,84,83,,,,590,10,0,560,569
+Africa,Ethiopia,2015,84,,,75,,26000,26,8.8,597,597
+Africa,Nigeria,2015,84,84,76,78,,113000,62,40,1241,656
+Asia,Azerbaijan,2016,84,74,,,,710,7.3,31,925,798
+North Asia,North Korea,2016,84,70,,,,2600,5,51,885,913
+North Asia,North Korea,2015,84,73,,64,64,2600,5.2,45,961,986
+Asia,Kyrgyzstan,2014,84,79,,56,16,540,9.4,0,1267,1157
+Asia,Indonesia,2014,84,63,56,51,13,116000,46,0.55,1812,1284
+Asia,Uzbekistan,2012,84,72,62,49,14,2100,7.2,53,2233,1491
+America,United States of America,2004,84,,47,61,,750,0.26,,,
+Oceania,New Zealand,2016,84,,100,,,12,0.27,,,
+European Union,Denmark,2003,84,78,,,,27,0.51,,,
+Europe,Albania,2002,84,70,,,,20,0.64,,,
+Middle East,Israel,2003,84,87,65,80,,49,0.78,,,
+Middle East,Iran,2003,84,77,,,,700,1,,,
+European Union,Slovenia,2000,84,75,,,,22,1.1,,,
+European Union,Ireland,2000,84,40,,,,52,1.4,,,
+European Union,Bulgaria,2015,84,68,0,63,50,120,1.6,,,
+Oceania,Samoa,2002,84,,,,,3,1.7,,,
+Asia,Brunei Darussalam,2002,84,70,,,,11,3.1,,,
+European Union,Portugal,2003,84,73,,49,,390,3.7,,,
+European Union,Bulgaria,2002,84,79,,26,,300,3.8,,,
+America,Guatemala,2002,84,71,,,,470,3.8,,,
+Europe,Republic of North Macedonia,2003,84,71,,33,,85,4.1,,,
+North Asia,North Korea,2008,84,76,,,,2900,5.9,,,
+America,Nicaragua,2003,84,68,,,,380,7.2,,,
+America,Dominican Republic,2005,84,60,54,,,690,7.5,,,
+America,Ecuador,2004,84,59,,75,,1000,7.7,,,
+Africa,Algeria,2001,84,72,,,,2500,7.9,,,
+America,Ecuador,2003,84,,,,,1100,8.3,,,
+America,Ecuador,2002,84,,,39,,1200,9.4,,,
+Asia,Turkmenistan,2012,84,63,,,,650,12,,,
+Africa,Eritrea,2008,84,68,,,,760,18,,,
+Asia,Kyrgyzstan,2003,84,74,,,,1000,20,,,
+Asia,Nepal,2000,84,77,,,,4600,20,,,
+Asia,Kazakhstan,2004,84,49,,,,3800,24,,,
+America,Bolivia,2002,84,69,,,,2200,26,,,
+Asia,Kazakhstan,2005,84,47,42,,,4100,26,,,
+Asia,Afghanistan,2006,84,79,,,,11000,42,,,
+Africa,Djibouti,2008,84,76,,,,450,54,,,
+Asia,Afghanistan,2001,84,,,,,13000,62,,,
+Africa,Ethiopia,2006,84,69,,,,54000,69,,,
+Asia,Bangladesh,2002,84,69,,,,96000,71,,,
+Oceania,Timor-Leste,2007,84,75,,,,980,92,,,
+European Union,Austria,1996,84,,,,,,,,,
+Asia,Azerbaijan,1998,84,70,,,,,,,,
+America,Dominican Republic,1997,84,,,,,,,,,
+Asia,Mongolia,1998,84,77,,,,,,,,
+Middle East,Oman,1995,84,,,,,,,,,
+Middle East,Qatar,1998,84,,,,,,,,,
+Asia,Singapore,1998,84,82,,,,,,,,
+Africa,Somalia,1996,84,82,,,,,,,,
+Middle East,Syrian Arab Republic,1999,84,,,,,,,,,
+America,Uruguay,1998,84,70,,,,,,,,
+Europe,Montenegro,2008,83,80,,,,4,0.62,,0,0
+Oceania,Samoa,2011,83,,,,,2,1,0,0,0
+Oceania,Samoa,2013,83,,,,,2,1.1,100,0,0
+Oceania,Fiji,2009,83,80,,,,18,2.1,0,0,0
+Oceania,Palau,2016,83,,,,,2,10,74,0,0
+Oceania,Tuvalu,2011,83,,,,,1,11,0,0,0
+Oceania,Tuvalu,2009,83,,,,,2,16,0,0,0
+Africa,Ghana,2009,83,76,61,,,10000,44,0,0,0
+European Union,Slovenia,2006,83,75,100,,,18,0.92,,1,0
+America,Uruguay,2007,83,73,54,50,,80,2.4,93,1,0
+Asia,Maldives,2015,83,,,0,,14,3.4,24,1,0
+America,Belize,2008,83,,17,,,19,6.2,0,1,0
+Oceania,Micronesia,2005,83,100,,,,13,13,,1,0
+Europe,Andorra,2014,83,,,,,0,0,,2,0
+Middle East,Qatar,2005,83,,,,,4,0.42,,2,0
+Africa,Togo,2009,83,71,73,50,,670,11,0,4,0
+Europe,Republic of North Macedonia,2006,83,60,,33,,64,3.1,63,6,0
+America,Chile,2005,83,72,,,,620,3.8,3.2,6,0
+Africa,Madagascar,2011,83,80,,,,12000,54,,10,0
+Africa,United Republic of Tanzania,2005,83,77,,,,33000,83,0.6,10,0
+Europe,Serbia,2005,83,73,67,,,280,3,76,17,0
+Middle East,Jordan,2005,83,,,,,40,0.7,97,19,0
+Middle East,Yemen,2006,83,73,,,,3200,15,15,21,0
+European Union,Portugal,2009,83,69,,21,,280,2.6,94,25,0
+Europe,Serbia,2007,83,73,44,,,240,2.7,61,25,0
+Africa,Zambia,2007,83,81,81,,,3800,29,0,27,0
+Middle East,Iran,2006,83,74,60,23,,730,1,9,28,0
+America,Venezuela ,2005,83,80,62,,,770,2.9,4.3,28,0
+Africa,Kenya,2007,83,80,81,69,,30000,80,0,82,0
+Africa,Kenya,2006,83,79,,100,,29000,78,0,89,0
+European Union,Latvia,2007,83,58,69,61,,150,7,,98,0
+America,United States of America,2015,83,77,77,69,100,520,0.16,76,109,0
+Africa,Mozambique,2006,83,65,,41,,18000,81,0.33,129,0
+America,United States of America,2005,83,,54,,,730,0.25,,168,0
+Middle East,Morocco,2005,83,72,,,,2500,8,1.4,180,0
+Asia,Myanmar,2006,83,70,61,,,31000,64,0,666,0
+Asia,Kazakhstan,2006,83,37,30,81,,3600,23,,4117,0
+Asia,Kazakhstan,2007,83,53,27,77,,3200,20,,5568,0
+Asia,Maldives,2016,83,,100,,,15,3.5,36,1,2
+Oceania,Marshall Islands,2011,83,100,,50,,19,36,100,1,2
+Middle East,Lebanon,2015,83,90,60,100,,61,1,35,2,3
+Asia,Singapore,2009,83,76,73,100,,92,1.9,98,4,3
+Asia,Singapore,2011,83,76,75,83,,92,1.8,97,10,5
+Middle East,Kuwait,2008,83,100,0,25,,31,1.2,,8,8
+America,Venezuela ,2008,83,84,81,60,,750,2.7,0.38,8,8
+Asia,Thailand,2010,83,66,69,,,8500,13,0,0,9
+America,Cuba,2015,83,50,58,25,,48,0.42,41,9,9
+Europe,Serbia,2016,83,57,100,,,81,0.92,0,8,10
+Africa,Tunisia,2009,83,,,82,100,410,3.9,32,24,10
+European Union,Netherlands,2012,83,64,,73,,35,0.21,99,14,11
+Africa,Madagascar,2014,83,78,,75,,12000,51,0,27,11
+European Union,Sweden,2012,83,73,,83,100,39,0.41,100,15,12
+Middle East,Israel,2015,83,,71,80,100,15,0.18,69,15,14
+Africa,Malawi,2011,83,82,,69,,4800,31,1.5,34,16
+America,Mexico,2009,83,61,62,81,,2400,2.1,,11,18
+Middle East,Iran,2008,83,72,58,36,0,750,1,4.3,19,19
+Africa,Senegal,2011,83,68,,70,,3100,23,0.18,51,27
+America,Guatemala,2009,83,64,66,59,,390,2.8,8,414,28
+America,Venezuela ,2015,83,77,81,71,100,770,2.5,6.1,43,31
+European Union,Estonia,2015,83,100,81,71,33,22,1.6,84,43,34
+Africa,Malawi,2010,83,77,,69,,4300,28,10,88,39
+America,Bolivia,2014,83,57,,75,,1300,12,4.3,110,55
+European Union,Latvia,2014,83,67,66,72,77,67,3.3,99,71,70
+Middle East,Iran,2010,83,69,57,41,,770,1,4.7,115,73
+European Union,Latvia,2013,83,81,67,67,73,100,5.1,100,82,79
+America,United States of America,2013,83,78,75,79,100,600,0.19,,108,90
+America,Dominican Republic,2011,83,61,71,61,0,590,5.8,0.42,117,107
+Africa,Guinea,2014,83,66,77,75,,3300,28,1.8,105,124
+America,Dominican Republic,2013,83,51,65,73,75,460,4.5,2.2,105,126
+America,Dominican Republic,2014,83,58,69,50,,450,4.3,9.1,93,127
+Africa,Eswatini,2016,83,76,83,,,150,11,80,181,246
+Africa,Namibia,2015,83,60,79,74,0,790,33,0,320,308
+Asia,Georgia,2016,83,58,57,,,210,5.5,69,401,393
+Asia,Azerbaijan,2012,83,74,80,60,36,420,4.6,47,669,404
+Asia,Georgia,2014,83,69,76,49,32,230,5.7,95,441,501
+Asia,Tajikistan,2012,83,75,57,66,100,490,6.1,71,966,535
+Asia,Azerbaijan,2014,83,74,,59,23,430,4.5,,1007,814
+Asia,Azerbaijan,2015,83,73,,59,,570,5.9,32,1171,827
+Asia,Thailand,2016,83,71,72,,,9400,14,8.3,955,952
+Europe,Republic of Moldova,2016,83,44,55,,,300,7.4,58,1031,1037
+Asia,Uzbekistan,2013,83,78,,53,,2100,6.9,99,5751,2647
+Europe,Iceland,2016,83,,,,,0,0,,,
+America,United States of America,2003,83,,,,,800,0.28,,,
+America,United States of America,2002,83,,,,,900,0.31,,,
+America,United States of America,2001,83,,,,,890,0.31,,,
+America,United States of America,2000,83,,,,,910,0.32,,,
+European Union,Slovenia,2004,83,74,100,,,12,0.62,,,
+European Union,Sweden,2003,83,82,,67,,59,0.66,,,
+Oceania,Samoa,2009,83,,,,,2,0.82,,,
+Middle East,Iran,2004,83,74,57,,,710,1,,,
+Oceania,Tonga,2002,83,100,,,,3,2.8,,,
+Asia,Brunei Darussalam,2006,83,100,100,,,11,2.9,,,
+America,Mexico,2002,83,58,,,,3500,3.3,,,
+European Union,Portugal,2004,83,68,63,55,,360,3.4,,,
+America,Chile,2001,83,73,,,,640,4.1,,,
+America,Chile,2004,83,,,43,,680,4.2,,,
+North Asia,North Korea,2009,83,71,50,,,2800,5.7,,,
+North Asia,North Korea,2007,83,72,,,,3000,6.1,,,
+North Asia,North Korea,2005,83,75,,,,3600,7.3,,,
+America,Nicaragua,2001,83,72,,,,390,7.6,,,
+North Asia,North Korea,2002,83,68,,,,3900,8.1,,,
+North Asia,North Korea,2000,83,60,,,,4100,8.6,,,
+Africa,Benin,2004,83,78,,,,1100,14,,,
+Asia,Azerbaijan,2002,83,64,,,,1300,16,,,
+Africa,Sudan,2006,83,80,83,,,8100,20,,,
+Africa,Zambia,2004,83,78,,,,3300,28,,,
+Asia,Democratic Republic of the Congo,2003,83,72,,,,30000,59,,,
+Asia,Bangladesh,2001,83,,,,,97000,72,,,
+Asia,Myanmar,2005,83,71,62,,,37000,76,,,
+Africa,Sierra Leone,2003,83,77,,,,4300,83,,,
+Africa,Somalia,2000,83,54,,,,8500,94,,,
+Asia,Azerbaijan,1999,83,69,,,,,,,,
+America,Barbados,1997,83,,,,,,,,,
+America,Chile,1999,83,69,,,,,,,,
+America,Chile,1998,83,78,,,,,,,,
+Asia,South Korea,1998,83,85,,,,,,,,
+America,Dominica,1997,83,,,,,,,,,
+Africa,Egypt,1998,83,63,,,,,,,,
+Africa,Eritrea,1997,83,,,,,,,,,
+Middle East,Iran,1997,83,76,,,,,,,,
+Middle East,Iran,1996,83,82,,,,,,,,
+Oceania,Kiribati,1998,83,,,,,,,,,
+Asia,Kyrgyzstan,1999,83,68,,,,,,,,
+Oceania,Marshall Islands,1998,83,100,,,,,,,,
+Oceania,Nauru,1998,83,,,,,,,,,
+America,Peru,1995,83,,,,,,,,,
+European Union,Poland,1996,83,,,,,,,,,
+Europe,Republic of North Macedonia,1999,83,76,,,,,,,,
+Europe,Ukraine,1995,83,,,,,,,,,
+America,Uruguay,1999,83,,,,,,,,,
+European Union,Slovenia,2010,82,64,100,,,20,0.99,100,0,0
+America,Uruguay,2008,82,72,53,,,48,1.4,96,0,0
+Oceania,Vanuatu,2011,82,100,,,,25,10,0,0,0
+Africa,Djibouti,2011,82,63,,51,,450,52,0,0,0
+European Union,Slovenia,2005,82,85,,,,18,0.93,,1,0
+America,Uruguay,2006,82,76,55,100,,42,1.3,90,1,0
+Asia,Bhutan,2005,82,75,,,,140,21,0.65,2,0
+Africa,Ghana,2008,82,67,72,,,11000,47,0,2,0
+America,Venezuela ,2007,82,79,73,70,,790,2.8,0.54,3,0
+Oceania,New Zealand,2014,82,33,100,33,,12,0.27,,5,0
+Asia,Singapore,2007,82,82,,75,,110,2.3,96,6,0
+Asia,Singapore,2006,82,76,,67,,82,1.8,97,9,0
+Europe,Serbia,2006,82,74,80,,,220,2.5,67,10,0
+Middle East,Israel,2007,82,100,50,86,,40,0.58,,14,0
+America,Venezuela ,2006,82,77,79,75,,770,2.8,0.83,22,0
+Africa,Gambia,2015,82,,,46,,390,20,0,24,0
+Middle East,Iran,2007,82,77,65,51,,740,1,8.2,43,0
+Africa,Nigeria,2007,82,67,,,,77000,52,,45,0
+European Union,Bulgaria,2007,82,59,,25,,280,3.7,67,82,0
+America,Ecuador,2005,82,64,,,,1100,8.1,3.2,253,0
+Europe,Belarus,2007,82,62,,,,1100,11,94,870,0
+Europe,Bosnia and Herzegovina,2013,82,,,100,,150,4.1,100,1,1
+Africa,Togo,2008,82,75,72,,,620,10,0,2,1
+America,Bahamas,2015,82,,100,67,,1,0.29,54,3,1
+Asia,Singapore,2008,82,70,,100,,110,2.2,97,4,4
+Middle East,Kuwait,2013,82,,,100,,11,0.31,,5,5
+Africa,Madagascar,2012,82,77,,,,12000,54,,12,5
+Africa,Madagascar,2015,82,71,,57,,12000,52,0,41,7
+European Union,Belgium,2016,82,86,63,,,61,0.54,57,12,9
+America,Cuba,2014,82,23,67,57,,38,0.33,66,10,10
+Africa,Senegal,2010,82,60,,90,,2900,22,0.53,46,10
+Africa,South Sudan,2016,82,,65,,,3000,24,4.4,13,12
+Africa,Madagascar,2013,82,75,,64,,12000,53,0.81,26,12
+America,Guatemala,2008,82,65,63,9,,370,2.6,3.5,27,13
+America,Guatemala,2010,82,64,57,78,,370,2.5,0,18,15
+Africa,Guinea,2012,82,,80,80,,3100,28,0,69,15
+America,Canada,2013,82,,74,67,100,110,0.3,,17,16
+Oceania,Australia,2012,82,57,64,75,,35,0.15,,22,16
+Africa,Burundi,2008,82,76,,80,,2200,27,0,17,17
+America,Canada,2014,82,,74,87,,110,0.3,,21,21
+America,Venezuela ,2010,82,83,,48,67,780,2.7,0.78,24,21
+America,Venezuela ,2012,82,72,72,52,0,720,2.4,13,34,21
+Africa,Malawi,2013,82,,,53,,5000,30,1.5,91,21
+Africa,Malawi,2012,82,57,,63,,5000,31,0,36,26
+America,Panama,2015,82,49,66,29,,250,6.3,20,34,34
+Oceania,Australia,2010,82,69,81,56,0,55,0.25,,35,36
+Middle East,Iran,2009,82,73,61,42,,760,1,0,0,38
+America,Bolivia,2011,82,73,,63,,1400,14,1.7,83,41
+America,Venezuela ,2016,82,62,81,,,780,2.5,3.7,59,57
+Africa,Malawi,2016,82,81,80,,,2900,16,0,66,59
+Africa,Rwanda,2008,82,73,,91,,700,7.2,0.98,79,64
+America,Haiti,2011,82,72,70,69,,1200,12,0,86,64
+Europe,United Kingdom,2013,82,75,,65,33,350,0.54,,86,70
+Africa,Sudan,2013,82,71,,64,0,8000,22,0.59,95,72
+Africa,Sudan,2014,82,,,74,,7300,19,0.39,82,74
+Africa,Cameroon,2013,82,71,,92,,7200,33,,118,76
+Africa,Rwanda,2010,82,74,,89,,630,6.1,4,100,85
+America,Dominican Republic,2012,82,64,67,72,,550,5.4,3.1,98,109
+Asia,Thailand,2011,82,69,72,,,8700,13,0,612,123
+America,Haiti,2016,82,61,66,,,1300,12,83,132,131
+America,Mexico,2011,82,61,62,69,100,2700,2.3,,151,140
+Asia,Armenia,2010,82,67,,45,33,160,5.7,87,182,154
+America,Mexico,2010,82,63,58,72,80,2600,2.2,0.16,160,224
+Africa,Côte d'Ivoire,2016,82,65,72,,,5500,23,5,440,349
+Asia,Azerbaijan,2013,82,73,,59,26,440,4.7,76,1039,771
+North Asia,North Korea,2013,82,74,,59,56,2700,5.4,70,1097,951
+America,Peru,2008,82,,60,38,13,2500,8.8,1.3,1074,1055
+Asia,Kyrgyzstan,2015,82,66,61,54,18,480,8.3,33,1116,1158
+Asia,Kyrgyzstan,2016,82,67,57,,,440,7.5,42,1236,1216
+Africa,South Africa,2016,82,62,80,,,22000,39,0,19073,11192
+European Union,Netherlands,2004,82,69,,70,,81,0.5,,,
+European Union,Slovakia,2000,82,78,,,,55,1,,,
+European Union,Slovenia,2001,82,80,,,,27,1.4,,,
+Africa,Egypt,2001,82,67,,,,1100,1.5,,,
+America,Uruguay,2002,82,83,,,,61,1.8,,,
+Africa,Seychelles,2000,82,,,,,2,2.5,,,
+America,Venezuela ,2002,82,78,,,,820,3.2,,,
+America,Mexico,2003,82,33,,,,3500,3.3,,,
+America,Venezuela ,2003,82,70,,56,,870,3.4,,,
+America,Chile,2000,82,58,,,,550,3.6,,,
+European Union,Portugal,2002,82,75,,,,380,3.6,,,
+Middle East,Saudi Arabia,2004,82,61,,,,1100,4.6,,,
+America,Nicaragua,2002,82,77,,,,310,6.1,,,
+North Asia,North Korea,2006,82,72,,,,3400,6.9,,,
+America,Nicaragua,2000,82,75,,,,400,8,,,
+North Asia,North Korea,2003,82,69,,,,3900,8.1,,,
+European Union,Romania,2004,82,50,67,38,,2100,9.7,,,
+Oceania,Nauru,2005,82,,,,,1,10,,,
+Oceania,Vanuatu,2005,82,,,,,31,15,,,
+Middle East,Yemen,2004,82,69,,,,3500,17,,,
+Middle East,Yemen,2003,82,62,,,,3700,19,,,
+Asia,Bhutan,2004,82,82,,,,140,21,,,
+Asia,Kyrgyzstan,2002,82,43,,,,1100,22,,,
+Asia,Kyrgyzstan,2000,82,73,,,,1200,23,,,
+Africa,Sudan,2003,82,81,,,,9000,24,,,
+America,Bolivia,2001,82,68,,,,2400,28,,,
+Africa,Eritrea,2002,82,87,,,,1300,36,,,
+Asia,Pakistan,2005,82,76,,,,63000,41,,,
+Africa,Djibouti,2002,82,73,,,,380,51,,,
+Oceania,Timor-Leste,2005,82,96,,,,690,68,,,
+Africa,United Republic of Tanzania,2004,82,76,,,,31000,82,,,
+Africa,Sierra Leone,2004,82,73,,,,4500,83,,,
+Asia,Myanmar,2004,82,74,,,,40000,84,,,
+Asia,Myanmar,2000,82,74,,,,62000,134,,,
+Asia,South Korea,2000,82,86,,,,37000,161,,,
+Asia,Armenia,1997,82,,,,,,,,,
+European Union,Austria,1995,82,,,,,,,,,
+Africa,Equatorial Guinea,1997,82,63,,,,,,,,
+America,Honduras,1999,82,72,,,,,,,,
+Middle East,Iran,1999,82,72,,,,,,,,
+Middle East,Iran,1998,82,,,,,,,,,
+European Union,Italy,1996,82,73,,,,,,,,
+Asia,Kyrgyzstan,1998,82,,,,,,,,,
+Oceania,Marshall Islands,1999,82,,,,,,,,,
+Asia,Myanmar,1998,82,76,,,,,,,,
+Asia,Myanmar,1997,82,74,,,,,,,,
+Asia,Nepal,1999,82,78,,,,,,,,
+America,Nicaragua,1998,82,81,,,,,,,,
+North Asia,North Korea,1999,82,,,,,,,,,
+North Asia,North Korea,1997,82,,,,,,,,,
+America,Saint Lucia,1998,82,,,,,,,,,
+European Union,Slovenia,1997,82,,,,,,,,,
+Asia,Tajikistan,1996,82,,,,,,,,,
+Oceania,Tonga,1996,82,,,,,,,,,
+America,United States of America,1999,82,,,,,,,,,
+America,Venezuela ,1999,82,,,,,,,,,
+European Union,Slovenia,2015,81,100,,,,11,0.54,93,0,0
+European Union,Slovenia,2012,81,,,,,11,0.54,100,0,0
+European Union,Slovenia,2011,81,100,,,,14,0.69,100,0,0
+Asia,Maldives,2010,81,,,,,8,2.3,0,0,0
+Oceania,Vanuatu,2010,81,100,,,,14,6.1,0,0,0
+Oceania,Tuvalu,2016,81,75,,,,2,17,0,0,0
+Oceania,Marshall Islands,2016,81,,,,,25,46,44,0,0
+Africa,Somalia,2008,81,52,,,,8700,76,0,0,0
+Europe,Albania,2005,81,73,100,,,12,0.39,75,1,0
+Africa,Madagascar,2010,81,74,,,,12000,56,0.36,3,0
+Oceania,New Zealand,2012,81,80,100,25,,10,0.23,,4,0
+European Union,Netherlands,2007,81,73,,100,,57,0.35,,6,0
+Asia,Singapore,2005,81,79,,,,85,1.9,96,8,0
+Africa,Senegal,2009,81,71,,,,2700,21,0.72,11,0
+Africa,Kenya,2005,81,77,,,,27000,76,0,44,0
+Europe,United Kingdom,2009,81,74,,41,0,410,0.65,,73,0
+Asia,Uzbekistan,2007,81,75,51,55,,3100,11,6.1,484,0
+Asia,Thailand,2012,81,63,70,,,9600,14,0,578,0
+Oceania,Marshall Islands,2009,81,88,100,100,,19,37,69,1,1
+Oceania,Micronesia,2009,81,19,,67,,20,20,79,4,3
+Asia,Singapore,2010,81,78,90,100,,100,2,97,5,3
+Middle East,Lebanon,2010,81,75,0,57,,47,1.1,2.1,7,7
+Africa,Mali,2008,81,74,74,31,,1300,9.3,0,7,7
+America,Panama,2011,81,59,66,29,,180,4.9,3,14,8
+European Union,Belgium,2014,81,73,71,50,100,41,0.37,95,12,10
+Africa,Malawi,2008,81,84,,63,,4400,31,0,16,10
+Europe,Serbia,2014,81,50,78,54,,110,1.3,70,14,13
+Middle East,Israel,2012,81,,75,92,100,22,0.29,98,17,17
+Africa,Guinea-Bissau,2014,81,100,,40,,1100,66,5.4,25,17
+America,Bolivia,2008,81,76,,61,,1600,16,0,34,18
+Oceania,Australia,2008,81,66,,73,,64,0.3,0,21,19
+America,Venezuela ,2013,81,59,80,53,50,780,2.6,2.2,41,19
+Africa,Nigeria,2010,81,82,,61,,86000,54,,26,23
+Africa,Burkina Faso,2014,81,75,74,68,,1600,9.2,0.16,53,34
+America,Mexico,2008,81,62,59,72,,2600,2.3,0,121,36
+Africa,Niger,2010,81,75,,87,0,3500,21,0,39,38
+Africa,Niger,2016,81,66,67,,,4000,20,0.14,49,46
+America,Panama,2016,81,54,62,,,230,5.6,21,51,49
+Europe,United Kingdom,2014,81,72,,60,33,360,0.55,,63,60
+Europe,United Kingdom,2010,81,70,,45,33,370,0.59,96,76,60
+Africa,Djibouti,2014,81,,,,,280,31,20,110,60
+America,Haiti,2012,81,67,70,76,,1200,12,0,81,62
+Africa,Malawi,2015,81,76,81,61,,4000,23,,93,65
+Europe,United Kingdom,2016,81,76,65,,,350,0.53,59,65,70
+America,Haiti,2013,81,75,71,83,,1300,12,0,101,81
+Middle East,Morocco,2011,81,66,,30,,2700,8.1,0.5,48,88
+Africa,Ethiopia,2009,81,67,,90,,39000,46,,241,88
+Asia,Armenia,2012,81,47,,44,0,140,4.8,94,104,101
+Asia,Armenia,2013,81,78,66,43,20,110,3.6,100,119,119
+Asia,Armenia,2016,81,71,60,,,56,1.9,44,128,131
+Africa,Namibia,2008,81,74,68,51,0,750,35,0,221,221
+Asia,Thailand,2013,81,66,67,,,9400,14,9.9,230,230
+Africa,Zimbabwe,2012,81,,,75,,2200,15,3,258,234
+European Union,Lithuania,2014,81,46,72,16,0,230,7.9,,279,271
+North Asia,North Korea,2011,81,74,,59,45,2900,5.9,17,565,307
+Africa,Kenya,2016,81,70,77,,,29000,60,26,326,326
+Africa,Zimbabwe,2014,81,51,68,51,,2000,13,3,412,381
+Africa,Zimbabwe,2016,81,70,78,,,1900,12,0,572,397
+Africa,Zimbabwe,2015,81,70,79,44,80,1800,12,0,468,433
+Asia,Georgia,2011,81,61,52,50,11,240,5.8,83,507,737
+North Asia,North Korea,2014,81,69,,63,59,2800,5.5,,1172,856
+North Asia,North Korea,2012,81,76,,60,41,3000,6,0,1212,1212
+America,Peru,2009,81,70,53,39,18,2700,9.4,4.4,3180,1856
+Africa,South Africa,2015,81,63,80,55,48,22000,39,65,19613,12527
+Middle East,Syrian Arab Republic,2001,81,42,,,,86,0.51,,,
+Oceania,Samoa,2007,81,100,,100,,2,1.1,,,
+Europe,Turkey,2004,81,,,,,750,1.1,,,
+America,Saint Lucia,2006,81,,,,,4,2.3,,,
+America,Mexico,2004,81,61,53,67,,2800,2.6,,,
+Europe,Republic of North Macedonia,2004,81,87,,100,,61,2.9,,,
+America,Venezuela ,2004,81,80,50,70,,850,3.2,,,
+Europe,Republic of North Macedonia,2002,81,69,,,,78,3.8,,,
+North Asia,North Korea,2004,81,71,,,,3500,7.2,,,
+South Asia,Sri Lanka,2002,81,60,,,,1400,7.2,,,
+European Union,Lithuania,2004,81,32,38,,,310,9.3,,,
+Oceania,Solomon Islands,2000,81,,,,,42,10,,,
+Asia,Thailand,2007,81,70,66,,,9400,14,,,
+Africa,Benin,2003,81,76,,,,1100,15,,,
+Asia,Turkmenistan,2000,81,75,,,,800,18,,,
+America,Bolivia,2003,81,70,,,,2100,24,,,
+Asia,Kyrgyzstan,2001,81,76,,,,1300,27,,,
+Africa,Djibouti,2007,81,67,,,,380,47,,,
+Asia,India,2004,81,73,,,,569000,51,,,
+Asia,Bangladesh,2000,81,72,,,,95000,72,,,
+Africa,United Republic of Tanzania,2001,81,76,,,,27000,78,,,
+Africa,United Republic of Tanzania,2003,81,75,,,,30000,79,,,
+Oceania,Timor-Leste,2003,81,65,,,,780,81,,,
+Africa,Sierra Leone,2002,81,62,,,,4200,84,,,
+Oceania,Timor-Leste,2002,81,,,,,880,95,,,
+Asia,Myanmar,2003,81,70,,,,48000,100,,,
+Asia,Myanmar,2002,81,75,,,,54000,114,,,
+Asia,Myanmar,2001,81,74,,,,58000,125,,,
+Asia,Armenia,1998,81,,,,,,,,,
+Oceania,Australia,1999,81,83,,,,,,,,
+America,Colombia,1999,81,,,,,,,,,
+America,Costa Rica,1999,81,,,,,,,,,
+America,Guatemala,1999,81,78,,,,,,,,
+America,Guatemala,1996,81,73,,,,,,,,
+Asia,Indonesia,1996,81,,,,,,,,,
+Asia,Myanmar,1999,81,71,,,,,,,,
+European Union,Netherlands,1996,81,74,,,,,,,,
+America,Nicaragua,1999,81,81,,,,,,,,
+America,Nicaragua,1997,81,79,,,,,,,,
+Middle East,Qatar,1995,81,67,,,,,,,,
+Africa,Sao Tome and Principe,1999,81,83,,,,,,,,
+America,United States of America,1998,81,,,,,,,,,
+America,Venezuela ,1998,81,,,,,,,,,
+America,Saint Kitts and Nevis,2009,80,,,,,0,0,0,0,0
+America,Saint Kitts and Nevis,2008,80,,,,,0,0,0,0,0
+Europe,Andorra,2006,80,67,,,,0,0,100,0,0
+Europe,Montenegro,2016,80,,,,,1,0.2,68,0,0
+Oceania,New Zealand,2008,80,91,50,,,16,0.38,,0,0
+America,Grenada,2015,80,,,,,2,1.7,20,0,0
+Oceania,Fiji,2007,80,,,,,34,4.1,3.5,0,0
+Middle East,Yemen,2005,80,58,,,,3400,17,0,1,0
+Middle East,Lebanon,2007,80,100,33,67,,41,1,5.6,2,0
+Oceania,New Zealand,2010,80,73,100,33,100,17,0.39,,5,0
+Middle East,Kuwait,2005,80,100,,,,37,1.6,,6,0
+Africa,Madagascar,2008,80,77,,,,12000,61,0,6,0
+Africa,Madagascar,2009,80,73,,,,12000,60,0.27,8,0
+Middle East,Jordan,2006,80,77,,58,,42,0.7,64,14,0
+Africa,South Sudan,2015,80,75,64,,,3200,27,6.5,20,0
+Africa,Burundi,2007,80,79,,66,,2500,32,0,26,0
+America,Bolivia,2007,80,76,,63,,1600,17,0,35,0
+Africa,Djibouti,2005,80,69,,,,370,48,0,39,0
+America,Mexico,2007,80,66,61,70,,2400,2.1,0,77,0
+Africa,Rwanda,2007,80,70,,87,,670,7.1,0,102,0
+Africa,Ethiopia,2008,80,75,,,,44000,53,0,130,0
+Asia,Georgia,2006,80,56,36,,,210,4.8,71,266,0
+Asia,Georgia,2007,80,56,44,38,,220,4.9,69,269,0
+Asia,Thailand,2014,80,63,67,58,14,9700,14,13,506,0
+Europe,Belarus,2006,80,64,,,,1100,12,92,651,0
+Europe,Belarus,2008,80,59,,,,1000,11,93,923,0
+Asia,Kazakhstan,2008,80,42,45,74,,3000,19,28,3676,0
+Middle East,United Arab Emirates,2014,80,0,0,0,,63,0.69,70,1,1
+Oceania,Micronesia,2015,80,100,,100,,14,14,0.96,1,1
+Africa,Gambia,2016,80,71,,,,430,21,65,2,2
+Middle East,Syrian Arab Republic,2013,80,75,100,100,,51,0.26,12,9,2
+America,Panama,2012,80,49,63,42,,210,5.6,0.26,15,4
+America,Panama,2013,80,48,68,50,,220,5.8,23,29,4
+Africa,Djibouti,2010,80,70,,,,510,60,0,0,7
+Oceania,New Zealand,2009,80,67,67,43,,16,0.37,,7,7
+European Union,Belgium,2011,80,61,87,75,67,53,0.48,94,17,15
+America,Venezuela ,2011,80,80,80,57,75,660,2.2,17,35,21
+Africa,Niger,2011,80,76,,86,0,3400,20,,18,22
+European Union,Estonia,2016,80,0,94,,,17,1.3,83,26,25
+America,Venezuela ,2014,80,73,79,67,100,750,2.5,7.5,26,26
+Oceania,Australia,2009,80,66,83,71,,57,0.26,0,37,26
+Africa,Burkina Faso,2012,80,74,76,58,,1600,9.6,0.2,44,26
+Africa,Guinea,2010,80,68,,,,3200,30,,31,31
+Africa,Niger,2015,80,66,62,82,100,3800,19,,45,34
+Africa,Burkina Faso,2016,80,72,69,,,1600,8.7,0.97,58,41
+Africa,Burkina Faso,2013,80,75,71,62,,1600,9.3,0.14,59,41
+Africa,Guinea,2015,80,76,74,79,,3300,27,1,123,52
+Africa,Côte d'Ivoire,2013,80,64,,85,,4600,21,2.1,379,61
+Africa,Zimbabwe,2011,80,78,,81,,2100,15,0,136,64
+Asia,Malaysia,2016,80,56,56,,,1300,4.2,45,201,71
+Europe,United Kingdom,2012,80,72,,54,0,330,0.51,97,91,84
+America,Haiti,2015,80,57,64,83,,1300,12,6.7,102,90
+America,United States of America,2016,80,77,74,,,520,0.16,75,113,113
+America,Dominican Republic,2015,80,63,65,62,50,400,3.8,7.2,104,114
+America,Dominican Republic,2010,80,64,65,68,,680,6.9,1.4,111,114
+America,Mexico,2012,80,52,57,74,0,2400,2,0.11,128,115
+America,United States of America,2011,80,,71,79,60,580,0.19,99,140,117
+America,Mexico,2015,80,53,47,71,100,2200,1.8,2.3,158,146
+America,Mexico,2013,80,55,48,60,75,2500,2.1,0.25,163,162
+America,Mexico,2014,80,53,48,56,40,2300,1.9,0.32,201,206
+European Union,Lithuania,2013,80,37,43,40,0,220,7.2,,273,256
+European Union,Lithuania,2012,80,57,58,41,10,260,8.6,100,285,271
+Africa,Namibia,2009,80,73,78,42,12,690,32,0,301,292
+Africa,Eswatini,2015,80,67,78,68,75,160,12,31,256,324
+Africa,Zimbabwe,2013,80,,,59,,1900,13,0,433,351
+Asia,Thailand,2008,80,66,69,,,9300,14,0,358,358
+Africa,Côte d'Ivoire,2015,80,62,71,76,,5200,23,0,480,405
+Asia,Georgia,2013,80,69,68,43,21,230,5.8,96,406,526
+Europe,Republic of Moldova,2013,80,39,52,57,,390,9.5,86,1054,931
+Europe,Republic of Moldova,2015,80,47,55,49,16,330,8.2,56,1042,996
+Europe,Andorra,2004,80,,,,,0,0,,,
+Oceania,Australia,2003,80,86,,67,,53,0.27,,,
+Oceania,New Zealand,2015,80,20,100,100,,12,0.27,,,
+Europe,Norway,2002,80,75,,71,,35,0.76,,,
+Africa,Egypt,2003,80,65,,,,1100,1.5,,,
+America,Saint Vincent and the Grenadines,2001,80,,,,,2,2,,,
+America,Colombia,2004,80,,,,,1600,3.7,,,
+America,Colombia,2000,80,,,,,1500,3.7,,,
+America,Colombia,2003,80,,,,,1600,3.8,,,
+America,Brazil,2002,80,60,,57,,7200,4,,,
+Oceania,Palau,2003,80,,,,,1,4.3,,,
+South Asia,Sri Lanka,2003,80,64,,,,1300,7,,,
+South Asia,Sri Lanka,2001,80,58,,,,1400,7.5,,,
+America,Dominican Republic,2003,80,59,,,,930,10,,,
+European Union,Romania,2003,80,47,,,,2200,10,,,
+Asia,Tajikistan,2005,80,76,,,,710,10,,,
+Oceania,Micronesia,2004,80,,,,,16,15,,,
+Africa,Benin,2002,80,75,,,,1200,16,,,
+Asia,Uzbekistan,2002,80,61,,,,4200,16,,,
+Asia,Uzbekistan,2000,80,74,,,,4000,16,,,
+Middle East,Yemen,2002,80,70,,,,3600,19,,,
+Africa,Sudan,2001,80,75,,,,9000,26,,,
+Africa,Zambia,2002,80,76,,,,3700,33,,,
+Africa,Eritrea,2001,80,,,,,1300,36,,,
+Asia,Pakistan,2004,80,78,,,,65000,43,,,
+Africa,Djibouti,2006,80,69,,,,360,45,,,
+Africa,Kenya,2000,80,76,,,,17000,54,,,
+Africa,Sierra Leone,2009,80,69,,,,3600,57,,,
+Africa,Burundi,2001,80,63,,,,3900,59,,,
+Africa,Kenya,2001,80,77,,,,19000,60,,,
+Africa,Burundi,2000,80,63,,,,4200,65,,,
+Oceania,Timor-Leste,2004,80,88,,,,650,65,,,
+Africa,Kenya,2003,80,75,,,,25000,74,,,
+Africa,Liberia,2000,80,61,,,,2200,76,,,
+Africa,United Republic of Tanzania,2002,80,77,,,,29000,80,,,
+Africa,Sierra Leone,2001,80,69,,,,3900,83,,,
+Africa,Ethiopia,2000,80,71,,,,74000,112,,,
+European Union,Austria,1998,80,,,,,,,,,
+America,Chile,1996,80,74,,,,,,,,
+Africa,Gambia,1996,80,63,,,,,,,,
+America,Honduras,1998,80,88,,,,,,,,
+European Union,Hungary,1998,80,78,,,,,,,,
+Middle East,Iraq,1995,80,,,,,,,,,
+European Union,Italy,1995,80,48,,,,,,,,
+Asia,Japan,1998,80,,,,,,,,,
+Asia,laos,1998,80,55,,,,,,,,
+Oceania,Micronesia,1995,80,100,,,,,,,,
+European Union,Netherlands,1997,80,85,,,,,,,,
+America,Nicaragua,1995,80,78,,,,,,,,
+Europe,Norway,1996,80,71,,,,,,,,
+Oceania,Samoa,1995,80,,,,,,,,,
+South Asia,Sri Lanka,1996,80,,,,,,,,,
+Africa,Sudan,1999,80,,,,,,,,,
+Europe,Republic of North Macedonia,1996,80,,,,,,,,,
+Oceania,Tonga,1999,80,100,,,,,,,,
+America,Uruguay,1996,80,87,,,,,,,,
+America,Venezuela ,1996,80,,,,,,,,,
+Africa,Seychelles,2013,79,,100,,,2,2.3,100,0,0
+Asia,Maldives,2012,79,100,0,50,100,11,2.8,0,0,0
+Oceania,Tuvalu,2015,79,,,,,2,17,5,0,0
+Africa,Djibouti,2009,79,75,,,,460,55,0,0,0
+European Union,Denmark,2007,79,50,92,,,27,0.49,,2,0
+European Union,Slovenia,2008,79,60,,50,,35,1.7,,2,0
+Africa,Liberia,2012,79,46,72,,,1900,46,0,6,0
+Africa,Senegal,2008,79,75,,,,2500,21,2.2,7,0
+Africa,Malawi,2006,79,80,,,,3900,29,0,8,0
+Africa,Mali,2009,79,75,,70,,1100,7.8,0.27,24,0
+Africa,Sudan,2005,79,81,,,,8400,22,0,45,0
+Africa,Mozambique,2005,79,70,,,,17000,82,0.63,115,0
+European Union,Latvia,2006,79,44,73,61,,200,8.8,,143,0
+European Union,Latvia,2005,79,51,55,,,190,8.6,,160,0
+Africa,Mozambique,2007,79,70,,37,,18000,81,0.31,163,0
+European Union,Lithuania,2006,79,36,38,,,380,11,,332,0
+European Union,Lithuania,2005,79,29,43,,,380,11,,342,0
+Africa,Côte d'Ivoire,2012,79,66,,,,5100,24,0,372,0
+America,Uruguay,2013,79,67,61,100,,67,2,68,4,1
+Europe,Norway,2012,79,75,100,33,,22,0.44,99,7,6
+America,Canada,2012,79,67,73,63,0,95,0.27,,9,8
+America,Panama,2009,79,48,57,25,,270,7.5,0,19,8
+America,Canada,2008,79,79,69,46,100,130,0.4,,14,10
+Middle East,Israel,2016,79,63,67,,,15,0.18,63,11,11
+Asia,Singapore,2015,79,100,82,38,,58,1,65,13,12
+European Union,Belgium,2013,79,72,71,79,,56,0.5,95,15,12
+America,Chile,2016,79,,54,,,440,2.4,60,30,12
+European Union,Belgium,2015,79,73,72,100,100,61,0.54,60,17,15
+Africa,Guinea-Bissau,2015,79,100,68,47,,1500,83,9.6,17,15
+Asia,Singapore,2016,79,75,82,,,56,1,61,23,19
+America,Panama,2014,79,49,68,50,,230,5.9,22,31,20
+Oceania,Australia,2014,79,0,47,61,100,47,0.2,,24,23
+Africa,Guinea,2008,79,71,58,58,,3800,36,0,72,28
+Africa,Niger,2009,79,76,,85,,3600,23,0,24,34
+Africa,Niger,2008,79,79,,87,,3900,26,0,52,39
+Africa,Niger,2013,79,73,,81,,3300,18,0,29,40
+America,Haiti,2010,79,75,67,69,,1200,12,,41,46
+Africa,Niger,2014,79,63,62,78,,3500,18,,46,47
+Africa,Guinea,2013,79,,75,58,,3200,28,0.1,167,48
+Africa,Guinea,2009,79,,,82,,4300,41,,70,54
+Africa,Botswana,2015,79,59,78,69,,580,26,0.19,57,61
+Europe,United Kingdom,2015,79,72,,71,25,350,0.53,58,57,62
+Africa,Cameroon,2011,79,70,,13,,7600,37,0,64,63
+America,Mexico,2016,79,52,58,,,2100,1.7,4,87,72
+Africa,Cameroon,2012,79,65,,92,,7500,36,0,161,76
+Africa,Rwanda,2009,79,72,,88,,670,6.7,1.8,82,77
+Africa,Sudan,2015,79,,,21,,6900,18,0.67,152,77
+Europe,United Kingdom,2011,79,74,,51,0,330,0.52,97,92,81
+Africa,Botswana,2016,79,51,80,,,440,19,0.5,104,107
+Asia,Armenia,2009,79,63,,51,,150,5.3,,165,134
+Asia,Armenia,2015,79,77,65,42,50,68,2.3,0,101,168
+European Union,Lithuania,2015,79,48,65,52,3,190,6.6,76,248,248
+Asia,Georgia,2009,79,60,45,54,39,230,5.4,76,384,266
+Africa,Côte d'Ivoire,2014,79,51,69,85,,5000,22,0,471,313
+Asia,Thailand,2015,79,68,69,60,,9600,14,10,466,506
+Asia,Georgia,2010,79,62,29,54,23,240,5.6,80,369,618
+Europe,Republic of Moldova,2014,79,47,53,50,33,390,9.5,99,925,930
+America,Peru,2013,79,59,57,55,66,2200,7.3,78,1462,1425
+European Union,Cyprus,2003,79,,,50,,3,0.34,,,
+Middle East,United Arab Emirates,2002,79,,,,,23,0.66,,,
+European Union,Italy,2002,79,63,,,,460,0.79,,,
+European Union,Czechia,2003,79,85,,,,82,0.8,,,
+European Union,Sweden,2000,79,78,,,,71,0.8,,,
+Africa,Egypt,2005,79,59,,,,940,1.2,,,
+Oceania,Samoa,2004,79,,,,,3,1.8,,,
+America,Uruguay,2005,79,73,49,,,62,1.9,,,
+America,Costa Rica,2002,79,63,,,,88,2.2,,,
+Asia,Singapore,2004,79,74,,50,,96,2.2,,,
+America,El Salvador,2000,79,66,,,,170,2.9,,,
+European Union,Portugal,2000,79,75,,,,390,3.7,,,
+Middle East,Saudi Arabia,2003,79,69,,,,1100,4.7,,,
+Asia,Armenia,2002,79,31,,,,180,5.9,,,
+Africa,Cabo Verde,2006,79,52,,,,30,6.2,,,
+Oceania,Vanuatu,2002,79,100,,,,12,6.3,,,
+Asia,Malaysia,2001,79,,,,,1500,6.4,,,
+North Asia,North Korea,2001,79,53,,,,3800,8,,,
+South Asia,Sri Lanka,2000,79,64,,,,1600,8.3,,,
+European Union,Latvia,2004,79,48,56,,,190,8.5,,,
+America,Dominican Republic,2004,79,49,55,,,880,9.7,,,
+Asia,Tajikistan,2002,79,,,,,680,11,,,
+Africa,Benin,2001,79,76,,,,1300,18,,,
+Africa,Niger,2007,79,75,,85,,4000,27,,,
+Asia,Kazakhstan,2000,79,66,,,,4400,29,,,
+America,Bolivia,2000,79,61,,,,2500,30,,,
+Asia,Pakistan,2003,79,66,,,,66000,45,,,
+Africa,Burundi,2003,79,50,,56,,3200,46,,,
+Africa,Burundi,2002,79,63,,,,3600,54,,,
+Africa,Nigeria,2001,79,71,,,,73000,58,,,
+Africa,Nigeria,2002,79,73,,,,77000,60,,,
+Africa,Nigeria,2000,79,71,,,,77000,63,,,
+Africa,Kenya,2002,79,77,,,,21000,64,,,
+Africa,Ethiopia,2004,79,54,,,,58000,78,,,
+Oceania,Timor-Leste,2006,79,80,,,,810,78,,,
+Asia,laos,2003,79,53,,,,5300,95,,,
+European Union,Austria,1997,79,,,,,,,,,
+Asia,Bangladesh,1999,79,64,,,,,,,,
+America,Chile,1995,79,,,,,,,,,
+Africa,Djibouti,1998,79,,,,,,,,,
+America,Guatemala,1998,79,61,,,,,,,,
+America,Jamaica,1997,79,86,,,,,,,,
+Asia,Kazakhstan,1999,79,66,,,,,,,,
+Asia,Kazakhstan,1998,79,,,,,,,,,
+Africa,Kenya,1999,79,74,,,,,,,,
+Africa,Liberia,1995,79,,,,,,,,,
+Oceania,Micronesia,1996,79,,,,,,,,,
+Asia,Myanmar,1996,79,78,,,,,,,,
+European Union,Netherlands,1999,79,62,,,,,,,,
+America,Nicaragua,1996,79,75,,,,,,,,
+Middle East,Qatar,1997,79,,,,,,,,,
+Africa,Sierra Leone,1997,79,74,,,,,,,,
+European Union,Slovakia,1999,79,68,,,,,,,,
+South Asia,Sri Lanka,1999,79,61,,,,,,,,
+South Asia,Sri Lanka,1995,79,,,,,,,,,
+Africa,Sudan,1995,79,,,,,,,,,
+America,United States of America,1997,79,,,,,,,,,
+America,United States of America,1996,79,,,,,,,,,
+Asia,Uzbekistan,1999,79,66,,,,,,,,
+Oceania,Samoa,2014,78,0,,,,2,1.1,,0,0
+Asia,Brunei Darussalam,2010,78,100,100,,,13,3.4,100,0,0
+Oceania,Tuvalu,2013,78,,,,,2,16,0,0,0
+Africa,Sao Tome and Principe,2015,78,20,71,,,52,26,1.2,0,0
+Africa,Congo,2009,78,81,,,,2300,54,0,0,0
+European Union,Malta,2007,78,,100,100,,6,1.5,,1,0
+European Union,Denmark,2008,78,90,82,,,17,0.31,,2,0
+Europe,Montenegro,2007,78,57,,0,,9,1.4,100,2,0
+America,Panama,2005,78,58,58,,,240,7.3,3.3,5,0
+Africa,Madagascar,2007,78,75,,,,12000,62,0.67,5,0
+European Union,Belgium,2009,78,67,,40,33,60,0.55,,12,0
+America,Panama,2006,78,57,60,40,,200,5.8,6.6,15,0
+Africa,Nigeria,2008,78,76,,,,78000,52,0.37,23,0
+America,Dominican Republic,2006,78,48,68,75,,800,8.5,0,24,0
+European Union,Germany,2008,78,75,,57,,370,0.46,,45,0
+European Union,Poland,2007,78,66,56,59,,830,2.2,60,51,0
+European Union,Poland,2005,78,53,,,,890,2.3,,72,0
+Asia,Armenia,2008,78,51,,55,,180,6.2,70,128,0
+America,Peru,2006,78,73,64,,,2800,10,4.4,1270,0
+America,Uruguay,2012,78,71,50,100,,45,1.3,88,4,1
+Middle East,Lebanon,2011,78,100,44,100,,46,1,9.6,3,2
+Africa,Sao Tome and Principe,2016,78,80,81,,,53,27,20,3,3
+Europe,Serbia,2013,78,69,84,77,,140,1.5,70,12,10
+Middle East,Israel,2011,78,50,71,64,,22,0.29,99,12,11
+Africa,Tunisia,2011,78,79,100,75,0,390,3.7,0.19,12,12
+America,Canada,2010,78,71,78,92,100,91,0.27,,15,15
+Asia,Singapore,2014,78,,82,50,100,80,1.5,,16,16
+European Union,Portugal,2012,78,77,60,47,50,230,2.2,72,19,17
+European Union,Belgium,2010,78,64,63,58,100,60,0.55,97,24,19
+Africa,Burkina Faso,2010,78,76,69,63,0,1600,10,,31,25
+Oceania,Australia,2011,78,66,68,42,,55,0.25,99,30,26
+Oceania,Australia,2016,78,,76,,,52,0.22,74,30,29
+Africa,Cameroon,2010,78,71,,89,,7900,40,0,35,35
+Africa,Burkina Faso,2015,78,72,70,68,,1600,8.9,1.6,54,36
+Africa,Central African Republic,2015,78,84,75,88,,2300,51,,62,38
+Africa,Central African Republic,2016,78,79,73,,,2600,57,0,57,51
+Asia,Malaysia,2014,78,58,52,32,0,1300,4.5,37,319,60
+Asia,Malaysia,2012,78,57,46,30,,1400,4.8,0,174,74
+Asia,Malaysia,2015,78,55,62,41,,1300,4.3,44,223,85
+European Union,Latvia,2010,78,62,62,66,62,91,4.3,96,88,87
+Asia,Armenia,2011,78,68,,50,50,120,4.2,96,94,88
+America,Haiti,2014,78,52,67,79,,1300,12,0,91,91
+Africa,Botswana,2010,78,66,76,63,0,600,30,11,122,114
+Asia,Armenia,2014,78,50,60,58,40,81,2.8,96,111,120
+Africa,Sudan,2016,78,,,,,5600,14,0.83,143,135
+Europe,Belarus,2010,78,48,39,31,,910,9.6,90,1644,200
+European Union,Lithuania,2011,78,33,32,43,0,220,7.2,100,592,296
+Africa,Eswatini,2014,78,66,78,70,0,210,16,0,358,380
+Asia,Azerbaijan,2011,78,71,,60,,660,7.2,25,821,592
+Asia,Kazakhstan,2009,78,48,40,73,,2500,15,64,3926,3209
+Africa,South Africa,2013,78,69,76,48,24,22000,41,0,26023,10663
+Africa,South Africa,2014,78,63,76,54,27,22000,40,0,18734,11538
+Oceania,Australia,2002,78,71,,40,,67,0.35,,,
+Middle East,Syrian Arab Republic,2000,78,54,,,,80,0.49,,,
+Middle East,Qatar,2004,78,100,,,,4,0.54,,,
+European Union,Austria,2002,78,83,,,,67,0.82,,,
+Oceania,Fiji,2002,78,100,,,,17,2,,,
+European Union,Poland,2003,78,70,,,,1000,2.6,,,
+America,Belize,2000,78,,,,,9,3.6,,,
+America,Venezuela ,2001,78,,,,,890,3.6,,,
+European Union,Portugal,2001,78,62,,,,390,3.7,,,
+Asia,Malaysia,2000,78,,,,,1600,6.9,,,
+America,Dominican Republic,2007,78,38,74,70,,720,7.6,,,
+Oceania,Tuvalu,2006,78,,,,,1,8.4,,,
+America,Dominican Republic,2001,78,56,,,,830,9.5,,,
+Africa,Benin,2000,78,82,,,,1300,18,,,
+Africa,Sudan,2004,78,79,,,,8600,23,,,
+Africa,Sao Tome and Principe,2000,78,,,,,33,24,,,
+Africa,Zimbabwe,2007,78,50,,,,3300,24,,,
+Africa,Sudan,2002,78,77,,,,9000,25,,,
+Asia,Kazakhstan,2001,78,66,,,,4000,27,,,
+Asia,Kazakhstan,2002,78,64,,,,4300,28,,,
+Africa,Burundi,2006,78,,,60,,2700,35,,,
+Asia,Philippines,2004,78,53,,,,36000,42,,,
+Africa,Djibouti,2004,78,67,,,,350,46,,,
+Asia,Pakistan,2002,78,66,,,,67000,46,,,
+Africa,Botswana,2001,78,73,,,,840,48,,,
+Asia,Democratic Republic of the Congo,2000,78,,,,,25000,53,,,
+Africa,Nigeria,2003,78,,,,,78000,59,,,
+Asia,Democratic Republic of the Congo,2002,78,67,,,,30000,60,,,
+Africa,Ethiopia,2005,78,56,,,,55000,72,,,
+Africa,United Republic of Tanzania,2000,78,73,,,,28000,81,,,
+Africa,Mozambique,2002,78,67,,,,16000,86,,,
+Africa,Mozambique,2001,78,68,,,,16000,88,,,
+America,Brazil,1999,78,16,,,,,,,,
+European Union,Czechia,1999,78,42,,,,,,,,
+Africa,Egypt,1997,78,52,,,,,,,,
+America,El Salvador,1999,78,60,,,,,,,,
+Asia,Georgia,1998,78,,,,,,,,,
+Africa,Guinea,1995,78,67,,,,,,,,
+Asia,laos,1999,78,61,,,,,,,,
+European Union,Lithuania,1996,78,,,,,,,,,
+America,Mexico,1999,78,37,,,,,,,,
+Asia,Mongolia,1996,78,61,,,,,,,,
+Asia,Philippines,1997,78,26,,,,,,,,
+European Union,Portugal,1997,78,,,,,,,,,
+European Union,Slovenia,1998,78,80,,,,,,,,
+Asia,Thailand,1996,78,57,,,,,,,,
+Africa,United Republic of Tanzania,1999,78,74,,,,,,,,
+Asia,Uzbekistan,1998,78,,,,,,,,,
+Asia,Uzbekistan,1995,78,,,,,,,,,
+European Union,Slovenia,2013,77,100,,,,9,0.44,99,0,0
+European Union,Slovenia,2014,77,50,,,,21,1,,0,0
+Asia,Brunei Darussalam,2007,77,100,,,,9,2.5,,0,0
+Oceania,Fiji,2013,77,64,75,,,32,3.6,14,0,0
+Oceania,Vanuatu,2015,77,,,,,17,6.4,0,0,0
+America,Haiti,2005,77,70,,,,1300,14,0.72,0,0
+America,Jamaica,2013,77,,81,,,8,0.28,100,1,0
+Oceania,New Zealand,2006,77,90,78,,,22,0.53,,1,0
+Africa,Togo,2007,77,62,,100,,710,12,0.89,2,0
+Middle East,United Arab Emirates,2005,77,80,,,,30,0.66,0,4,0
+America,Suriname,2013,77,20,65,,,7,1.3,70,4,0
+Europe,Republic of North Macedonia,2005,77,57,100,,,68,3.3,51,4,0
+America,Panama,2007,77,49,58,33,,200,5.8,2.4,5,0
+Africa,Madagascar,2006,77,72,,,,12000,63,0.34,6,0
+Africa,Ghana,2007,77,58,68,,,12000,53,0,7,0
+America,Suriname,2014,77,33,68,,,14,2.5,88,9,0
+Africa,Mali,2007,77,76,45,14,,1500,11,0,11,0
+Middle East,Iran,2005,77,76,42,,,720,1,4.5,27,0
+Africa,Congo,2016,77,53,,,,3000,59,0,29,0
+European Union,Portugal,2011,77,61,61,52,56,230,2.2,81,35,0
+America,Haiti,2007,77,69,64,,,1200,12,0,39,0
+Africa,Côte d'Ivoire,2009,77,64,,,,6300,31,0,43,0
+Europe,United Kingdom,2008,77,67,,51,0,440,0.71,,53,0
+Africa,Cameroon,2009,77,69,,91,,7900,40,0,56,0
+European Union,Germany,2007,77,69,,65,,460,0.56,,66,0
+European Union,Estonia,2005,77,42,61,,,53,3.9,,79,0
+America,Colombia,2007,77,,,,,1500,3.4,2.5,111,0
+America,Mexico,2006,77,59,57,26,,2600,2.4,4,123,0
+Asia,Armenia,2007,77,46,,53,,190,6.6,86,125,0
+European Union,Latvia,2008,77,57,48,62,42,120,5.7,,129,0
+Asia,Armenia,2005,77,41,,,,180,6.2,99,162,0
+Asia,Georgia,2005,77,55,46,,,220,5,53,195,0
+European Union,Lithuania,2008,77,35,,26,,360,11,,276,0
+Africa,Namibia,2007,77,65,78,28,,770,37,0,291,0
+Asia,Georgia,2008,77,50,44,56,33,220,5.1,77,481,0
+Europe,Belarus,2009,77,42,,40,,900,9.5,96,1433,0
+America,Uruguay,2009,77,56,45,100,,67,2,0,0,1
+America,Uruguay,2015,77,83,48,100,,89,2.6,72,3,3
+Europe,Bosnia and Herzegovina,2014,77,,,67,,130,3.7,100,4,3
+Africa,Liberia,2015,77,65,,,,3200,70,0.26,0,15
+Africa,Guinea-Bissau,2013,77,22,,40,,1200,69,6.3,15,15
+Asia,Singapore,2013,77,75,86,27,,66,1.2,,21,15
+Africa,Mali,2010,77,99,,75,,1600,11,0,12,18
+America,Canada,2009,77,64,75,88,,85,0.25,,20,18
+Africa,Burkina Faso,2009,77,75,,50,0,1600,11,0.1,21,19
+European Union,Belgium,2012,77,72,70,61,100,59,0.54,95,25,20
+Africa,Mali,2016,77,76,67,,,1400,7.9,13,386,27
+Africa,Mali,2015,77,75,68,61,,1400,8.1,1.7,31,31
+Africa,Burkina Faso,2011,77,75,67,73,0,1500,9.5,,84,31
+Africa,Chad,2015,77,49,,73,,3500,25,1.2,33,33
+Africa,Uganda,2012,77,66,,80,,7000,19,5.1,172,41
+Africa,Sudan,2008,77,75,40,,,10000,24,0.84,70,70
+Africa,Botswana,2014,77,57,77,73,100,470,22,0.45,41,73
+Africa,Liberia,2016,77,50,,,,2800,60,24,92,75
+Africa,Niger,2012,77,67,,86,100,3300,19,0,35,77
+European Union,Latvia,2011,77,51,49,55,42,80,3.8,96,109,103
+Africa,Ethiopia,2010,77,83,,84,,35000,39,,142,120
+European Union,Latvia,2009,77,45,,59,56,110,5.2,,133,124
+America,Ecuador,2015,77,51,,48,,610,3.8,20,635,135
+America,Ecuador,2014,77,52,,50,,580,3.7,28,451,179
+Africa,Lesotho,2016,77,68,74,,,1100,51,0,0,238
+European Union,Lithuania,2009,77,28,,30,0,270,8.6,,330,322
+Africa,Uganda,2016,77,71,75,,,11000,26,15,489,374
+Africa,South Africa,2011,77,66,73,45,15,23000,44,0,11853,5643
+Africa,South Africa,2012,77,64,74,49,20,22000,42,0,25489,6494
+European Union,Denmark,2002,77,90,,,,37,0.69,,,
+European Union,Germany,2000,77,71,,,,620,0.77,,,
+European Union,Ireland,2002,77,,,,,41,1,,,
+Oceania,Samoa,2001,77,,,,,2,1.2,,,
+European Union,Poland,2006,77,52,60,44,,810,2.1,,,
+Asia,Singapore,2003,77,70,,60,,98,2.3,,,
+Asia,Singapore,2001,77,,,,,120,3,,,
+Africa,Libya,2006,77,,,,,180,3.1,,,
+America,Brazil,2003,77,64,,60,,7000,3.8,,,
+Middle East,Saudi Arabia,2001,77,65,,,,1000,4.9,,,
+Asia,Armenia,2003,77,47,,,,170,5.5,,,
+Africa,Rwanda,2004,77,,,,,490,5.6,,,
+Africa,Rwanda,2006,77,72,,86,,660,7.1,,,
+America,Dominican Republic,2002,77,55,,,,850,9.6,,,
+Asia,Tajikistan,2000,77,,,,,640,10,,,
+America,Haiti,2009,77,69,65,67,,1200,12,,,
+America,Haiti,2006,77,66,68,86,,1200,13,,,
+Asia,Azerbaijan,2001,77,37,,,,1400,17,,,
+Africa,Niger,2006,77,74,,,,4300,31,,,
+Africa,Botswana,2003,77,,,,,700,39,,,
+Asia,Pakistan,2001,77,,,,,67000,48,,,
+Africa,Botswana,2000,77,75,,,,910,52,,,
+Africa,Congo,2010,77,57,,,,2300,52,,,
+Asia,Democratic Republic of the Congo,2001,77,,,,,27000,56,,,
+Africa,Cameroon,2000,77,59,,,,11000,72,,,
+Africa,Kenya,2004,77,76,,,,27000,77,,,
+Africa,Mozambique,2004,77,,,,,17000,82,,,
+Africa,Sierra Leone,2000,77,,,,,4000,87,,,
+Asia,laos,2000,77,48,,,,6000,112,,,
+Asia,Armenia,1996,77,75,,,,,,,,
+European Union,Austria,1999,77,59,,,,,,,,
+America,Bahamas,1997,77,,,,,,,,,
+Asia,Bangladesh,1998,77,74,,,,,,,,
+Africa,Benin,1999,77,68,,,,,,,,
+America,Bolivia,1997,77,,,,,,,,,
+America,Chile,1997,77,64,,,,,,,,
+Africa,Djibouti,1996,77,63,,,,,,,,
+America,El Salvador,1998,77,58,,,,,,,,
+Africa,Equatorial Guinea,1996,77,67,,,,,,,,
+Middle East,Iraq,1996,77,,,,,,,,,
+Africa,Kenya,1998,77,64,,,,,,,,
+Africa,Kenya,1996,77,59,,,,,,,,
+Europe,Norway,1999,77,100,,,,,,,,
+Europe,Norway,1995,77,,,,,,,,,
+European Union,Romania,1999,77,49,,,,,,,,
+America,Suriname,1999,77,,,,,,,,,
+Asia,Thailand,1999,77,68,,,,,,,,
+Europe,Republic of North Macedonia,1998,77,,,,,,,,,
+Africa,United Republic of Tanzania,1997,77,75,,,,,,,,
+America,Uruguay,1997,77,85,,,,,,,,
+Africa,Seychelles,2010,76,,50,,,0,0,0,0,0
+European Union,Malta,2009,76,50,75,,,1,0.24,,0,0
+Europe,Croatia,2010,76,76,100,,,83,1.9,0,0,0
+America,Suriname,2011,76,64,72,,,17,3.1,0,0,0
+Africa,Sao Tome and Principe,2010,76,50,15,,,38,22,0,0,0
+America,Bahamas,2013,76,,40,,,2,0.58,62,2,0
+European Union,Malta,2013,76,,,100,,3,0.73,87,2,0
+America,Bahamas,2009,76,80,60,,,2,0.57,,3,0
+America,Suriname,2015,76,29,58,,,14,2.6,77,8,0
+Africa,Guinea,2006,76,75,,71,,4200,43,1.6,25,0
+European Union,Hungary,2011,76,58,,43,,130,1.3,73,34,0
+Africa,Guinea,2007,76,40,73,25,,4000,40,0.12,37,0
+Europe,United Kingdom,2007,76,65,,35,,390,0.64,,56,0
+European Union,Germany,2009,76,64,,61,,350,0.44,,70,0
+Middle East,United Arab Emirates,2012,76,67,50,50,,62,0.69,52,2,2
+America,Panama,2008,76,46,62,20,,230,6.6,3.7,5,5
+European Union,Czechia,2014,76,65,0,43,,39,0.37,99,8,5
+Middle East,Lebanon,2014,76,80,33,67,,63,1.1,98,10,5
+Africa,Burkina Faso,2008,76,77,,75,,1700,11,,16,16
+Africa,Zimbabwe,2010,76,74,,67,,1700,12,0,40,27
+Africa,Côte d'Ivoire,2011,76,67,,,,5700,28,,30,30
+Africa,Guinea-Bissau,2016,76,43,73,,,1400,79,0,37,36
+Africa,Eritrea,2011,76,69,,45,,780,17,0,11,42
+Africa,Botswana,2011,76,70,74,70,67,590,29,4.5,54,46
+European Union,Germany,2010,76,72,,55,,360,0.45,92,60,48
+Asia,Malaysia,2013,76,46,51,62,0,1400,4.6,23,277,49
+Africa,Botswana,2012,76,63,75,70,100,490,24,13,71,58
+Asia,Malaysia,2010,76,59,38,31,,1400,5.1,0,115,64
+Africa,Sudan,2009,76,70,,36,,9700,22,1.2,202,94
+Africa,Botswana,2009,76,64,74,73,,470,24,6.5,139,111
+Asia,Malaysia,2011,76,54,44,28,,1400,4.9,0,226,141
+America,Colombia,2014,76,43,54,50,40,1400,2.8,48,187,173
+America,Ecuador,2010,76,,,33,0,740,5,10,195,228
+Europe,Republic of Moldova,2012,76,39,47,59,,530,13,67,902,853
+Asia,Kazakhstan,2011,76,36,41,74,,1900,11,83,7467,5261
+Asia,Kazakhstan,2010,76,47,38,73,,2200,13,,7692,5705
+Europe,Ukraine,2016,76,60,66,,,4500,10,59,8651,8756
+European Union,Netherlands,2000,76,50,,,,96,0.6,,,
+Asia,Singapore,2002,76,70,,100,,110,2.6,,,
+European Union,Poland,2001,76,71,,,,1100,3,,,
+America,Venezuela ,2000,76,,,,,770,3.2,,,
+America,Mexico,2000,76,37,,,,3700,3.6,,,
+Middle East,Saudi Arabia,2002,76,67,,,,1100,4.8,,,
+Africa,Eritrea,2000,76,,,,,170,4.9,,,
+America,Paraguay,2003,76,81,,75,,280,5,,,
+Asia,Malaysia,2002,76,,,,,1500,6.3,,,
+European Union,Estonia,2004,76,42,42,,,100,7.6,,,
+European Union,Latvia,2002,76,38,,,,220,9.4,,,
+Africa,Mali,2006,76,68,,,,1600,12,,,
+Asia,Uzbekistan,2001,76,,,,,4100,16,,,
+Middle East,Yemen,2001,76,66,,,,3400,19,,,
+Africa,Sao Tome and Principe,2002,76,,,,,32,22,,,
+Africa,Senegal,2006,76,65,,,,2600,23,,,
+Africa,Senegal,2005,76,63,,,,2700,24,,,
+Asia,India,2003,76,70,,,,577000,52,,,
+Africa,Nigeria,2006,76,77,,,,78000,54,,,
+Africa,Guinea-Bissau,2003,76,80,,,,760,57,,,
+Africa,Liberia,2002,76,,,,,1800,58,,,
+Africa,Congo,2008,76,72,,,,2500,60,,,
+Africa,Liberia,2001,76,64,,,,2300,75,,,
+Africa,Mozambique,2003,76,68,,,,16000,83,,,
+Africa,Ethiopia,2002,76,60,,,,66000,94,,,
+Africa,Ethiopia,2001,76,64,,,,73000,106,,,
+Africa,Benin,1998,76,71,,,,,,,,
+Asia,Brunei Darussalam,1999,76,100,,,,,,,,
+Africa,Djibouti,1997,76,53,,,,,,,,
+America,Dominican Republic,1999,76,,,,,,,,,
+Africa,Gambia,1995,76,69,,,,,,,,
+America,Guyana,1996,76,,,,,,,,,
+Asia,Kyrgyzstan,1997,76,,,,,,,,,
+North Asia,North Korea,1995,76,40,,,,,,,,
+South Asia,Sri Lanka,1998,76,62,,,,,,,,
+South Asia,Sri Lanka,1997,76,59,,,,,,,,
+Africa,Togo,1999,76,,,,,,,,,
+Africa,United Republic of Tanzania,1998,76,73,,,,,,,,
+Africa,United Republic of Tanzania,1996,76,75,,,,,,,,
+America,United States of America,1995,76,,,,,,,,,
+Europe,Andorra,2016,75,,,,,0,0,50,0,0
+Middle East,United Arab Emirates,2013,75,67,50,,,63,0.69,57,0,0
+America,Grenada,2010,75,,0,,,1,0.92,0,0,0
+America,Trinidad and Tobago,2016,75,60,62,,,23,1.7,29,0,0
+Africa,Cabo Verde,2008,75,48,,,,31,6.2,0,0,0
+Africa,Zimbabwe,2009,75,80,,100,,2200,16,0,0,0
+Middle East,United Arab Emirates,2007,75,40,0,100,,45,0.75,0,1,0
+Africa,Mali,2005,75,73,,,,1600,13,0,2,0
+America,Bolivia,2006,75,70,,,,1700,19,0,34,0
+European Union,Spain,2013,75,67,58,,,300,0.64,48,42,0
+Africa,Côte d'Ivoire,2010,75,65,,,,5900,29,0,50,0
+European Union,Poland,2008,75,66,79,47,67,880,2.3,89,55,0
+America,Bolivia,2005,75,66,,,,1800,20,0,63,0
+Asia,Armenia,2006,75,43,,41,,190,6.4,90,215,0
+European Union,Lithuania,2007,75,30,,3,,360,11,,314,0
+Africa,Djibouti,2013,75,,,,,390,43,,160,1
+America,Uruguay,2014,75,88,51,100,,74,2.2,69,2,2
+European Union,Czechia,2012,75,76,20,33,0,30,0.29,93,5,4
+European Union,Austria,2016,75,69,,,,38,0.44,56,16,5
+America,Panama,2010,75,56,55,33,,210,5.7,8.1,13,9
+Africa,Côte d'Ivoire,2008,75,68,,,,6200,32,0,24,10
+European Union,Austria,2010,75,76,,56,100,39,0.46,97,16,15
+Asia,Singapore,2012,75,74,87,55,,83,1.6,98,24,22
+Middle East,Saudi Arabia,2016,75,53,51,,,1100,3.3,49,46,34
+Africa,Sudan,2010,75,68,,50,,9800,22,0,49,50
+Asia,Malaysia,2008,75,61,,59,,1500,5.4,0,56,56
+Africa,Sudan,2012,75,64,,62,,8300,23,0.65,138,58
+America,Colombia,2009,75,,,,,1400,3.2,4.7,127,90
+America,Ecuador,2013,75,53,,45,,550,3.5,1.5,117,95
+America,Dominican Republic,2016,75,42,60,,,350,3.3,7.1,107,140
+America,Colombia,2015,75,44,51,40,0,1300,2.7,39,194,181
+America,Ecuador,2012,75,43,,54,,590,3.8,13,249,196
+Africa,Uganda,2013,75,67,73,73,,7700,20,0.36,117,199
+Africa,Eswatini,2013,75,66,71,60,60,240,19,16,491,199
+America,Ecuador,2008,75,69,,64,,910,6.3,3.1,155,210
+Africa,Uganda,2014,75,67,73,71,,8900,23,7.5,255,213
+Africa,Uganda,2015,75,67,75,74,,10000,26,8.4,252,253
+Europe,Ukraine,2015,75,57,63,51,35,5100,11,62,9397,9787
+European Union,Cyprus,2002,75,100,,,,2,0.23,,,
+Middle East,Qatar,2002,75,,,,,5,0.77,,,
+Europe,Albania,2004,75,86,,,,26,0.84,,,
+America,Paraguay,2002,75,81,,,,270,4.8,,,
+Asia,Armenia,2004,75,48,,,,180,6,,,
+Oceania,Vanuatu,2003,75,100,,,,12,6.1,,,
+America,Panama,2004,75,57,46,30,,200,6.2,,,
+European Union,Romania,2001,75,44,,,,2400,11,,,
+Asia,Thailand,2006,75,62,58,,,10000,15,,,
+America,Haiti,2003,75,69,,,,1400,16,,,
+America,Haiti,2002,75,69,,,,1500,17,,,
+Asia,Thailand,2001,75,49,,,,13000,20,,,
+Africa,Gambia,2003,75,56,,,,290,21,,,
+Africa,Sudan,2000,75,,,,,8500,25,,,
+Asia,Kazakhstan,2003,75,51,,,,4000,26,,,
+Africa,Zambia,2003,75,78,,,,3000,27,,,
+Africa,Namibia,2006,75,63,59,,,810,40,,,
+Africa,Cameroon,2008,75,66,,96,,7900,42,,,
+Africa,Guinea,2004,75,56,,,,4700,49,,,
+Africa,Guinea,2003,75,58,,,,4900,52,,,
+Africa,Nigeria,2005,75,66,,,,77000,55,,,
+Africa,Liberia,2005,75,84,,,,2200,67,,,
+Africa,Mozambique,2000,75,71,,,,16000,88,,,
+Asia,laos,2002,75,68,,,,5500,100,,,
+Asia,laos,2001,75,52,,,,5700,106,,,
+Africa,Cameroon,1999,75,67,,,,,,,,
+Africa,Cameroon,1998,75,67,,,,,,,,
+Africa,Djibouti,1995,75,,,,,,,,,
+America,Grenada,1997,75,,,,,,,,,
+Africa,Guinea,1996,75,36,,,,,,,,
+European Union,Hungary,1997,75,,,,,,,,,
+Europe,Iceland,1997,75,,,,,,,,,
+Africa,Kenya,1995,75,72,,,,,,,,
+Africa,Liberia,1997,75,56,,,,,,,,
+European Union,Malta,1999,75,,,,,,,,,
+America,Mexico,1998,75,,,,,,,,,
+America,Mexico,1995,75,,,,,,,,,
+Africa,Nigeria,1999,75,74,,,,,,,,
+Oceania,Palau,1996,75,,,,,,,,,
+European Union,Poland,1998,75,,,,,,,,,
+Africa,Sierra Leone,1999,75,,,,,,,,,
+Asia,Tajikistan,1997,75,,,,,,,,,
+Oceania,Tonga,1997,75,,,,,,,,,
+Oceania,Tonga,1995,75,100,,,,,,,,
+America,Trinidad and Tobago,1997,75,,,,,,,,,
+America,Trinidad and Tobago,1996,75,,,,,,,,,
+European Union,Cyprus,2006,74,100,,,,3,0.29,,0,0
+Asia,Brunei Darussalam,2015,74,,100,,,16,3.9,79,0,0
+Africa,Liberia,2014,74,49,,,,3300,74,0,0,0
+European Union,Malta,2008,74,71,80,,,1,0.24,,1,0
+European Union,Denmark,2009,74,74,71,,,28,0.52,,2,0
+Africa,Chad,2013,74,53,,,,3200,25,,2,0
+European Union,Ireland,2008,74,69,43,,,32,0.71,93,3,0
+Africa,Malawi,2005,74,75,,,,3700,29,0,9,0
+European Union,Czechia,2005,74,55,,,,70,0.68,,14,0
+Africa,Rwanda,2005,74,65,,,,550,6.1,1.4,35,0
+Africa,Côte d'Ivoire,2005,74,58,,,,9200,50,0,47,0
+Africa,Sudan,2007,74,79,,,,8100,20,0.34,51,0
+Europe,United Kingdom,2006,74,65,,47,,490,0.8,,52,0
+Africa,Somalia,2010,74,62,,,,10000,87,9.3,80,0
+Europe,Republic of Moldova,2005,74,41,,,,770,18,32,338,0
+America,Mexico,2005,74,55,47,,,2900,2.6,2.1,394,0
+Europe,Republic of Moldova,2007,74,36,35,52,,740,18,68,896,0
+European Union,Denmark,2010,74,63,33,,,36,0.64,98,2,2
+Africa,Sao Tome and Principe,2014,74,56,54,50,,46,24,7.1,2,2
+European Union,Ireland,2010,74,55,80,,,35,0.76,96,4,2
+European Union,Austria,2014,74,67,,63,50,71,0.82,81,50,3
+America,Paraguay,2009,74,56,41,71,,240,3.9,4.2,8,7
+European Union,Hungary,2013,74,60,,40,0,98,1,95,11,10
+European Union,Portugal,2013,74,56,54,57,50,230,2.2,65,16,15
+Africa,Mali,2013,74,76,,42,,1800,11,0,12,18
+European Union,Hungary,2010,74,61,,42,,150,1.6,87,21,19
+European Union,Portugal,2010,74,66,54,34,33,230,2.1,83,31,19
+Africa,Chad,2016,74,50,,,,4000,28,1.1,45,41
+European Union,Estonia,2012,74,20,47,76,33,36,2.7,100,67,54
+European Union,Germany,2012,74,61,,47,,370,0.45,93,70,63
+America,Colombia,2010,74,17,,14,100,1300,2.8,17,143,152
+Africa,Lesotho,2015,74,64,77,66,,1200,56,21,332,211
+Oceania,Papua New Guinea,2015,74,63,,68,64,3800,47,0,254,225
+European Union,Lithuania,2010,74,32,25,29,0,220,7.2,100,315,310
+America,Peru,2011,74,,42,54,30,2500,8.3,6.5,1997,1374
+Asia,India,2014,74,65,76,46,29,456000,35,1.7,25748,24073
+Middle East,United Arab Emirates,2000,74,,,,,21,0.66,,,
+America,Bahamas,2006,74,20,55,,,2,0.68,,,
+European Union,Italy,2000,74,46,,,,500,0.87,,,
+Oceania,Tonga,2005,74,,,,,2,1.7,,,
+European Union,Latvia,2003,74,45,,,,230,10,,,
+European Union,Lithuania,2003,74,32,,36,,350,10,,,
+European Union,Romania,2002,74,47,,62,,2300,11,,,
+Europe,Belarus,2004,74,,,,,1300,13,,,
+Oceania,Tuvalu,2007,74,,,,,2,17,,,
+Asia,Turkmenistan,2002,74,63,,,,820,18,,,
+Asia,Thailand,2002,74,62,,,,13000,20,,,
+America,Bolivia,2004,74,65,,,,1900,22,,,
+Africa,Gambia,2002,74,41,,,,280,22,,,
+Africa,Senegal,2004,74,57,,,,2900,26,,,
+Africa,Niger,2005,74,,,,,4600,34,,,
+Africa,Chad,2003,74,74,,,,3400,37,,,
+Africa,Cameroon,2007,74,64,,82,,8200,45,,,
+Africa,Zambia,2001,74,90,,,,4900,45,,,
+Africa,Cameroon,2006,74,44,,,,8400,47,,,
+Asia,Pakistan,2000,74,54,,,,67000,48,,,
+Africa,Cameroon,2005,74,55,,,,8900,51,,,
+Africa,Angola,2002,74,51,,,,10000,57,,,
+Africa,Guinea,2001,74,65,,,,5100,57,,,
+Africa,Madagascar,2005,74,72,,,,13000,70,,,
+Africa,Angola,2007,74,65,,,,15000,71,,,
+Africa,Madagascar,2002,74,69,,,,13000,77,,,
+America,Bolivia,1999,74,50,,,,,,,,
+Africa,Burundi,1998,74,68,,,,,,,,
+America,Colombia,1998,74,,,,,,,,,
+Asia,Democratic Republic of the Congo,1995,74,72,,,,,,,,
+Africa,Ethiopia,1999,74,74,,,,,,,,
+Africa,Ethiopia,1998,74,60,,,,,,,,
+Africa,Guinea,1999,74,66,,,,,,,,
+Africa,Guinea,1997,74,46,,,,,,,,
+America,Jamaica,1999,74,86,,,,,,,,
+Asia,Kazakhstan,1997,74,,,,,,,,,
+European Union,Latvia,1999,74,45,,,,,,,,
+Africa,Liberia,1999,74,53,,,,,,,,
+Asia,Mongolia,1997,74,78,,,,,,,,
+Asia,Mongolia,1995,74,61,,,,,,,,
+European Union,Portugal,1998,74,75,,,,,,,,
+European Union,Portugal,1996,74,68,,,,,,,,
+Middle East,Qatar,1999,74,,,,,,,,,
+Africa,Sierra Leone,1996,74,79,,,,,,,,
+America,Venezuela ,1995,74,,,,,,,,,
+Middle East,Yemen,1999,74,70,,,,,,,,
+Africa,Seychelles,2009,73,,33,,,2,2.4,0,0,0
+Asia,Brunei Darussalam,2013,73,,,0,,20,4.9,,1,0
+Oceania,New Zealand,2005,73,67,83,,,21,0.51,,4,0
+European Union,Ireland,2007,73,62,78,11,,53,1.2,60,5,0
+European Union,Czechia,2007,73,76,29,38,,71,0.68,,11,0
+Africa,Burkina Faso,2007,73,75,,40,,1600,12,,12,0
+Africa,Uganda,2005,73,,,,,5000,17,0,46,0
+Asia,Malaysia,2009,73,61,,47,,1400,5.2,0,108,0
+European Union,Germany,2005,73,66,,,,460,0.56,98,118,0
+America,Ecuador,2007,73,47,,62,,960,6.8,4,275,0
+Europe,Republic of Moldova,2006,73,43,,,,730,18,49,1279,0
+Africa,South Africa,2008,73,64,,48,28,27000,54,0,8026,0
+America,Uruguay,2016,73,48,41,,,78,2.3,66,3,3
+Africa,Sao Tome and Principe,2013,73,,60,83,,44,23,1.3,3,3
+Africa,Uganda,2011,73,71,,77,,6100,17,1.2,135,7
+European Union,Hungary,2014,73,50,100,100,,87,0.89,,11,9
+European Union,Czechia,2010,73,73,0,44,100,40,0.38,95,21,9
+European Union,Austria,2015,73,59,,92,100,64,0.74,61,13,13
+Oceania,Australia,2015,73,,43,75,100,52,0.22,76,34,32
+Africa,Mali,2014,73,70,57,75,,1700,10,7.7,40,33
+European Union,Germany,2011,73,62,,53,100,350,0.43,92,62,52
+Africa,Botswana,2013,73,60,71,71,50,420,20,0.33,67,99
+America,Colombia,2011,73,45,,49,22,1200,2.6,36,123,108
+America,Ecuador,2011,73,35,,56,,650,4.3,36,382,283
+Asia,Azerbaijan,2010,73,63,52,55,,800,8.9,19,557,286
+America,Ecuador,2009,73,55,,54,,770,5.3,0,156,452
+America,Brazil,2011,73,49,47,56,21,5600,2.8,,592,614
+Europe,Republic of Moldova,2011,73,38,34,54,,550,13,74,1026,765
+Middle East,Qatar,2003,73,,,,,5,0.66,,,
+European Union,Czechia,2004,73,70,,,,70,0.68,,,
+European Union,Czechia,2002,73,50,,,,84,0.82,,,
+European Union,Belgium,2003,73,63,,38,,95,0.91,,,
+European Union,Czechia,2001,73,67,,,,95,0.92,,,
+European Union,Austria,2000,73,80,,,,75,0.93,,,
+European Union,Ireland,2004,73,58,69,100,,40,0.98,,,
+European Union,Sweden,2002,73,46,,75,,99,1.1,,,
+Middle East,Kuwait,2001,73,,,,,34,1.6,,,
+America,Trinidad and Tobago,2003,73,,,,,21,1.7,,,
+Middle East,Bahrain,2000,73,,,,,16,2.5,,,
+Europe,Turkey,2000,73,,,,,2000,3.2,,,
+America,Colombia,2002,73,,,,,1700,4,,,
+Middle East,Saudi Arabia,2000,73,58,,,,1000,4.9,,,
+America,Guyana,2001,73,60,,,,72,9.5,,,
+European Union,Lithuania,2000,73,45,,,,370,11,,,
+European Union,Latvia,2001,73,46,,,,290,12,,,
+Europe,Belarus,2003,73,,,,,1200,13,,,
+America,Haiti,2004,73,67,,,,1300,15,,,
+America,Haiti,2001,73,62,,,,1600,18,,,
+Asia,Thailand,2003,73,62,,,,12000,19,,,
+Africa,Malawi,2003,73,70,,,,3000,25,,,
+Africa,Malawi,2000,73,67,,,,3000,26,,,
+Africa,Burundi,2004,73,,,45,,2900,40,,,
+Africa,Côte d'Ivoire,2006,73,68,,,,8200,44,,,
+Africa,Djibouti,2003,73,49,,,,390,51,,,
+Africa,Nigeria,2004,73,73,,,,76000,56,,,
+Africa,Guinea-Bissau,2004,73,70,,,,780,57,,,
+Africa,Liberia,2003,73,37,,,,2200,72,,,
+Africa,Lesotho,2005,73,71,,,,1500,79,,,
+Asia,Bangladesh,1997,73,58,,,,,,,,
+Africa,Eritrea,1998,73,81,,,,,,,,
+Asia,Georgia,1996,73,,,,,,,,,
+America,Guatemala,1997,73,48,,,,,,,,
+Africa,Guinea,1998,73,60,,,,,,,,
+Middle East,Kuwait,1996,73,,,,,,,,,
+Middle East,Lebanon,1998,73,,,,,,,,,
+Middle East,Lebanon,1996,73,,,,,,,,,
+Asia,Nepal,1995,73,,,,,,,,,
+Africa,Nigeria,1998,73,,,,,,,,,
+Africa,Nigeria,1997,73,,,,,,,,,
+Middle East,Saudi Arabia,1999,73,61,,,,,,,,
+European Union,Slovakia,1996,73,,,,,,,,,
+Oceania,Solomon Islands,1996,73,,,,,,,,,
+Asia,Turkmenistan,1995,73,,,,,,,,,
+Africa,United Republic of Tanzania,1995,73,76,,,,,,,,
+Africa,Zimbabwe,1999,73,66,,,,,,,,
+Middle East,United Arab Emirates,2010,72,67,25,,,57,0.69,0,0,0
+Asia,Brunei Darussalam,2016,72,,100,,,19,4.6,68,0,0
+Africa,Chad,2009,72,70,,,,3300,29,0,0,0
+Africa,South Sudan,2013,72,58,62,,,3800,34,3,1,0
+Africa,Burkina Faso,2006,72,75,,,,1500,11,0,6,0
+European Union,Czechia,2006,72,63,,,,62,0.6,,9,0
+Africa,Guinea,2005,72,60,,,,4900,50,3.9,20,0
+European Union,Austria,2011,72,43,,64,67,55,0.66,95,22,0
+European Union,Spain,2011,72,56,55,,,300,0.63,23,45,0
+America,Brazil,2005,72,48,47,,,6400,3.4,0,373,0
+America,Brazil,2007,72,51,48,44,,6000,3.2,0.8,992,0
+Europe,Bosnia and Herzegovina,2011,72,63,,20,,180,4.9,99,7,3
+European Union,Austria,2013,72,63,,77,67,68,0.79,,16,4
+America,Chile,2008,72,22,,17,,460,2.8,,7,5
+America,Chile,2009,72,24,,21,,490,2.9,3.7,27,11
+European Union,Portugal,2015,72,56,51,40,17,220,2.1,45,19,19
+European Union,Portugal,2014,72,60,57,52,67,220,2.1,65,26,22
+Middle East,Saudi Arabia,2015,72,44,45,38,,1100,3.4,34,45,45
+America,Colombia,2012,72,51,,48,25,1300,2.8,32,138,76
+Asia,Turkmenistan,2013,72,26,,0,,630,12,0,81,81
+America,Ecuador,2016,72,,,,,550,3.3,0,160,155
+Africa,Eswatini,2011,72,59,69,58,0,260,21,0,386,165
+Africa,Eswatini,2010,72,50,68,57,,270,22,2.9,341,344
+Africa,Eswatini,2012,72,65,70,,,250,20,0,642,484
+America,Brazil,2010,72,46,46,64,8,5800,2.9,,591,573
+America,Brazil,2013,72,38,46,52,12,5600,2.7,1.6,706,574
+America,Brazil,2012,72,36,48,51,25,5400,2.7,1.6,720,660
+America,Brazil,2016,72,39,53,,,5200,2.5,26,990,692
+Europe,Ukraine,2014,72,66,35,46,25,5800,13,97,7735,8201
+Asia,Russia,2016,72,49,53,,,12000,8.6,40,27363,25713
+Asia,India,2015,72,66,78,46,28,441000,34,5.8,28876,26966
+Oceania,Australia,2000,72,82,,,,54,0.28,,,
+America,Trinidad and Tobago,2001,72,,,,,18,1.4,,,
+Europe,Turkey,2003,72,65,,,,1300,2,,,
+Europe,Turkey,2001,72,,,,,1800,2.8,,,
+European Union,Poland,2000,72,77,,,,1200,3.1,,,
+America,Brazil,2004,72,49,46,58,,6900,3.7,,,
+Asia,Brunei Darussalam,2004,72,75,,,,13,3.7,,,
+America,Paraguay,2001,72,64,,,,250,4.7,,,
+Asia,Malaysia,2003,72,63,,25,,1500,6.1,,,
+Africa,Cabo Verde,2003,72,,,,,29,6.2,,,
+European Union,Lithuania,2001,72,38,,,,360,10,,,
+Asia,Tajikistan,2001,72,56,,,,660,10,,,
+European Union,Latvia,2000,72,41,,,,310,13,,,
+Africa,Uganda,2007,72,81,,,,5200,17,,,
+Middle East,Yemen,2000,72,72,,,,3500,19,,,
+Africa,Malawi,2002,72,71,,,,3300,27,,,
+Africa,Botswana,2006,72,53,,88,,630,33,,,
+Africa,Guinea,2002,72,61,,,,5000,55,,,
+Africa,Côte d'Ivoire,2003,72,44,,30,,11000,65,,,
+Africa,Angola,2005,72,47,,,,13000,69,,,
+Africa,Côte d'Ivoire,2001,72,57,,,,13000,78,,,
+Oceania,Australia,1998,72,81,,,,,,,,
+America,Bahamas,1998,72,,,,,,,,,
+Africa,Benin,1997,72,60,,,,,,,,
+Africa,Benin,1996,72,58,,,,,,,,
+Africa,Djibouti,1999,72,59,,,,,,,,
+Africa,Ethiopia,1997,72,69,,,,,,,,
+European Union,Italy,1998,72,73,,,,,,,,
+America,Jamaica,1996,72,100,,,,,,,,
+European Union,Lithuania,1999,72,43,,,,,,,,
+European Union,Netherlands,1995,72,,,,,,,,,
+Middle East,Qatar,1996,72,,,,,,,,,
+European Union,Romania,1997,72,65,,,,,,,,
+Africa,Rwanda,1998,72,64,,,,,,,,
+Africa,South Africa,1998,72,71,,,,,,,,
+America,Venezuela ,1997,72,,,,,,,,,
+European Union,Slovenia,2016,71,,,,,13,0.61,93,0,0
+America,Trinidad and Tobago,2010,71,64,43,,,25,1.9,0,0,0
+Europe,Iceland,2009,71,100,,,,7,2.2,,0,0
+Asia,Brunei Darussalam,2012,71,,50,,,16,4,100,0,0
+European Union,Denmark,2006,71,68,,50,,22,0.4,,3,0
+European Union,Ireland,2005,71,64,73,,,25,0.6,,3,0
+Europe,Norway,2007,71,56,,67,,36,0.76,,3,0
+Africa,Burkina Faso,2005,71,75,,,,1600,12,0,3,0
+America,Paraguay,2007,71,70,28,75,,260,4.3,14,5,0
+Africa,South Sudan,2014,71,69,71,,,3400,30,0,6,0
+European Union,Austria,2006,71,73,,,,57,0.68,,10,0
+Africa,Central African Republic,2008,71,82,,,,3900,90,5.3,12,0
+European Union,Austria,2005,71,67,,,,54,0.66,,16,0
+European Union,Spain,2012,71,60,60,,,330,0.7,21,38,0
+America,Colombia,2006,71,,,,,1400,3.2,3.1,39,0
+Asia,Malaysia,2007,71,41,,48,,1500,5.5,0,41,0
+European Union,Estonia,2006,71,53,,,,70,5.2,,52,0
+Europe,United Kingdom,2005,71,60,,58,,460,0.77,,54,0
+Europe,Republic of Moldova,2008,71,34,30,48,,660,16,56,1048,0
+Africa,South Africa,2007,71,64,,42,,29000,58,0,7350,0
+Europe,Croatia,2014,71,,,,,40,0.95,79,2,3
+Asia,Maldives,2008,71,,,50,,8,2.3,0,3,3
+America,Paraguay,2011,71,67,41,100,,290,4.6,15,9,3
+America,Paraguay,2008,71,60,51,63,,290,4.8,20,6,4
+Middle East,Lebanon,2012,71,,0,86,,59,1.2,4.2,7,6
+America,Chile,2011,71,43,16,50,,480,2.8,4.8,20,7
+Middle East,Lebanon,2013,71,,50,86,,64,1.2,9.3,10,8
+Africa,Guinea-Bissau,2012,71,60,,40,,1100,70,0,18,9
+America,Chile,2010,71,26,,42,,560,3.3,4.4,26,9
+America,Paraguay,2014,71,51,39,69,,280,4.2,23,11,13
+Africa,Mauritania,2015,71,59,,23,,1000,24,13,24,13
+Africa,Congo,2015,71,45,20,62,,3000,60,0,41,13
+European Union,Hungary,2016,71,66,100,,,66,0.68,0,18,18
+America,Colombia,2013,71,42,45,62,25,1400,2.9,68,165,152
+Africa,Lesotho,2012,71,63,69,64,,1200,56,0.49,100,189
+America,Brazil,2014,71,39,49,52,36,5300,2.6,0,688,754
+America,Brazil,2015,71,38,49,60,11,5400,2.6,26,1242,1000
+Europe,Belarus,2011,71,29,39,50,,880,9.2,94,1637,1446
+Europe,Ukraine,2012,71,51,,34,,7400,16,77,7615,7672
+Europe,Ukraine,2013,71,55,44,39,,6600,15,81,10585,9000
+Asia,Russia,2015,71,50,51,54,33,14000,10,38,17132,24035
+European Union,Germany,2004,71,66,,,,450,0.55,,,
+European Union,Germany,2003,71,52,,63,,530,0.64,,,
+Middle East,United Arab Emirates,2004,71,,,,,27,0.66,,,
+Oceania,New Zealand,2004,71,63,67,,,30,0.74,,,
+Europe,United Kingdom,2004,71,60,,49,,460,0.76,,,
+Europe,United Kingdom,2003,71,64,,15,,520,0.87,,,
+European Union,Hungary,2015,71,67,,25,,110,1.1,,,
+Asia,Singapore,2000,71,,,,,120,3.1,,,
+America,Colombia,2005,71,,,,,1400,3.2,,,
+Asia,Brunei Darussalam,2005,71,80,100,,,13,3.5,,,
+America,Colombia,2001,71,,,,,1600,4,,,
+America,Brazil,2000,71,40,,,,8000,4.5,,,
+Africa,Cabo Verde,2004,71,71,,,,29,6.2,,,
+America,Panama,2002,71,55,,50,,200,6.5,,,
+Africa,Togo,2005,71,75,,,,510,8.9,,,
+America,Ecuador,2001,71,41,,,,1300,10,,,
+European Union,Lithuania,2002,71,39,,39,,340,10,,,
+Africa,Mali,2004,71,65,,,,1700,13,,,
+Asia,Thailand,2005,71,58,,,,10000,16,,,
+America,Haiti,2000,71,56,,,,1600,18,,,
+Asia,Thailand,2004,71,56,,,,12000,18,,,
+Asia,Turkmenistan,2003,71,62,,,,830,18,,,
+Africa,Zimbabwe,2001,71,61,,,,2400,20,,,
+Africa,Gambia,2001,71,74,,,,300,23,,,
+Europe,Ukraine,2008,71,41,42,,,11000,24,,,
+Europe,Ukraine,2007,71,55,,,,11000,24,,,
+Africa,Mauritania,2013,71,71,,43,,1000,25,,,
+Africa,Sao Tome and Principe,2003,71,,,,,37,25,,,
+Africa,Sao Tome and Principe,2004,71,95,,,,41,27,,,
+Africa,Congo,2002,71,78,,,,1000,29,,,
+Africa,Chad,2004,71,66,,,,3500,36,,,
+Africa,Côte d'Ivoire,2007,71,67,,,,6900,36,,,
+Africa,Burundi,2005,71,,,,,2800,37,,,
+Africa,Botswana,2002,71,65,,,,730,41,,,
+Africa,Congo,2011,71,51,,,,2200,48,,,
+Africa,Angola,2003,71,,,,,9700,54,,,
+Africa,Cameroon,2004,71,49,,,,9800,58,,,
+Africa,Liberia,2007,71,81,,,,2100,60,,,
+Africa,Cameroon,2002,71,69,,,,11000,67,,,
+Africa,Madagascar,2004,71,68,,,,12000,68,,,
+Africa,Lesotho,2002,71,,,,,1300,69,,,
+Africa,Madagascar,2003,71,,,,,12000,71,,,
+Africa,Lesotho,2001,71,64,,,,1400,76,,,
+Oceania,Papua New Guinea,2006,71,,,10,,6200,95,,,
+Asia,Bangladesh,1995,71,75,,,,,,,,
+Africa,Benin,1995,71,67,,,,,,,,
+America,Bolivia,1996,71,,,,,,,,,
+Africa,Botswana,1999,71,72,,,,,,,,
+Africa,Ethiopia,1996,71,71,,,,,,,,
+America,Haiti,1997,71,,,,,,,,,
+European Union,Italy,1999,71,53,,,,,,,,
+Middle East,Kuwait,1997,71,,,,,,,,,
+Middle East,Kuwait,1995,71,,,,,,,,,
+European Union,Latvia,1998,71,74,,,,,,,,
+Africa,Lesotho,1996,71,64,,,,,,,,
+Africa,Malawi,1999,71,71,,,,,,,,
+Africa,Malawi,1997,71,71,,,,,,,,
+Africa,Malawi,1995,71,69,,,,,,,,
+Africa,Mozambique,1999,71,71,,,,,,,,
+America,Paraguay,1999,71,,,,,,,,,
+Asia,Philippines,1998,71,83,,,,,,,,
+North Asia,North Korea,1996,71,53,,,,,,,,
+Europe,Turkey,1996,71,,,,,,,,,
+America,Belize,2005,70,86,50,,,6,2.3,0,0,0
+Oceania,Nauru,2016,70,70,,,,1,8.3,0,0,0
+Africa,Zimbabwe,2008,70,73,,,,3300,24,0,0,0
+Africa,Libya,2008,70,38,66,,,210,3.6,0.46,7,0
+European Union,Czechia,2009,70,68,50,0,0,52,0.49,,11,0
+European Union,Czechia,2008,70,67,60,55,100,54,0.52,,11,0
+European Union,Austria,2008,70,70,,27,25,49,0.59,0,16,0
+America,Canada,2005,70,68,62,,,130,0.4,,22,0
+European Union,Austria,2009,70,43,,43,,48,0.58,,23,0
+Africa,South Africa,2006,70,67,,,,30000,60,0,6716,0
+Middle East,United Arab Emirates,2008,70,100,,,,59,0.85,0,1,1
+America,Bahamas,2008,70,33,61,100,,4,1.2,96,1,1
+Oceania,Tuvalu,2012,70,,,100,,2,17,11,2,1
+Middle East,Qatar,2011,70,,,,,7,0.35,1.6,6,4
+Africa,Mauritania,2011,70,53,,,,1200,33,0.3,8,4
+America,Paraguay,2010,70,60,39,50,,290,4.7,8.2,4,5
+America,Paraguay,2012,70,54,30,57,,260,4.1,15,9,6
+European Union,Czechia,2011,70,75,75,,,56,0.53,96,13,7
+Africa,Mauritania,2016,70,53,,,,900,21,0,8,8
+Africa,Sao Tome and Principe,2012,70,42,61,80,,35,19,27,16,8
+Middle East,Syrian Arab Republic,2014,70,69,,42,,49,0.26,19,31,8
+Africa,Mauritania,2014,70,62,,0,,920,23,0.59,8,11
+European Union,Hungary,2012,70,53,,33,50,130,1.3,80,14,12
+Middle East,Qatar,2015,70,,,,,9,0.36,0,13,13
+America,Paraguay,2015,70,57,43,46,,270,4.1,26,13,15
+European Union,Portugal,2016,70,67,52,,,210,2,44,15,16
+Africa,Central African Republic,2013,70,62,62,81,,2300,51,0,20,20
+Africa,Central African Republic,2014,70,64,68,76,,2100,46,1.8,40,21
+Africa,Mauritania,2010,70,59,,0,,1000,29,0,35,35
+Asia,Japan,2016,70,,57,,,2900,2.3,49,79,76
+Africa,Lesotho,2014,70,59,69,64,,1200,56,18,148,152
+Africa,Lesotho,2013,70,62,66,63,33,1200,56,2.5,145,163
+Oceania,Papua New Guinea,2014,70,63,,52,40,3500,46,0,320,320
+America,Brazil,2009,70,42,44,49,9,6000,3.1,0,449,398
+European Union,Germany,2016,70,56,,,,320,0.39,,,
+Oceania,Australia,2001,70,50,,,,86,0.45,,,
+European Union,Austria,2004,70,65,,,,45,0.55,,,
+Europe,United Kingdom,2002,70,59,,11,,520,0.87,,,
+European Union,Ireland,2003,70,,,100,,37,0.92,,,
+European Union,Czechia,2000,70,63,,,,130,1.2,,,
+Africa,Egypt,2004,70,45,,,,900,1.2,,,
+Europe,Norway,2000,70,33,,,,56,1.2,,,
+America,Suriname,2004,70,17,35,,,7,1.5,,,
+Europe,Croatia,2002,70,,,,,180,4.2,,,
+European Union,Estonia,2003,70,29,,,,99,7.2,,,
+European Union,Estonia,2000,70,56,,,,110,7.9,,,
+European Union,Romania,2000,70,44,,,,2100,9.6,,,
+America,Dominican Republic,2000,70,54,,,,900,11,,,
+Asia,Azerbaijan,2003,70,51,,,,1200,14,,,
+Africa,Uganda,2004,70,68,,,,4500,16,,,
+Europe,Republic of Moldova,2004,70,38,,,,730,18,,,
+Europe,Ukraine,2006,70,43,,,,11000,24,,,
+Africa,Malawi,2001,70,69,,,,2900,25,,,
+Africa,Senegal,2003,70,61,,,,2700,26,,,
+Africa,Malawi,2004,70,73,,,,3400,27,,,
+Africa,Botswana,2005,70,61,,,,530,28,,,
+Africa,Niger,2003,70,,,,,5200,41,,,
+Africa,Congo,2012,70,60,,,,2200,48,,,
+Africa,Liberia,2004,70,77,,,,1700,53,,,
+Africa,Lesotho,2003,70,77,,,,1200,61,,,
+Africa,Madagascar,2000,70,,,,,13000,80,,,
+Africa,Ethiopia,2003,70,60,,,,62000,85,,,
+Africa,Algeria,1998,70,,,,,,,,,
+Africa,Botswana,1997,70,,,,,,,,,
+Africa,Botswana,1996,70,,,,,,,,,
+Asia,Democratic Republic of the Congo,1998,70,31,,,,,,,,
+Africa,Gambia,1997,70,,,,,,,,,
+America,Haiti,1995,70,,,,,,,,,
+America,Honduras,1997,70,,,,,,,,,
+Middle East,Kuwait,1998,70,,,,,,,,,
+Asia,laos,1995,70,100,,,,,,,,
+Africa,Mali,1998,70,65,,,,,,,,
+America,Mexico,1997,70,60,,,,,,,,
+Asia,Pakistan,1999,70,75,,,,,,,,
+Asia,Pakistan,1995,70,70,,,,,,,,
+Africa,South Sudan,2010,70,57,25,,,,,,,
+Europe,Republic of North Macedonia,1995,70,,,,,,,,,
+Middle East,Yemen,1997,70,37,,,,,,,,
+Africa,Zambia,1995,70,,,,,,,,,
+Africa,Zimbabwe,1998,70,,,,,,,,,
+Africa,Seychelles,2014,69,,0,,,0,0,100,0,0
+European Union,Czechia,2013,69,83,,,,67,0.63,90,0,0
+European Union,Malta,2011,69,100,,,,3,0.71,89,0,0
+Africa,Chad,2012,69,56,,,,3200,25,0,0,0
+Middle East,Qatar,2006,69,,,0,,4,0.37,0,3,0
+America,Bahamas,2010,69,100,50,,,2,0.57,95,5,0
+European Union,Sweden,2005,69,75,,,,60,0.66,,5,0
+Africa,South Sudan,2011,69,57,66,,,3100,30,0,7,0
+Africa,Libya,2005,69,,,,,140,2.4,0.47,8,0
+Africa,Congo,2014,69,94,,,,2800,58,0,24,0
+European Union,Austria,2012,69,40,,60,29,42,0.49,93,27,0
+European Union,Spain,2010,69,56,51,,,400,0.86,21,53,0
+America,Brazil,2006,69,47,50,59,,6300,3.3,0,399,0
+Africa,South Africa,2005,69,58,,,,30000,60,0,2000,0
+Asia,Russia,2007,69,36,,,,27000,19,60,5297,0
+Asia,Russia,2008,69,36,,51,,27000,19,72,6960,0
+Middle East,United Arab Emirates,2011,69,33,33,100,,60,0.69,5,1,1
+Middle East,United Arab Emirates,2009,69,,,100,,58,0.76,0,0,2
+Africa,Guinea-Bissau,2011,69,68,,0,,1000,65,0,2,2
+America,Guyana,2014,69,38,59,,,130,17,2.1,4,4
+Africa,Sao Tome and Principe,2011,69,31,47,100,,43,24,1.9,4,4
+European Union,Czechia,2016,69,25,20,,,43,0.4,72,7,4
+Middle East,Qatar,2016,69,,,,,9,0.36,2,10,10
+European Union,Czechia,2015,69,78,0,38,,57,0.54,73,10,10
+America,Guyana,2016,69,47,73,,,140,18,7.1,10,10
+Africa,Mali,2011,69,69,83,33,,1700,11,0,10,32
+Oceania,Papua New Guinea,2011,69,52,,14,,6800,94,0,15,60
+Africa,Lesotho,2011,69,58,67,61,,1200,57,0,82,148
+Europe,Republic of Moldova,2009,69,34,29,,,690,17,73,1110,334
+America,Brazil,2008,69,50,48,50,9,6100,3.2,0,339,339
+Europe,Ukraine,2010,69,46,,29,,8200,18,66,6055,3870
+Asia,Russia,2012,69,37,,40,26,19000,14,79,13612,18452
+Asia,Russia,2014,69,42,,51,31,16000,11,84,15585,21904
+Asia,India,2016,69,70,75,,,425000,32,20,37258,32914
+European Union,Spain,2016,69,48,56,,,250,0.54,,,
+European Union,Germany,2002,69,68,,62,,520,0.64,,,
+European Union,Belgium,2002,69,76,,56,,83,0.8,,,
+Middle East,Kuwait,2000,69,,,,,30,1.5,,,
+Middle East,Kuwait,2004,69,100,,50,,37,1.7,,,
+America,Trinidad and Tobago,2011,69,35,51,,,22,1.7,,,
+America,Suriname,2003,69,,,,,13,2.7,,,
+America,Saint Lucia,2005,69,,,,,7,4.1,,,
+America,Saint Lucia,2004,69,50,,,,7,4.4,,,
+Asia,Georgia,2004,69,49,11,,,240,5.3,,,
+Africa,Congo,2000,69,63,,,,510,16,,,
+Asia,Thailand,2000,69,,,,,12000,20,,,
+Asia,Russia,2006,69,47,,,,30000,21,,,
+Africa,Zimbabwe,2000,69,65,,,,2700,22,,,
+Africa,Namibia,2005,69,52,,,,830,41,,,
+Africa,Congo,2003,69,72,,,,1800,52,,,
+Africa,Côte d'Ivoire,2004,69,49,,5,,9900,55,,,
+Africa,Guinea-Bissau,2005,69,77,,,,850,61,,,
+Africa,Angola,2004,69,,,,,12000,63,,,
+Africa,Madagascar,2001,69,67,,,,13000,79,,,
+European Union,Czechia,1997,69,56,,,,,,,,
+Asia,Democratic Republic of the Congo,1999,69,67,,,,,,,,
+America,El Salvador,1997,69,,,,,,,,,
+European Union,Italy,1997,69,75,,,,,,,,
+Africa,Lesotho,1999,69,61,,,,,,,,
+European Union,Lithuania,1998,69,79,,,,,,,,
+Africa,Malawi,1998,69,65,,,,,,,,
+Asia,Malaysia,1995,69,,,,,,,,,
+Africa,Mali,1999,69,,,,,,,,,
+Asia,Nepal,1997,69,78,,,,,,,,
+Europe,Norway,1998,69,84,,,,,,,,
+America,Panama,1995,69,,,,,,,,,
+European Union,Poland,1999,69,68,,,,,,,,
+European Union,Portugal,1995,69,55,,,,,,,,
+Africa,Sierra Leone,1995,69,87,,,,,,,,
+Africa,Togo,1998,69,,,,,,,,,
+America,Trinidad and Tobago,1995,69,,,,,,,,,
+Africa,Zambia,1999,69,72,,,,,,,,
+Africa,Zimbabwe,1997,69,,,,,,,,,
+Africa,Equatorial Guinea,2010,68,46,,,,140,15,0,0,0
+Africa,Chad,2011,68,60,,,,3000,25,0,0,0
+America,Trinidad and Tobago,2005,68,57,38,,,22,1.7,0,3,0
+America,Suriname,2016,68,50,58,,,15,2.7,63,4,0
+Africa,Mauritania,2008,68,58,,10,,1000,31,0,6,0
+Africa,Senegal,2007,68,67,,,,2700,22,2.4,10,0
+European Union,Belgium,2007,68,35,40,36,,86,0.81,,14,0
+European Union,Sweden,2007,68,67,,80,,63,0.69,,15,0
+European Union,Poland,2009,68,62,,57,0,810,2.1,76,41,0
+Africa,Mauritania,2012,68,71,,0,,890,23,,1,1
+Middle East,Bahrain,2016,68,,0,,,7,0.51,56,2,1
+America,Paraguay,2013,68,48,34,33,,260,4.1,19,8,5
+America,Guyana,2015,68,54,48,40,,130,18,5.3,6,6
+Africa,Central African Republic,2012,68,60,65,81,,2600,58,0,28,6
+Africa,Uganda,2010,68,65,,90,,6200,18,1.5,135,10
+Africa,Chad,2014,68,49,,56,,3600,27,0,22,12
+Europe,Switzerland,2016,68,56,,,,17,0.2,67,18,18
+Africa,Sudan,2011,68,55,,53,,8000,23,0.29,83,80
+Oceania,Papua New Guinea,2012,68,56,,55,,5000,68,0,159,82
+America,Peru,2010,68,,44,60,22,2600,8.9,0,1048,1702
+Africa,South Africa,2009,68,60,,42,19,26000,50,0,9070,4143
+Asia,Russia,2009,68,34,,,,25000,18,76,14686,8143
+Asia,Russia,2013,68,39,,48,26,18000,12,84,13521,20372
+European Union,Netherlands,2002,68,43,,,,79,0.49,,,
+European Union,Austria,2003,68,60,,50,,45,0.56,,,
+America,Suriname,2000,68,,,,,6,1.3,,,
+America,Trinidad and Tobago,2000,68,68,,,,29,2.3,,,
+Middle East,Saudi Arabia,2006,68,63,,,,1100,4.3,,,
+America,Paraguay,2004,68,,,14,,320,5.7,,,
+Africa,Togo,2002,68,65,,,,420,8,,,
+Africa,Uganda,2006,68,76,,,,5100,17,,,
+Africa,Uganda,2003,68,60,,,,4600,17,,,
+Asia,Russia,2000,68,49,,,,32000,22,,,
+Africa,Ghana,2004,68,47,,,,12000,56,,,
+Africa,South Africa,2002,68,53,,49,,26000,56,,,
+Africa,Guinea,2000,68,72,,,,5200,59,,,
+Africa,Angola,2001,68,,,,,11000,65,,,
+Africa,Angola,2000,68,,,,,11000,68,,,
+Africa,Lesotho,2008,68,62,,65,,1400,69,,,
+Africa,Central African Republic,2005,68,82,,,,5400,132,,,
+Africa,Angola,1998,68,,,,,,,,,
+Africa,Côte d'Ivoire,1995,68,,,,,,,,,
+America,Honduras,1996,68,,,,,,,,,
+Africa,Libya,1998,68,,,,,,,,,
+Africa,Malawi,1996,68,64,,,,,,,,
+Asia,Russia,1998,68,49,,,,,,,,
+Africa,Rwanda,1997,68,58,,,,,,,,
+Africa,South Africa,1997,68,68,,,,,,,,
+Middle East,Syrian Arab Republic,1996,68,75,,,,,,,,
+Asia,Thailand,1998,68,55,,,,,,,,
+America,Uruguay,1995,68,76,,,,,,,,
+America,Antigua and Barbuda,2013,67,,75,,,0,0,0,0,0
+America,Antigua and Barbuda,2009,67,100,,,,0,0,0,0,0
+America,Saint Lucia,2016,67,,0,,,3,1.9,33,0,0
+America,Saint Vincent and the Grenadines,2016,67,100,,,,2,2,100,0,0
+America,Canada,2007,67,63,68,36,,130,0.39,,10,0
+European Union,Hungary,2009,67,61,,17,,170,1.7,62,20,0
+America,Belize,2015,67,,64,100,,9,2.5,0,1,1
+America,Guyana,2013,67,47,63,,,120,16,0.97,3,1
+Africa,Uganda,2008,67,79,,75,,5200,16,2.1,26,7
+America,Paraguay,2016,67,50,28,,,270,4,27,13,14
+European Union,Poland,2010,67,61,,50,100,630,1.6,77,37,30
+European Union,Germany,2013,67,60,,39,,380,0.46,25,112,98
+Oceania,Papua New Guinea,2013,67,57,,,,4600,60,0,129,145
+Africa,Eswatini,2009,67,55,67,66,,240,20,63,380,166
+Europe,Republic of Moldova,2010,67,32,30,49,,630,16,49,1123,791
+America,Peru,2012,67,,67,60,38,2500,8.2,79,1356,1510
+Europe,Ukraine,2011,67,34,,34,,7500,16,61,4530,4957
+European Union,Germany,2001,67,57,,,,550,0.68,,,
+Europe,United Kingdom,2001,67,60,,,,510,0.86,,,
+Europe,Iceland,2001,67,,,,,3,1.1,,,
+America,Suriname,2002,67,,,,,7,1.5,,,
+America,Grenada,2005,67,,0,,,2,2,,,
+Africa,Seychelles,2001,67,,,,,2,2.8,,,
+Middle East,Saudi Arabia,2007,67,62,7,43,,1100,4.2,,,
+Middle East,Saudi Arabia,2005,67,49,,,,1100,4.4,,,
+America,Dominica,2007,67,0,,,,4,5.7,,,
+Oceania,Palau,2006,67,,,,,1,5.7,,,
+Africa,Rwanda,2003,67,55,,,,520,5.9,,,
+Oceania,Nauru,2013,67,,,,,1,6.1,,,
+European Union,Estonia,2002,67,40,,,,92,6.7,,,
+Asia,Georgia,2001,67,45,,,,310,6.7,,,
+Africa,Togo,2006,67,,67,,,520,8.8,,,
+Asia,Tajikistan,2004,67,74,,,,710,11,,,
+Africa,Burkina Faso,2004,67,62,,,,1800,13,,,
+Africa,Zimbabwe,2002,67,63,,,,2200,18,,,
+Asia,Russia,2001,67,48,,,,31000,21,,,
+Asia,Russia,2002,67,46,,,,33000,23,,,
+Asia,Russia,2005,67,37,,,,34000,24,,,
+Africa,Zimbabwe,2006,67,57,,,,3200,25,,,
+Africa,Zambia,2000,67,67,,,,4600,44,,,
+Africa,South Africa,2003,67,52,,,,28000,58,,,
+Africa,Guinea-Bissau,2007,67,88,,,,850,59,,,
+Africa,Guinea-Bissau,2010,67,54,,,,950,61,,,
+Oceania,Papua New Guinea,2001,67,60,,,,4600,81,,,
+Africa,Central African Republic,2007,67,,,,,4400,102,,,
+Oceania,Papua New Guinea,2009,67,58,,,,7200,103,,,
+Europe,Andorra,1999,67,,,,,,,,,
+Africa,Botswana,1995,67,,,,,,,,,
+Africa,Burundi,1997,67,,,,,,,,,
+Oceania,Cook Islands,1999,67,,,,,,,,,
+America,Grenada,1999,67,,,,,,,,,
+America,Haiti,1999,67,66,,,,,,,,
+America,Haiti,1998,67,77,,,,,,,,
+Middle East,Iraq,1997,67,,,,,,,,,
+America,Jamaica,1995,67,67,,,,,,,,
+Africa,Libya,1999,67,,,,,,,,,
+Asia,Myanmar,1995,67,64,,,,,,,,
+Asia,Pakistan,1997,67,57,,,,,,,,
+Oceania,Palau,1995,67,,,,,,,,,
+Asia,Russia,1997,67,,,,,,,,,
+Africa,Rwanda,1999,67,48,,,,,,,,
+America,Saint Lucia,1997,67,80,,,,,,,,
+European Union,Slovakia,1997,67,74,,,,,,,,
+Middle East,Yemen,1998,67,72,,,,,,,,
+Middle East,Bahrain,2008,66,,0,,,8,0.68,9.2,0,0
+Asia,Brunei Darussalam,2011,66,63,67,,,6,1.6,,0,0
+America,Trinidad and Tobago,2009,66,68,,,,24,1.8,0,0,0
+Africa,Guinea-Bissau,2009,66,64,,,,910,60,0,0,0
+Africa,Guinea-Bissau,2008,66,66,,,,880,60,0,0,0
+America,Jamaica,2009,66,74,62,,,14,0.51,87,1,0
+Asia,Malaysia,2005,66,55,,,,1500,5.7,,1,0
+America,Suriname,2012,66,75,56,,,18,3.3,7.8,7,0
+Africa,Mauritania,2007,66,55,,,,990,30,0,14,0
+European Union,Estonia,2007,66,52,50,49,,66,4.9,,81,0
+America,Bahamas,2016,66,,55,,,1,0.2,35,4,1
+America,Canada,2011,66,56,62,88,100,99,0.29,0,21,18
+European Union,Estonia,2010,66,40,44,47,20,42,3.1,98,67,63
+America,United States of America,2010,66,,63,70,0,620,0.2,,138,92
+Africa,Lesotho,2009,66,62,65,63,,1300,62,0,0,429
+Asia,Russia,2010,66,34,,43,,23000,16,72,13692,13692
+European Union,Cyprus,2016,66,67,,,,3,0.26,,,
+European Union,Belgium,2000,66,62,,,,100,1,,,
+Middle East,Qatar,2000,66,,,,,6,1,,,
+America,Argentina,2003,66,46,,,,840,2.2,,,
+European Union,Hungary,2004,66,55,,,,300,3,,,
+America,Paraguay,2000,66,59,,,,280,5.3,,,
+Asia,Georgia,2003,66,41,,,,260,5.8,,,
+Asia,Azerbaijan,2009,66,53,76,74,0,690,7.7,,,
+Africa,Togo,2004,66,61,,,,490,8.8,,,
+America,Belize,2001,66,,,,,25,9.7,,,
+Asia,Tajikistan,2006,66,73,,,,680,9.8,,,
+Asia,Azerbaijan,2004,66,41,,,,1000,12,,,
+Africa,Burkina Faso,2003,66,59,,,,1800,14,,,
+America,Guyana,2002,66,74,,,,110,15,,,
+Africa,Zimbabwe,2003,66,62,,,,2500,20,,,
+Africa,Congo,2001,66,,,,,710,21,,,
+Africa,Zimbabwe,2005,66,60,,,,2900,22,,,
+Africa,Senegal,2002,66,49,,,,3100,29,,,
+Africa,Namibia,2002,66,65,,,,740,38,,,
+Africa,Ghana,2006,66,63,62,,,12000,54,,,
+Africa,Ghana,2003,66,37,,,,12000,57,,,
+Oceania,Papua New Guinea,2005,66,55,,,,5900,93,,,
+America,Bahamas,1999,66,,,,,,,,,
+European Union,Czechia,1996,66,65,,,,,,,,
+America,Ecuador,1999,66,69,,,,,,,,
+Middle East,Kuwait,1999,66,,,,,,,,,
+Africa,Namibia,1996,66,63,,,,,,,,
+Africa,Niger,1997,66,50,,,,,,,,
+Africa,Togo,1997,66,,,,,,,,,
+Europe,Turkey,1998,66,,,,,,,,,
+America,Jamaica,2012,65,,40,,,8,0.28,76,0,0
+Middle East,Saudi Arabia,2009,65,60,11,33,,1100,4,0,0,0
+Africa,Equatorial Guinea,2009,65,50,,,,170,19,0,0,0
+European Union,Ireland,2009,65,62,70,,,36,0.79,,1,0
+America,Paraguay,2006,65,70,31,,,300,5,1.9,7,0
+America,Guyana,2007,65,54,57,,,100,13,0,8,0
+America,Paraguay,2005,65,70,31,,,330,5.8,0,13,0
+European Union,Malta,2010,65,67,,,,1,0.26,100,1,1
+Asia,Brunei Darussalam,2014,65,,,,,18,4.4,84,1,1
+Europe,Bosnia and Herzegovina,2015,65,0,,100,,130,3.7,66,3,1
+America,Bahamas,2011,65,100,50,0,,5,1.4,97,6,1
+America,Guyana,2011,65,49,54,100,,110,15,0.62,7,1
+America,Guyana,2012,65,50,55,,,120,16,0.97,2,9
+Africa,Eswatini,2008,65,48,61,17,,190,17,9.6,170,93
+Africa,Lesotho,2010,65,58,67,68,,1200,60,0,117,117
+Asia,Russia,2011,65,42,,37,,21000,15,78,13785,18902
+European Union,Germany,2015,65,55,,43,33,320,0.39,,,
+Europe,Turkey,2002,65,,,,,1500,2.3,,,
+Oceania,Fiji,2005,65,,100,,,27,3.3,,,
+Asia,Japan,2003,65,72,,,,4400,3.4,,,
+Asia,Georgia,2002,65,38,,,,290,6.3,,,
+Africa,Mali,2003,65,59,,,,1600,14,,,
+Africa,Burkina Faso,2001,65,68,,,,1800,15,,,
+Europe,Republic of Moldova,2003,65,37,,,,650,16,,,
+Asia,Russia,2004,65,39,,,,32000,23,,,
+Africa,Botswana,2004,65,,,,,600,33,,,
+Africa,Niger,2000,65,,,,,6600,58,,,
+Africa,South Africa,2004,65,56,,,,29000,60,,,
+Africa,Côte d'Ivoire,2002,65,50,,8,,13000,73,,,
+Asia,Azerbaijan,1995,65,,,,,,,,,
+European Union,Czechia,1998,65,63,,,,,,,,
+European Union,Estonia,1998,65,,,,,,,,,
+Asia,Georgia,1997,65,,,,,,,,,
+Africa,Guinea-Bissau,1995,65,,,,,,,,,
+Africa,Kenya,1997,65,55,,,,,,,,
+Asia,laos,1997,65,56,,,,,,,,
+European Union,Latvia,1997,65,70,,,,,,,,
+Middle East,Lebanon,1997,65,,,,,,,,,
+Africa,Libya,1995,65,,,,,,,,,
+European Union,Lithuania,1997,65,,,,,,,,,
+Africa,Mali,1996,65,,,,,,,,,
+Africa,Mozambique,1997,65,64,,,,,,,,
+Asia,Nepal,1996,65,56,,,,,,,,
+European Union,Netherlands,1998,65,85,,,,,,,,
+Asia,Russia,1999,65,45,,,,,,,,
+Asia,Russia,1995,65,58,,,,,,,,
+Oceania,Solomon Islands,1995,65,,,,,,,,,
+Africa,Sudan,1998,65,58,,,,,,,,
+Middle East,Syrian Arab Republic,1997,65,50,,,,,,,,
+Africa,Togo,1996,65,65,,,,,,,,
+America,Trinidad and Tobago,1998,65,75,,,,,,,,
+America,Saint Lucia,2012,64,,100,,,1,0.65,36,0,0
+America,Bahamas,2007,64,100,42,,,3,0.97,92,0,0
+Oceania,Fiji,2010,64,67,,,,25,2.9,4.5,0,0
+Africa,Cabo Verde,2011,64,37,69,,,32,6.2,0,0,0
+America,Guyana,2009,64,51,59,,,85,11,0,0,0
+European Union,Cyprus,2011,64,100,,,,5,0.4,96,1,0
+European Union,Cyprus,2005,64,100,,,,6,0.59,84,1,0
+Asia,Maldives,2007,64,,,100,,6,1.9,3.4,1,0
+Africa,Libya,2007,64,,59,,,160,2.7,,1,0
+Oceania,New Zealand,2011,64,50,50,50,,15,0.34,,2,0
+America,Guyana,2010,64,52,51,20,,130,18,0,14,0
+European Union,Estonia,2008,64,44,46,48,33,56,4.2,,74,0
+Africa,Botswana,2007,64,51,69,53,,650,34,0,139,0
+America,Trinidad and Tobago,2014,64,29,44,0,,23,1.7,34,0,1
+European Union,Denmark,2012,64,60,30,,,23,0.4,98,2,1
+Oceania,Papua New Guinea,2008,64,,,,,6300,92,0,5,2
+Africa,Uganda,2009,64,70,,100,,5900,18,1.6,64,2
+Middle East,Saudi Arabia,2012,64,45,19,25,,1100,3.6,0,20,20
+European Union,Estonia,2011,64,31,37,61,29,46,3.5,100,79,75
+European Union,Estonia,2009,64,48,56,41,0,50,3.7,100,87,86
+European Union,Sweden,2004,64,57,,,,50,0.56,,,
+Middle East,United Arab Emirates,2003,64,0,,,,25,0.66,,,
+European Union,Austria,2001,64,44,,,,57,0.7,,,
+European Union,Belgium,2001,64,60,,,,100,1,,,
+America,Bahamas,2001,64,,,,,5,1.7,,,
+America,Costa Rica,2001,64,,,,,85,2.1,,,
+European Union,Hungary,2000,64,35,,,,390,3.8,,,
+Africa,Libya,2004,64,,,,,290,5.1,,,
+Africa,Cabo Verde,2005,64,56,,,,29,6.2,,,
+Africa,Cabo Verde,2000,64,,,,,27,6.2,,,
+America,Panama,2001,64,49,,,,220,7,,,
+European Union,Estonia,2001,64,33,,,,100,7.4,,,
+Africa,Burkina Faso,2002,64,58,,,,1800,15,,,
+Europe,Republic of Moldova,2001,64,57,,,,640,15,,,
+Asia,Turkmenistan,2001,64,70,,,,820,18,,,
+Africa,Niger,2001,64,,,,,6200,53,,,
+Africa,Chad,1998,64,,,,,,,,,
+Asia,Democratic Republic of the Congo,1997,64,46,,,,,,,,
+America,Dominican Republic,1995,64,,,,,,,,,
+America,El Salvador,1996,64,,,,,,,,,
+America,Honduras,1995,64,,,,,,,,,
+European Union,Latvia,1996,64,,,,,,,,,
+Africa,Madagascar,1997,64,62,,,,,,,,
+European Union,Slovakia,1995,64,,,,,,,,,
+Asia,Thailand,1995,64,,,,,,,,,
+Asia,Turkmenistan,1996,64,,,,,,,,,
+America,Jamaica,2007,63,,53,,,11,0.41,0,0,0
+America,Trinidad and Tobago,2012,63,37,46,,,24,1.8,2.4,0,0
+America,Trinidad and Tobago,2008,63,36,44,,,24,1.8,3.6,0,0
+Africa,Somalia,2009,63,60,0,,,9600,82,0,0,0
+Oceania,Micronesia,2007,63,25,,0,,19,18,0,1,0
+Oceania,Marshall Islands,2006,63,38,,,,19,37,84,2,0
+European Union,Sweden,2006,63,,,100,,66,0.73,,3,0
+Europe,Croatia,2009,63,50,,50,,120,2.8,,14,0
+European Union,Hungary,2005,63,49,,,,260,2.5,62,26,0
+European Union,Germany,2014,63,64,,35,18,320,0.39,10,90,0
+America,Trinidad and Tobago,2015,63,55,36,0,,23,1.7,36,2,1
+Oceania,Palau,2011,63,,0,,,1,5.5,100,2,1
+Asia,Japan,2002,63,71,,,,4500,3.5,,,
+Asia,Brunei Darussalam,2000,63,,,,,17,5,,,
+Asia,Georgia,2000,63,54,,,,330,6.9,,,
+America,Panama,2003,63,54,,73,,230,7.1,,,
+Africa,Togo,2003,63,50,,,,470,8.7,,,
+Europe,Republic of Moldova,2000,63,0,,,,730,17,,,
+Africa,Sao Tome and Principe,2001,63,,,,,33,24,,,
+Africa,Uganda,2000,63,64,,,,6700,28,,,
+Africa,Namibia,2001,63,64,,,,730,38,,,
+Africa,Namibia,2003,63,58,,,,800,41,,,
+Africa,Congo,2004,63,60,,,,1700,46,,,
+Africa,South Africa,2000,63,50,,,,24000,53,,,
+Africa,Gabon,2008,63,31,44,,,1300,85,,,
+Oceania,Papua New Guinea,2000,63,65,,,,5000,90,,,
+Asia,Bangladesh,1996,63,57,,,,,,,,
+Africa,Côte d'Ivoire,1999,63,66,,,,,,,,
+European Union,Estonia,1999,63,62,,,,,,,,
+Africa,Lesotho,1997,63,67,,,,,,,,
+Oceania,Papua New Guinea,1998,63,53,,,,,,,,
+America,Suriname,1998,63,,,,,,,,,
+America,Trinidad and Tobago,1999,63,36,,,,,,,,
+America,Belize,2016,62,,36,,,10,2.6,4.5,0,0
+America,Guyana,2008,62,26,57,,,95,13,7.3,0,0
+Asia,Brunei Darussalam,2009,62,,50,,,12,3.2,100,1,0
+Oceania,Marshall Islands,2005,62,70,,,,15,29,,2,0
+European Union,Denmark,2011,62,59,78,0,,16,0.29,100,3,0
+European Union,Hungary,2006,62,41,,50,,190,1.9,68,14,0
+European Union,Hungary,2008,62,56,,,,190,1.9,84,16,0
+America,Suriname,2009,62,50,47,,,17,3.3,0.67,1,1
+America,Trinidad and Tobago,2013,62,33,34,71,,24,1.8,16,13,14
+America,Chile,2015,62,34,48,37,,460,2.6,58,30,26
+European Union,Poland,2011,62,54,,35,0,690,1.8,88,49,38
+Middle East,Saudi Arabia,2014,62,33,27,27,,1100,3.5,56,67,51
+America,Dominican Republic,2009,62,53,33,56,,580,5.9,0,0,93
+America,United States of America,2009,62,,56,63,,590,0.19,,251,114
+Oceania,Papua New Guinea,2016,62,17,,,,3600,45,0,342,302
+Middle East,United Arab Emirates,2001,62,,,,,22,0.66,,,
+European Union,Sweden,2001,62,43,,,,88,0.99,,,
+America,Bahamas,2003,62,,,,,3,1.1,,,
+Middle East,Kuwait,2003,62,100,,60,,30,1.4,,,
+America,Bahamas,2004,62,,,,,7,2.1,,,
+Africa,Libya,2003,62,,,,,180,3.2,,,
+Africa,Equatorial Guinea,2013,62,53,57,,,180,16,,,
+Africa,Cameroon,2001,62,57,,,,10000,65,,,
+Africa,Djibouti,2000,62,37,,,,480,66,,,
+Africa,Lesotho,2006,62,54,68,,,1400,72,,,
+America,Bolivia,1998,62,,,,,,,,,
+America,Bolivia,1995,62,66,,,,,,,,
+Africa,Côte d'Ivoire,1998,62,55,,,,,,,,
+Asia,South Korea,1996,62,,,,,,,,,
+Africa,Egypt,1995,62,,,,,,,,,
+Middle East,Iraq,1999,62,69,,,,,,,,
+Africa,Mali,1997,62,,,,,,,,,
+Middle East,Saudi Arabia,1998,62,,,,,,,,,
+Africa,Uganda,1998,62,60,,,,,,,,
+Africa,Libya,2015,61,22,29,,,670,11,0,0,0
+Africa,Ghana,2005,61,48,,,,12000,55,0.62,1,0
+European Union,Ireland,2006,61,42,43,,,41,0.96,66,3,0
+Europe,Croatia,2007,61,,,,,100,2.3,0.87,7,0
+Middle East,Saudi Arabia,2010,61,50,26,,,1100,3.8,0,14,0
+European Union,Belgium,2006,61,42,50,69,,61,0.57,,23,0
+America,Trinidad and Tobago,2007,61,29,40,,,22,1.7,80,40,0
+Middle East,Bahrain,2011,61,,0,,,2,0.19,99,18,1
+European Union,Ireland,2011,61,54,75,33,,29,0.62,92,3,3
+European Union,Ireland,2012,61,44,20,100,,27,0.58,97,5,5
+Middle East,Saudi Arabia,2008,61,44,5,,,1100,4.1,0,21,21
+Middle East,Saudi Arabia,2011,61,63,19,,,1100,3.7,0,22,22
+America,Colombia,2016,61,32,38,,,1300,2.7,22,181,187
+America,Canada,2004,61,54,73,100,,100,0.32,,,
+America,Argentina,2001,61,,,,,880,2.3,,,
+Africa,Libya,2002,61,,,,,200,3.6,,,
+Africa,Libya,2010,61,33,36,,,310,5,,,
+Africa,Rwanda,2000,61,54,,,,460,5.8,,,
+Asia,Russia,2003,61,45,,,,33000,23,,,
+Africa,Niger,2004,61,,,,,5100,39,,,
+Africa,South Africa,2001,61,50,,,,25000,54,,,
+Africa,Gabon,2009,61,79,52,,,1900,117,,,
+Africa,Burkina Faso,1999,61,61,,,,,,,,
+Africa,Burkina Faso,1997,61,,,,,,,,,
+Africa,Congo,1999,61,59,,,,,,,,
+Africa,Côte d'Ivoire,1997,61,66,,,,,,,,
+America,Dominican Republic,1996,61,,,,,,,,,
+Africa,Ethiopia,1995,61,79,,,,,,,,
+Asia,Georgia,1999,61,43,,,,,,,,
+America,Guatemala,1995,61,73,,,,,,,,
+European Union,Latvia,1995,61,,,,,,,,,
+Africa,Namibia,1998,61,53,,,,,,,,
+Africa,Rwanda,1996,61,41,,,,,,,,
+Africa,South Africa,1996,61,67,,,,,,,,
+Middle East,Syrian Arab Republic,1995,61,,,,,,,,,
+Africa,Uganda,1999,61,48,,,,,,,,
+Africa,Seychelles,2016,60,,0,,,0,0.41,45,0,0
+America,Grenada,2009,60,,100,,,2,2,0,0,0
+Africa,Mauritania,2009,60,62,,22,,1000,29,0,0,0
+Africa,Gabon,2010,60,65,64,,,1900,113,0,0,0
+Europe,Andorra,2013,60,,100,,,0,0,100,1,0
+Asia,Democratic Republic of the Congo,2006,60,67,,,,34000,60,0,1,0
+European Union,Hungary,2007,60,51,,50,,220,2.2,70,11,0
+America,Canada,2006,60,48,54,75,,130,0.39,,16,0
+Asia,Azerbaijan,2006,60,46,,,,480,5.6,28,398,0
+European Union,Poland,2012,60,45,,13,,680,1.8,91,41,31
+Europe,Ukraine,2009,60,47,,27,,9000,20,88,5419,3186
+Oceania,New Zealand,2002,60,67,,100,,16,0.41,,,
+European Union,Belgium,2004,60,33,42,62,,74,0.71,,,
+European Union,Malta,2002,60,,,,,3,0.76,,,
+Middle East,Qatar,2001,60,,,,,5,0.89,,,
+America,Argentina,2007,60,43,,,,760,1.9,,,
+Asia,Brunei Darussalam,2003,60,38,,,,10,2.8,,,
+Africa,Libya,2012,60,27,34,,,410,6.7,,,
+America,Panama,2000,60,43,,,,210,7,,,
+Africa,Burkina Faso,2000,60,61,,,,1800,16,,,
+Africa,Uganda,2002,60,55,,,,4900,19,,,
+Asia,India,2002,60,72,,,,584000,54,,,
+Africa,Ghana,2002,60,,,,,11000,58,,,
+Oceania,Papua New Guinea,2004,60,53,,,,5600,90,,,
+Oceania,Australia,1997,60,71,,,,,,,,
+European Union,Belgium,1999,60,57,,,,,,,,
+Africa,Cameroon,1997,60,68,,,,,,,,
+European Union,Czechia,1995,60,,,,,,,,,
+Middle East,Iraq,1998,60,,,,,,,,,
+Africa,Niger,1999,60,58,,,,,,,,
+Asia,Philippines,1995,60,,,,,,,,,
+Europe,Republic of Moldova,1999,60,,,,,,,,,
+America,Saint Kitts and Nevis,1995,60,,,,,,,,,
+Africa,Togo,1995,60,33,,,,,,,,
+Asia,Turkmenistan,1999,60,,,,,,,,,
+America,Jamaica,2008,59,67,56,,,13,0.46,100,0,0
+European Union,Cyprus,2014,59,50,,,,6,0.52,55,0,0
+Oceania,Samoa,2008,59,,,0,,1,0.62,0,0,0
+European Union,Denmark,2013,59,48,43,,100,16,0.29,96,2,0
+Africa,Central African Republic,2010,59,58,52,,,3400,77,0.25,9,0
+Africa,Central African Republic,2011,59,55,,,,3500,77,0,18,0
+European Union,Poland,2013,59,42,,22,0,580,1.5,93,47,0
+Asia,Azerbaijan,2005,59,37,60,,,730,8.5,29,800,0
+Africa,Libya,2011,59,,,,,420,6.7,0,2,2
+European Union,Ireland,2013,59,62,13,33,,23,0.49,93,5,4
+America,Bahamas,2002,59,,,,,4,1.4,,,
+America,Trinidad and Tobago,2004,59,50,39,,,24,1.9,,,
+Africa,Togo,2001,59,52,,,,390,7.6,,,
+Africa,Libya,2013,59,20,27,,,510,8.2,,,
+Africa,Libya,2016,59,14,46,,,610,9.8,,,
+Africa,Lesotho,2007,59,54,64,60,,1300,66,,,
+Oceania,Papua New Guinea,2007,59,,,,,5600,85,,,
+Africa,Central African Republic,2003,59,61,,,,5400,135,,,
+Africa,Burkina Faso,1998,59,88,,,,,,,,
+Africa,Cameroon,1996,59,,,,,,,,,
+Africa,Mali,1995,59,,,,,,,,,
+Africa,Sudan,1997,59,54,,,,,,,,
+Asia,Turkmenistan,1997,59,,,,,,,,,
+Europe,Croatia,2016,58,42,,,,58,1.4,76,0,0
+Africa,Gambia,2006,58,,,,,410,28,,1,0
+Europe,Croatia,2008,58,,33,,,100,2.3,0,4,0
+European Union,Belgium,2005,58,38,61,,,90,0.86,89,13,0
+European Union,Spain,2014,58,52,39,,,290,0.61,52,39,0
+European Union,Poland,2014,58,49,,18,20,580,1.5,95,49,0
+Africa,Gabon,2014,58,50,,,,1900,100,2.7,59,0
+Asia,Azerbaijan,2007,58,44,,,,360,4.2,16,196,0
+Africa,Equatorial Guinea,2014,58,14,28,33,,190,17,0.29,7,4
+America,Chile,2014,58,14,40,31,,400,2.3,76,23,10
+Africa,Botswana,2008,58,45,57,49,,470,24,14,126,79
+America,Argentina,2002,58,,,,,910,2.4,,,
+Asia,Japan,2001,58,57,,,,4800,3.7,,,
+Africa,Rwanda,2002,58,44,,,,460,5.3,,,
+Oceania,Nauru,2006,58,,,,,1,11,,,
+America,Guyana,2006,58,31,54,0,,110,14,,,
+Africa,Equatorial Guinea,2007,58,19,52,,,140,16,,,
+Africa,Chad,2002,58,89,,,,3100,35,,,
+Africa,Mauritania,2003,58,51,,50,,1300,44,,,
+Africa,Niger,2002,58,,,,,6000,49,,,
+Oceania,Papua New Guinea,2003,58,47,,,,5200,87,,,
+Africa,Central African Republic,2000,58,49,,,,3900,105,,,
+Asia,Georgia,1995,58,32,,,,,,,,
+European Union,Germany,1999,58,50,,,,,,,,
+Asia,Indonesia,1998,58,73,,,,,,,,
+Africa,Namibia,1997,58,62,,,,,,,,
+Africa,Senegal,1999,58,45,,,,,,,,
+Africa,South Africa,1995,58,,,,,,,,,
+Asia,Thailand,1997,58,55,,,,,,,,
+America,Saint Lucia,2011,57,,0,,,0,0,29,0,0
+America,Costa Rica,2009,57,0,,100,,48,1.1,0,0,0
+Africa,Libya,2014,57,48,26,,,580,9.3,0,0,0
+European Union,Ireland,2015,57,35,43,,,24,0.51,45,1,1
+Oceania,Palau,2014,57,,,100,,1,6.2,86,1,1
+America,Argentina,2004,57,47,29,,,770,2,,,
+America,Costa Rica,2000,57,32,,,,84,2.1,,,
+America,Saint Vincent and the Grenadines,2006,57,0,,,,3,2.8,,,
+America,Ecuador,2006,57,56,,51,,1100,7.6,,,
+Africa,Lesotho,2004,57,,,,,1400,73,,,
+Africa,Côte d'Ivoire,2000,57,55,,,,14000,85,,,
+Europe,Bosnia and Herzegovina,1996,57,,,,,,,,,
+America,Haiti,1996,57,,,,,,,,,
+Africa,Niger,1996,57,61,,,,,,,,
+Asia,Russia,1996,57,64,,,,,,,,
+Africa,South Africa,1999,57,46,,,,,,,,
+Asia,Japan,2009,56,48,29,,,3800,2.9,0,0,0
+Europe,Bosnia and Herzegovina,2016,56,,0,,,130,3.7,77,0,0
+Asia,Japan,2010,56,47,33,,,3800,3,54,95,0
+European Union,Ireland,2014,56,48,47,50,,24,0.51,,2,2
+Middle East,Saudi Arabia,2013,56,39,17,,,1100,3.5,0.51,26,23
+America,Argentina,2012,56,44,24,34,,640,1.5,0,63,63
+America,Colombia,2008,56,,,0,0,1500,3.3,9.7,91,91
+European Union,Cyprus,2015,56,,100,,,3,0.24,,,
+European Union,Ireland,2001,56,43,,,,32,0.83,,,
+America,Suriname,2001,56,0,,,,12,2.6,,,
+Asia,Brunei Darussalam,2001,56,,,,,14,4.2,,,
+Asia,Azerbaijan,2008,56,50,,57,,480,5.5,,,
+Africa,Uganda,2001,56,63,,,,5600,23,,,
+Africa,Namibia,2000,56,55,,,,600,32,,,
+Africa,Guinea-Bissau,2001,56,31,,,,680,54,,,
+Africa,Guinea-Bissau,2002,56,66,,,,710,55,,,
+Africa,Ghana,2001,56,,,,,11000,58,,,
+Africa,Côte d'Ivoire,1996,56,59,,,,,,,,
+Oceania,Papua New Guinea,1995,56,,,,,,,,,
+America,Paraguay,1998,56,,,,,,,,,
+Middle East,Saudi Arabia,1997,56,,,,,,,,,
+America,Belize,2012,55,,53,,,9,2.6,0,0,0
+Oceania,Fiji,2006,55,,,,,24,2.9,59,0,0
+Africa,Gabon,2013,55,41,,,,1900,107,0,8,0
+Africa,Mauritania,2005,55,,,,,1400,45,12,11,0
+Asia,Japan,2011,55,46,33,,,3700,2.9,51,86,60
+America,Argentina,2006,55,43,,,,760,1.9,,,
+Middle East,Kuwait,2002,55,,,60,,45,2.1,,,
+European Union,Hungary,2002,55,39,,,,330,3.2,,,
+America,Brazil,2001,55,23,,,,7700,4.4,,,
+America,Guyana,2000,55,53,,,,79,11,,,
+America,Guyana,2003,55,70,,,,98,13,,,
+America,Guyana,2005,55,57,48,,,110,14,,,
+America,Argentina,1999,55,55,,,,,,,,
+America,Argentina,1998,55,,,,,,,,,
+Asia,Armenia,1995,55,50,,,,,,,,
+Oceania,Australia,1996,55,,,,,,,,,
+America,Ecuador,1997,55,34,,,,,,,,
+America,Guyana,1999,55,71,,,,,,,,
+Asia,laos,1996,55,48,,,,,,,,
+Africa,Madagascar,1995,55,,,,,,,,,
+Africa,Mozambique,1996,55,70,,,,,,,,
+Africa,Senegal,1997,55,55,,,,,,,,
+America,Suriname,2010,54,55,47,,,20,3.9,0.7,0,0
+Africa,Gabon,2012,54,18,,,,1800,105,0,0,0
+America,Suriname,2008,54,33,43,,,18,3.5,52,1,0
+America,Trinidad and Tobago,2006,54,44,32,,,50,3.8,12,1,0
+Africa,Chad,2010,54,73,,,,3200,27,0,3,0
+Asia,Japan,2013,54,46,40,,,3400,2.7,57,64,0
+Africa,Equatorial Guinea,2008,54,36,,,,140,16,0.16,5,1
+European Union,Poland,2016,54,41,,,,490,1.3,65,51,46
+Asia,Japan,2012,54,49,30,,,3600,2.8,66,79,60
+European Union,France,2016,54,51,,,,400,0.62,70,71,71
+America,Argentina,2016,54,45,29,,,640,1.5,0,114,114
+Asia,Japan,2006,54,45,47,,,4200,3.3,,,
+Europe,Republic of Moldova,2002,54,37,,,,660,16,,,
+Africa,Chad,2006,54,,,,,3500,33,,,
+Asia,India,2001,54,58,,,,590000,55,,,
+Africa,Central African Republic,2001,54,60,,,,4600,121,,,
+European Union,Germany,1998,54,50,,,,,,,,
+European Union,Germany,1997,54,57,,,,,,,,
+Africa,Ghana,1998,54,,,,,,,,,
+Africa,Ghana,1995,54,74,,,,,,,,
+Asia,Indonesia,1997,54,,,,,,,,,
+America,Mexico,1996,54,,,,,,,,,
+Oceania,Papua New Guinea,1999,54,60,,,,,,,,
+Middle East,Saudi Arabia,1996,54,,,,,,,,,
+America,Jamaica,2005,53,20,50,,,22,0.79,19,0,0
+Asia,Japan,2015,53,,46,,,3000,2.4,46,78,0
+European Union,Finland,2013,53,17,,,,31,0.58,,2,2
+Middle East,Syrian Arab Republic,2012,53,62,80,0,,52,0.26,13,41,7
+European Union,Poland,2015,53,43,,32,75,580,1.5,65,44,34
+Asia,Japan,2014,53,,38,,,3300,2.6,65,81,56
+Africa,South Africa,2010,53,35,,40,17,24000,46,0,16544,5402
+America,Jamaica,2003,53,73,,,,43,1.6,,,
+Africa,Cabo Verde,2002,53,67,,,,28,6.2,,,
+Africa,Senegal,2001,53,43,,,,2900,29,,,
+Africa,Congo,2006,53,57,,,,2400,62,,,
+Oceania,Papua New Guinea,2002,53,51,,,,5400,93,,,
+Africa,Cameroon,1995,53,,,,,,,,,
+Africa,Zimbabwe,1995,53,,,,,,,,,
+European Union,Denmark,2014,52,63,25,50,,13,0.23,98,1,0
+Africa,South Sudan,2012,52,40,39,,,3000,28,0,3,0
+Oceania,Micronesia,2008,52,60,,25,,23,22,,4,1
+America,Argentina,2014,52,37,34,26,40,630,1.5,36,114,78
+Middle East,Bahrain,2007,52,,0,50,,10,0.93,,,
+America,Bahamas,2005,52,75,,,,4,1.3,,,
+America,Belize,2004,52,82,36,,,9,3.4,,,
+Asia,Malaysia,2004,52,35,,,,1500,6,,,
+Africa,Senegal,2000,52,48,,,,2900,29,,,
+America,Belize,1995,52,23,,,,,,,,
+European Union,Hungary,1996,52,,,,,,,,,
+America,Panama,1998,52,40,,,,,,,,
+America,Panama,1997,52,27,,,,,,,,
+Middle East,Yemen,1996,52,54,,,,,,,,
+Middle East,Yemen,1995,52,43,,,,,,,,
+America,Argentina,2013,51,40,32,15,0,670,1.6,27,85,0
+Africa,Eswatini,2007,51,37,48,,,220,20,0,110,0
+Middle East,Oman,2016,51,,33,,,22,0.5,89,6,4
+Asia,Japan,2008,51,44,33,,,4000,3.1,,,
+Asia,Japan,2005,51,45,,,,4400,3.4,,,
+Africa,Equatorial Guinea,2003,51,,,,,95,14,,,
+Africa,Egypt,1996,51,57,,,,,,,,
+Africa,Ghana,1999,51,,,,,,,,,
+Africa,Ghana,1996,51,55,,,,,,,,
+Africa,Namibia,1999,51,48,,,,,,,,
+America,Paraguay,1995,51,,,,,,,,,
+European Union,Romania,1995,51,,,,,,,,,
+America,Antigua and Barbuda,2015,50,,,,,0,0,0,0,0
+America,Saint Lucia,2009,50,33,0,,,1,0.73,0,0,0
+Oceania,Cook Islands,2008,50,,,,,0,0.98,0,0,0
+European Union,Cyprus,2013,50,,,,,2,0.13,88,1,0
+European Union,Cyprus,2008,50,100,,,,1,0.14,,1,0
+Oceania,Cook Islands,2013,50,,,,,0,1.1,100,1,0
+America,Antigua and Barbuda,2012,50,,0,,,0,0,0,0,1
+Africa,Gabon,2015,50,48,,57,,1800,94,1.5,15,4
+Europe,Andorra,2000,50,,,,,0,0,,,
+America,Antigua and Barbuda,2005,50,,60,,,0,0,,,
+European Union,Denmark,2015,50,39,13,0,,17,0.31,,,
+America,Saint Lucia,2001,50,100,,,,1,0.8,,,
+America,Grenada,2003,50,,,,,1,1,,,
+America,Antigua and Barbuda,2007,50,,,,,1,1.4,,,
+America,Dominica,2006,50,,,,,1,1.4,,,
+Oceania,Nauru,2002,50,,,,,0,4.7,,,
+Africa,Mali,2002,50,47,,,,1600,14,,,
+Africa,Mali,2001,50,56,,,,1600,14,,,
+Africa,Ghana,2000,50,,,,,11000,59,,,
+Oceania,Papua New Guinea,2010,50,46,,39,,6600,94,,,
+America,Antigua and Barbuda,1999,50,,,,,,,,,
+America,Antigua and Barbuda,1998,50,,,,,,,,,
+Africa,Gabon,1998,50,,,,,,,,,
+Africa,Gabon,1997,50,,,,,,,,,
+America,Grenada,1998,50,,,,,,,,,
+Asia,Indonesia,1999,50,70,,,,,,,,
+Asia,Kyrgyzstan,1996,50,61,,,,,,,,
+Oceania,Nauru,1999,50,0,,,,,,,,
+America,Saint Kitts and Nevis,1999,50,0,,,,,,,,
+America,Argentina,2011,49,41,22,28,,690,1.7,0,103,103
+America,Jamaica,2002,49,71,,,,22,0.83,,,
+Asia,Japan,2004,49,42,,,,4300,3.4,,,
+Africa,Nigeria,1995,49,,,,,,,,,
+Africa,Seychelles,2011,48,,50,,,1,1.2,0,0,0
+Asia,Japan,2007,48,38,,,,4100,3.2,30,58,0
+Africa,Angola,2010,48,64,75,,,17000,74,0,3,3
+Africa,Gabon,2016,48,45,,,,1800,92,12,30,13
+European Union,Hungary,2003,48,40,,,,300,3,,,
+Africa,Zimbabwe,2004,48,53,,,,2600,20,,,
+Africa,Gabon,2011,48,40,36,,,1800,109,,,
+Asia,Democratic Republic of the Congo,1996,48,33,,,,,,,,
+Africa,Ghana,1997,48,,,,,,,,,
+European Union,Ireland,1999,48,,,,,,,,,
+Africa,Senegal,1998,48,54,,,,,,,,
+Oceania,Tuvalu,2014,47,,,,,1,13,0,0,0
+Africa,Central African Republic,2009,47,32,61,,,3200,73,4.4,7,0
+European Union,Finland,2010,47,50,,,,48,0.9,98,7,6
+America,Chile,2013,47,5,13,21,,490,2.8,13,25,14
+America,Argentina,2015,47,38,28,21,20,650,1.5,8,120,110
+America,Argentina,2000,47,,,,,910,2.5,,,
+America,Guatemala,2006,47,,,,,370,2.8,,,
+Africa,Eswatini,2002,47,29,,,,170,16,,,
+Africa,Gabon,2002,47,37,,,,1500,119,,,
+Africa,Botswana,1998,47,63,,,,,,,,
+Africa,Chad,1995,47,48,,,,,,,,
+Africa,Lesotho,1995,47,,,,,,,,,
+America,Belize,2007,46,,50,,,9,3,0,1,0
+America,Argentina,2005,46,33,22,,,790,2,46,276,0
+America,Dominican Republic,2008,46,0,30,69,,690,7.1,0,12,71
+European Union,Poland,2004,46,23,67,,,910,2.4,,,
+European Union,Hungary,2001,46,32,,,,380,3.7,,,
+Asia,Tajikistan,2003,46,67,,,,700,11,,,
+Africa,Namibia,2004,46,53,,,,830,42,,,
+Africa,Gabon,2005,46,30,40,,,1700,120,,,
+America,Jamaica,2006,45,80,32,,,10,0.36,33,0,0
+European Union,Belgium,2008,45,29,63,67,50,78,0.72,,22,0
+Asia,Malaysia,2006,45,35,,,,1400,5.5,0,42,0
+America,Argentina,2010,45,32,,,,590,1.4,0,109,0
+European Union,Finland,2014,45,40,,,,41,0.74,,8,9
+Africa,Angola,2012,45,20,0,,,17000,67,0,45,45
+America,Canada,2003,45,36,,33,,130,0.41,,,
+America,Jamaica,2000,45,,,,,21,0.81,,,
+Asia,Japan,2000,45,47,,,,5100,4,,,
+Africa,Seychelles,2002,45,,,,,4,4.8,,,
+Asia,Afghanistan,1997,45,,,,,,,,,
+Africa,Burundi,1995,45,46,,,,,,,,
+Europe,Croatia,2013,44,17,,,,54,1.3,83,0,0
+Europe,Montenegro,2006,44,32,100,67,,6,0.96,89,2,0
+Middle East,Bahrain,2012,44,,0,,,5,0.37,,4,0
+European Union,Germany,2006,44,40,,54,,440,0.54,,78,0
+America,Jamaica,2011,44,25,29,100,,8,0.28,64,1,1
+European Union,Finland,2012,44,55,,,,49,0.91,99,3,3
+America,Chile,2012,44,11,40,56,,500,2.9,8.4,24,8
+Africa,Eritrea,1999,44,69,,,,,,,,
+America,Guyana,1995,44,,,,,,,,,
+Europe,Norway,1997,44,78,,,,,,,,
+America,Panama,1999,44,40,,,,,,,,
+Africa,Senegal,1996,44,62,,,,,,,,
+Africa,Senegal,1995,44,56,,,,,,,,
+Africa,Uganda,1995,44,,,,,,,,,
+European Union,Cyprus,2012,43,50,,,,6,0.53,93,0,0
+America,Argentina,2009,43,30,17,,,680,1.7,0,89,0
+Africa,Equatorial Guinea,2015,43,20,45,95,,180,15,10,39,26
+America,Jamaica,2004,43,43,15,,,23,0.83,,,
+Europe,Ukraine,1996,43,,,,,,,,,
+America,Canada,2001,42,41,,,,150,0.47,,,
+Africa,Cabo Verde,2001,42,,,,,28,6.2,,,
+Africa,Eswatini,2003,42,,,,,200,18,,,
+Africa,Gabon,2006,42,50,,,,1500,107,,,
+America,Argentina,1997,42,,,,,,,,,
+European Union,Cyprus,1998,42,,,,,,,,,
+European Union,Romania,1998,42,89,,,,,,,,
+America,Saint Vincent and the Grenadines,2011,41,,40,,,5,4.5,12,0,0
+Africa,Angola,2009,41,66,,100,,17000,77,0,0,0
+European Union,Finland,2007,41,47,,,,56,1.1,,2,0
+European Union,Finland,2009,41,31,,,,54,1,,4,0
+Africa,Mauritania,2006,41,33,50,,,1200,36,4.1,7,0
+America,Guyana,2004,41,100,35,,,130,18,,,
+America,Dominican Republic,1998,41,,,,,,,,,
+European Union,Romania,1996,41,,,,,,,,,
+Asia,Maldives,2009,40,0,,,,8,2.3,0,0,0
+European Union,Finland,2008,40,50,,,,60,1.1,,1,0
+European Union,Finland,2011,40,25,,,,61,1.1,97,5,0
+Europe,Croatia,2005,40,33,,,,120,2.7,,9,0
+Africa,Liberia,2013,40,64,52,,,2300,53,3.5,37,14
+European Union,Italy,2001,40,52,,,,440,0.77,,,
+Oceania,Nauru,2010,40,,,,,0,2.8,,,
+Africa,Gabon,2004,40,29,,,,1600,118,,,
+America,Brazil,1998,40,,,,,,,,,
+America,Canada,1997,40,42,,,,,,,,
+Africa,Uganda,1997,40,58,,,,,,,,
+America,Canada,1998,39,32,,,,,,,,
+America,Ecuador,1995,39,,,,,,,,,
+Asia,Japan,1999,39,41,,,,,,,,
+Africa,Mozambique,1995,39,,,,,,,,,
+America,Argentina,2008,38,25,,,,660,1.6,0,142,112
+European Union,Denmark,2016,38,54,22,,,17,0.31,,,
+Europe,Croatia,2003,38,,,,,160,3.7,,,
+Oceania,Palau,2002,38,,,,,1,5.3,,,
+Africa,Eswatini,2006,38,28,,,,230,20,,,
+Asia,Maldives,2014,37,,,,,13,3.2,5.9,0,0
+European Union,Cyprus,2004,37,100,,,,5,0.45,,,
+Africa,Angola,2008,37,56,,,,15000,69,,,
+Africa,Central African Republic,1995,37,,,,,,,,,
+America,Jamaica,2010,36,32,20,,,12,0.44,31,1,1
+America,Belize,2013,36,67,12,50,,18,5.3,8,3,1
+European Union,Ireland,2016,36,32,25,,,24,0.51,56,7,6
+European Union,Finland,2015,36,33,,50,,33,0.61,84,8,8
+America,Canada,2002,36,31,,,,150,0.46,,,
+Africa,Eswatini,2001,36,35,,,,150,14,,,
+Africa,Eswatini,2004,36,15,,,,200,19,,,
+Africa,Eswatini,2005,36,28,,,,220,20,,,
+America,Canada,1999,36,25,,,,,,,,
+America,Belize,2014,35,,28,100,,5,1.4,6.1,0,1
+America,Canada,2000,35,32,,,,140,0.46,,,
+Africa,Guinea-Bissau,1999,35,25,,,,,,,,
+Asia,Philippines,1996,35,66,,,,,,,,
+Africa,Angola,2014,34,66,,72,,18000,65,0.13,307,307
+Asia,India,2000,34,70,,,,628000,60,,,
+Africa,Gabon,2003,34,17,,,,1600,123,,,
+Asia,South Korea,1997,34,,,,,,,,,
+America,Antigua and Barbuda,2010,33,,20,,,0,0,0,0,0
+America,Grenada,2008,33,,0,,,0,0,,,
+Europe,Croatia,2004,33,29,,,,160,3.7,,,
+Asia,Afghanistan,1998,33,78,,,,,,,,
+America,Ecuador,1996,33,,,,,,,,,
+Africa,Uganda,1996,33,32,,,,,,,,
+European Union,Finland,2016,32,27,,,,30,0.54,83,6,6
+Africa,Nigeria,1996,32,71,,,,,,,,
+Africa,Zimbabwe,1996,32,,,,,,,,,
+Europe,Croatia,2006,31,62,,,,140,3.3,,3,0
+Africa,Djibouti,2012,31,,,,,420,48,0,96,65
+Oceania,New Zealand,2000,30,30,,,,25,0.65,,,
+Africa,Gabon,2007,30,42,,,,1400,95,,,
+Africa,Burkina Faso,1996,29,,,,,,,,,
+Oceania,Timor-Leste,2010,28,86,,50,,550,50,0,5,0
+Africa,Congo,2005,28,14,,,,1900,50,,,
+Africa,Angola,2011,27,0,,0,,17000,72,0.13,69,5
+Africa,Angola,2016,27,28,0,,,17000,61,0.31,167,334
+America,Brazil,1997,27,,,,,,,,,
+Asia,India,1998,27,72,,,,,,,,
+European Union,Cyprus,2010,26,,,,,2,0.14,65,0,0
+Europe,Montenegro,2005,26,20,,,,4,0.61,88,7,0
+Africa,Sudan,1996,26,,,,,,,,,
+Africa,Comoros,2011,25,,25,,,57,8,0,0,0
+America,Saint Lucia,2002,25,44,,,,0,0,,,
+America,Saint Kitts and Nevis,2007,25,,0,,,1,2.3,,,
+Oceania,Nauru,2000,25,,,,,0,3.8,,,
+Oceania,Tuvalu,2002,25,,,,,1,13,,,
+Africa,Burkina Faso,1995,25,77,,,,,,,,
+Asia,India,1995,25,70,,,,,,,,
+Oceania,Marshall Islands,1995,25,,,,,,,,,
+America,Saint Kitts and Nevis,1998,25,,,,,,,,,
+European Union,Malta,2012,24,,50,,,1,0.23,81,0,0
+Oceania,Marshall Islands,2015,24,38,,100,,19,36,20,1,1
+America,Jamaica,2015,23,,11,,,8,0.28,38,0,0
+America,Jamaica,2016,23,,0,,,8,0.28,55,0,0
+European Union,Cyprus,2009,23,17,,,,0,0,96,4,0
+Africa,Angola,2013,23,39,0,77,,15000,59,0,232,116
+America,Argentina,1996,23,,,,,,,,,
+Asia,Pakistan,1998,23,92,,,,,,,,
+Africa,Mauritania,2004,22,4,,,,1100,35,,,
+Middle East,Bahrain,1996,21,,,,,,,,,
+Asia,India,1999,21,69,,,,,,,,
+Asia,India,1996,21,67,,,,,,,,
+America,Brazil,1996,20,,,,,,,,,
+America,Jamaica,2014,18,,5,,,8,0.28,100,0,0
+Africa,Angola,2006,18,,,,,11000,52,,,
+Asia,India,1997,18,65,,,,,,,,
+America,Antigua and Barbuda,2011,17,50,20,,,0,0,0,0,0
+America,Brazil,1995,17,,,,,,,,,
+America,Paraguay,1996,16,,,,,,,,,
+Africa,Angola,1997,15,10,,,,,,,,
+America,Guyana,1997,15,,,,,,,,,
+America,Suriname,1995,14,,,,,,,,,
+Middle East,Bahrain,1998,13,,,,,,,,,
+America,Argentina,1995,12,,,,,,,,,
+Europe,Croatia,2015,10,,,,,46,1.1,,,
+Europe,Croatia,2012,9,22,,,,60,1.4,100,1,0
+Oceania,New Zealand,2001,9,,,,,11,0.28,,,
+European Union,Luxembourg,2013,0,,,,,0,0,,0,0
+European Union,Luxembourg,2010,0,,,,,1,0.2,100,0,0
+Oceania,Cook Islands,2011,0,,,,,0,0.52,0,0,0
+America,Saint Vincent and the Grenadines,2009,0,0,0,,,1,0.96,0,0,0
+Oceania,Cook Islands,2014,0,,,,,0,1.1,0,0,0
+America,Belize,2010,0,0,0,,,15,4.7,0,0,0
+America,Saint Vincent and the Grenadines,2010,0,,0,,,6,5.5,22,0,0
+Oceania,Cook Islands,2012,0,,,100,,0,0.53,0,1,1
+America,Saint Kitts and Nevis,2004,0,0,,,,0,0,,,
+America,Saint Kitts and Nevis,2002,0,,,,,0,0,,,
+Europe,San Marino,2000,0,,,,,0,0,,,
+Oceania,Cook Islands,2004,0,,,,,0,0.48,,,
+Oceania,Cook Islands,2001,0,,,,,0,1,,,
+America,Bahamas,1996,0,,,,,,,,,
+Oceania,Tuvalu,1997,0,,,,,,,,,
+America,Saint Kitts and Nevis,2014,,,,100,,0,0,0,0,0
+America,Belize,2011,,,0,,,14,4.3,0,0,0
+European Union,Netherlands,2006,,,85,,,79,0.48,,5,0
+European Union,Austria,2007,,,,0,,48,0.57,,9,0
+Europe,Switzerland,2014,,,,75,0,13,0.15,85,17,0
+America,Belize,2009,,,,100,,15,4.9,1.2,1,1
+Oceania,Timor-Leste,2009,,,,0,,440,40,0,4,1
+Middle East,Qatar,2014,,,,100,,8,0.35,,2,2
+Middle East,Kuwait,2012,,,,75,,37,1.1,0,4,4
+Oceania,Micronesia,2012,,,,100,,20,19,8.6,4,13
+Europe,Switzerland,2015,,,,44,,17,0.2,80,16,14
+America,Haiti,2008,,,,58,,1200,12,0,43,43
+Africa,Mozambique,2011,,,,31,,16000,65,1.1,303,146
+Africa,Angola,2015,,,,72,,17000,59,0,227,227
+Asia,Kyrgyzstan,2010,,,,42,14,650,12,14,575,566
+Asia,Kyrgyzstan,2012,,,,63,,650,12,99,1755,775
+America,Saint Kitts and Nevis,2005,,50,,,,0,0,,,
+Europe,San Marino,2003,,100,,,,0,0,,,
+European Union,Spain,2015,,,,41,,250,0.54,,,
+America,Jamaica,2001,,67,,,,16,0.6,,,
+Oceania,New Zealand,2003,,60,,0,,27,0.68,,,
+America,Saint Vincent and the Grenadines,2002,,0,,,,1,0.96,,,
+America,Uruguay,2003,,73,,,,75,2.3,,,
+America,Uruguay,2004,,,56,,,87,2.6,,,
+America,Mexico,2001,,55,,,,3700,3.6,,,
+America,Belize,2006,,,20,,,17,6,,,
+Middle East,Morocco,2001,,72,,,,2600,9,,,
+Africa,Djibouti,2001,,67,,,,500,69,,,
+Africa,Gabon,2001,,33,,,,1300,103,,,
