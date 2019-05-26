@@ -32,7 +32,7 @@ df<-read.csv("TB Combined dataset_3.csv",na.strings = NA,fill = NA)
 
 #filter relevant data
 df1<-df %>%
-  filter(Year=="2015")%>%
+  filter(Year=="2016")%>%
   group_by(Country)
 #Country[28]
 

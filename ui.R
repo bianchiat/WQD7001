@@ -61,7 +61,7 @@ navbarPage("TB", id="nav",
                                       draggable = FALSE, top = 55, left = "auto", right = 10, bottom = "auto",
                                       width = 400, height = "100%",
                                       
-                                      h2("TB data Explorer"),
+                                      h2("2016 TB Data Explorer"),
                                       
                                       selectInput("typeofdisease", "Select the type of disease", vars),
                                       
