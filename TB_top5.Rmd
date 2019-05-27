@@ -41,7 +41,7 @@ library(lattice)
 library(treemap)
 library(tidyr)
 
-setwd('C:/Users/bianchiat.goh/Desktop/Pvvvvv/Personal Developement/Master Study/WQD7001/WQD7001 Assignment/WQD7001 Group Assignment/R Code-final')
+# setwd('C:/Users/bianchiat.goh/Desktop/Pvvvvv/Personal Developement/Master Study/WQD7001/WQD7001 Assignment/WQD7001 Group Assignment/R Code-final')
 df<-read.csv("TB Combined dataset_3.csv",na.strings = NA,fill = NA)
 
 
