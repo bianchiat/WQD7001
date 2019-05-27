@@ -41,6 +41,7 @@ library(lattice)
 library(treemap)
 library(tidyr)
 
+setwd('C:/Users/bianchiat.goh/Desktop/Pvvvvv/Personal Developement/Master Study/WQD7001/WQD7001 Assignment/WQD7001 Group Assignment/R Code-final')
 df<-read.csv("TB Combined dataset_3.csv",na.strings = NA,fill = NA)
 
 
@@ -49,7 +50,7 @@ df1<-df %>%
   group_by(Country)
 
 
-df1$New_cases_RR.MDR<-as.numeric(as.character(df1$New_cases_RR.MDR))
+df1$Confirm_cases_RR.MDR<-as.numeric(df1$Confirm_cases_RR.MDR)
 ```
 
 ## Significance/Motivation
@@ -73,7 +74,7 @@ The data of tuberculosis were obtained from:
 
 ## Top 5 Highest Multi Drug Resistance TB incident in 2016 by country
 
-```{r,echo=FALSE,max_height = "200px", max_width = '200px' }
+```{r,echo=FALSE,max_height = "200px"}
 
 TSpecial <- ttheme_minimal(
   core=list(bg_params = list(fill = blues9[1:4], col=NA),
@@ -82,8 +83,8 @@ TSpecial <- ttheme_minimal(
   rowhead=list(fg_params=list(col="orangered4", fontface=3L)))
 
 df1%>%
-  select(Country,New_cases_RR.MDR) %>%
-  arrange(desc(New_cases_RR.MDR)) %>%
+  select(Country,Confirm_cases_RR.MDR) %>%
+  arrange(desc(Confirm_cases_RR.MDR)) %>%
   head(5)%>%
   grid.table(theme = TSpecial)
 
