@@ -73,7 +73,7 @@ The data of tuberculosis were obtained from:
 
 
 ## Top 5 Highest Multi Drug Resistance TB incident in 2016 by country
-
+- Top 3 highest country in confirm cases of RR/MDR TB make up for 54% of worldwide total RR/MRD Cases.
 ```{r,echo=FALSE,max_height = "200px"}
 
 TSpecial <- ttheme_minimal(
