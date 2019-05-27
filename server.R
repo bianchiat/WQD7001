@@ -18,10 +18,7 @@ library(rlang)
 
 # Define server logic required to draw a histogram
 function(input, output, session) {
-  #dftable <- reactive({dff2[order(input$typeofdisease ,na.first=TRUE),]  })
-  
- 
-  
+
   target_quo = reactive ({
     parse_quosure(input$typeofdisease)
   })
@@ -46,14 +43,8 @@ function(input, output, session) {
                                   attribution = 'Maps by <a href="http://www.mapbox.com/">Mapbox</a>')%>%
       addPolygons(stroke = FALSE, smoothFactor = 0.3, fillOpacity = 0.5,
                   label = paste(dff$Country, ":", dfmap()[,1]),
-                  #label = paste(dff$Country, ":", (dff2$TB_Death_HIVneg_per100k_pop)),
-                  #color = pal(log10(dff2$TB_Death_HIVneg_per100k_pop))
-                  #color = pal(dff2$TB_Death_HIVneg_per100k_pop)
-                  #color = pal(dfmap()[,1])
-                  #color = pal(log10(dfmap()[,1]))
                   color = pal(rescale(dfmap()[,1],na.rm=TRUE))
-                  #rescale(dff2$Confirm_cases_RR.MDR, na.rm = TRUE)
-                  
+                 
                   
       )%>%
       setView(lng = 0, lat = 40, zoom = 2) %>%
@@ -65,8 +56,4 @@ function(input, output, session) {
 output$data <- renderTable({
   head((dftable()[, c("Country", input$typeofdisease), drop = FALSE]) ,10)
 }, rownames = TRUE)
-
-#output$data <- renderDataTable(dftable())
-  #head((dftable()[, c("Country", input$typeofdisease), drop = FALSE]),10)
-  #output$data <- renderDataTable(dftable())
 }

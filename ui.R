@@ -7,15 +7,6 @@
 #    http://shiny.rstudio.com/
 #
 
-#install.packages("jsonlite")
-#install.packages("geojsonio")
-#install.packages("dplyr")
-#install.packages("leaflet")
-#install.packages("shiny")
-#install.packages("RColorBrewer")
-#install.packages("scales")
-#install.packages("lattice")
-#install.packages("DT")
 library(jsonlite)
 library(geojsonio)
 library(dplyr) 
@@ -29,13 +20,6 @@ library(DT)
 vars <- names(dff2)
 vars <-vars[-1:-4]
 
-
-#vars <- c(
-# "Treat Succ-New Cases" = "Treat Succ-New Cases",
-# "Death" = "TB_Death_HIVminusper100k_pop"
-#)
-
-#vars2 <- c("2014","2015")
 
 # Define UI for application that draws a histogram
 navbarPage("TB", id="nav",

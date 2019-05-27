@@ -74,16 +74,6 @@ The data of tuberculosis were obtained from:
 ## Top 5 Highest Multi Drug Resistance TB incident in 2016 by country
 
 ```{r,echo=FALSE,max_height = "200px", max_width = '200px' }
-#df1%>%
-#  select(Country,New_cases_RR.MDR) %>%
-#  arrange(desc(New_cases_RR.MDR)) %>%
-#  head(5)
-
-#df1%>%
-#  select(Country,New_cases_RR.MDR) %>%
-#  drop_na()%>%
-#  arrange(desc(New_cases_RR.MDR)) %>%
-#  tail(5)
 
 TSpecial <- ttheme_minimal(
   core=list(bg_params = list(fill = blues9[1:4], col=NA),
